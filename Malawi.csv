@@ -1,0 +1,490 @@
+Species,Name,Family,Habitat,Length (cm),Trophic Level,Status,Lake
+Brycinus imberi,Spot-tail,Alestidae,demersal,19.8 TL,3.3,native,Malawi
+Hemigrammopetersius barnardi,Barnard's robber,Alestidae,pelagic,7.0 SL,3.4,native,Malawi
+Amphilius chalei,,Amphiliidae,demersal,7.0 SL,3,native,Malawi
+Zaireichthys compactus,,Amphiliidae,demersal,2.6 SL,3,native,Malawi
+Zaireichthys lacustris,,Amphiliidae,benthopelagic,2.2 SL,3,endemic,Malawi
+Zaireichthys maravensis,,Amphiliidae,benthopelagic,3.1 SL,3,endemic,Malawi
+Zaireichthys monomotapa,Eastern sand catlet,Amphiliidae,benthopelagic,4.1 SL,3,native,Malawi
+Zaireichthys rotundiceps,Spotted sand catlet,Amphiliidae,demersal,3.8 SL,3.4,misidentification,Malawi
+Anguilla labiata,African mottled eel,Anguillidae,demersal,175.0 TL,3.8,native,Malawi
+Bagrus meridionalis,Kampoyo,Bagridae,demersal,150.0 SL,3.9,native,Malawi
+Bagrus orientalis,,Bagridae,demersal,44.7 TL,3.8,native,Malawi
+Abactochromis labrosus,,Cichlidae,demersal,11.5 SL,3.4,endemic,Malawi
+Alticorpus geoffreyi,,Cichlidae,benthopelagic,15.5 SL,2.7,endemic,Malawi
+Alticorpus macrocleithrum,,Cichlidae,benthopelagic,12.7 SL,3.5,endemic,Malawi
+Alticorpus mentale,,Cichlidae,benthopelagic,20.1 SL,2.7,endemic,Malawi
+Alticorpus peterdaviesi,,Cichlidae,benthopelagic,15.0 TL,2,endemic,Malawi
+Alticorpus profundicola,,Cichlidae,benthopelagic,12.4 SL,2.8,endemic,Malawi
+Aristochromis christyi,,Cichlidae,benthopelagic,30.0 TL,4,endemic,Malawi
+Astatotilapia calliptera,Eastern happy,Cichlidae,benthopelagic,15.0 SL,3,native,Malawi
+Aulonocara aquilonium,,Cichlidae,benthopelagic,8.5 SL,3.5,native,Malawi
+Aulonocara auditor,,Cichlidae,benthopelagic,8.0 SL,3.5,endemic,Malawi
+Aulonocara baenschi,Nkhomo-benga peacock,Cichlidae,benthopelagic,13.0 TL,3.5,endemic,Malawi
+Aulonocara brevinidus,,Cichlidae,benthopelagic,9.5 SL,3.5,endemic,Malawi
+Aulonocara brevirostre,,Cichlidae,benthopelagic,8.0 SL,3.5,endemic,Malawi
+Aulonocara ethelwynnae,Chitande aulonocara,Cichlidae,benthopelagic,7.1 SL,3.5,endemic,Malawi
+Aulonocara gertrudae,,Cichlidae,benthopelagic,11.0 SL,3.6,native,Malawi
+Aulonocara guentheri,,Cichlidae,benthopelagic,15.0 TL,3.5,endemic,Malawi
+Aulonocara hansbaenschi,Aulonocara Fort Maguire,Cichlidae,benthopelagic,8.4 SL,3.5,endemic,Malawi
+Aulonocara hueseri,Night aulonocara,Cichlidae,benthopelagic,7.9 SL,3.5,endemic,Malawi
+Aulonocara jacobfreibergi,Fairy cichlid,Cichlidae,benthopelagic,15.0 TL,3.6,endemic,Malawi
+Aulonocara kandeense,Blue orchid aulonocara,Cichlidae,benthopelagic,7.8 SL,3.5,endemic,Malawi
+Aulonocara koningsi,,Cichlidae,benthopelagic,9.2 SL,3.5,endemic,Malawi
+Aulonocara korneliae,Aulonocara chizumulu,Cichlidae,benthopelagic,7.8 SL,3.5,endemic,Malawi
+Aulonocara maylandi,Sulfurhead Aulonocara,Cichlidae,benthopelagic,15.0 TL,3.5,endemic,Malawi
+Aulonocara nyassae,Emperor cichlid,Cichlidae,benthopelagic,8.0 SL,3.5,endemic,Malawi
+Aulonocara rostratum,,Cichlidae,benthopelagic,18.0 TL,3.5,endemic,Malawi
+Aulonocara saulosi,Greenface aulonocara,Cichlidae,benthopelagic,9.2 SL,3.5,endemic,Malawi
+Aulonocara steveni,Pale Usisya aulonocara,Cichlidae,benthopelagic,8.9 SL,3.5,endemic,Malawi
+Aulonocara stonemani,,Cichlidae,demersal,5.5 SL,3.3,endemic,Malawi
+Aulonocara stuartgranti,Flavescent peacock,Cichlidae,benthopelagic,11.8 TL,3.5,endemic,Malawi
+Aulonocara trematocephalum,,Cichlidae,benthopelagic,9.0 TL,3.5,endemic,Malawi
+Buccochromis atritaeniatus,,Cichlidae,benthopelagic,28.0 TL,4.2,endemic,Malawi
+Buccochromis heterotaenia,,Cichlidae,benthopelagic,40.0 TL,4.2,endemic,Malawi
+Buccochromis lepturus,Slender tail hap,Cichlidae,benthopelagic,41.7 TL,4.2,endemic,Malawi
+Buccochromis nototaenia,Stripeback hap,Cichlidae,benthopelagic,23.0 TL,4,endemic,Malawi
+Buccochromis oculatus,,Cichlidae,benthopelagic,28.0 TL,4.1,endemic,Malawi
+Buccochromis rhoadesii,,Cichlidae,benthopelagic,34.1 TL,4.2,endemic,Malawi
+Buccochromis spectabilis,,Cichlidae,benthopelagic,25.6 TL,4.1,endemic,Malawi
+Caprichromis liemi,Happy,Cichlidae,benthopelagic,19.1 SL,4,endemic,Malawi
+Caprichromis orthognathus,,Cichlidae,benthopelagic,19.5 TL,4,endemic,Malawi
+Champsochromis caeruleus,,Cichlidae,benthopelagic,32.2 TL,4.2,endemic,Malawi
+Champsochromis spilorhynchus,,Cichlidae,benthopelagic,30.0 TL,4.2,endemic,Malawi
+Cheilochromis euchilus,Malawi thick lip,Cichlidae,benthopelagic,35.0 TL,3.2,endemic,Malawi
+Chilotilapia rhoadesii,Bream,Cichlidae,benthopelagic,22.5 TL,3.4,native,Malawi
+Chindongo ater,,Cichlidae,benthopelagic,8.1 SL,2.4,endemic,Malawi
+Chindongo bellicosus,,Cichlidae,benthopelagic,9.3 SL,2.5,endemic,Malawi
+Chindongo cyaneus,Cyan hap,Cichlidae,demersal,7.8 SL,2.7,endemic,Malawi
+Chindongo demasoni,,Cichlidae,demersal,6.3 SL,2.6,endemic,Malawi
+Chindongo elongatus,Elongate mbuna,Cichlidae,demersal,9.5 SL,2.5,endemic,Malawi
+Chindongo flavus,,Cichlidae,demersal,7.6 SL,3.4,endemic,Malawi
+Chindongo heteropictus,,Cichlidae,demersal,8.6 SL,2.7,endemic,Malawi
+Chindongo longior,,Cichlidae,demersal,8.7 SL,2,endemic,Malawi
+Chindongo minutus,,Cichlidae,demersal,6.6 SL,2,endemic,Malawi
+Chindongo saulosi,,Cichlidae,demersal,8.6 TL,2.6,endemic,Malawi
+Chindongo socolofi,Pindani,Cichlidae,demersal,6.7 SL,2.6,endemic,Malawi
+Copadichromis atripinnis,,Cichlidae,pelagic,10.3 SL,3.3,native,Malawi
+Copadichromis azureus,,Cichlidae,benthopelagic,14.6 TL,3.4,endemic,Malawi
+Copadichromis borleyi,Haplochromis borleyi redfin,Cichlidae,benthopelagic,14.0 TL,3.4,endemic,Malawi
+Copadichromis chizumuluensis,,Cichlidae,benthopelagic,10.6 SL,3.3,endemic,Malawi
+Copadichromis chrysonotus,,Cichlidae,benthopelagic,16.3 TL,3.4,native,Malawi
+Copadichromis cyaneus,,Cichlidae,benthopelagic,19.0 TL,3.4,endemic,Malawi
+Copadichromis cyanocephalus,,Cichlidae,benthopelagic,9.0 SL,3.3,endemic,Malawi
+Copadichromis diplostigma,,Cichlidae,benthopelagic,11.2 SL,3.4,endemic,Malawi
+Copadichromis geertsi,,Cichlidae,benthopelagic,12.8 SL,3.4,endemic,Malawi
+Copadichromis ilesi,,Cichlidae,benthopelagic,11.4 SL,3.4,endemic,Malawi
+Copadichromis insularis,,Cichlidae,benthopelagic,11.0 SL,3.3,endemic,Malawi
+Copadichromis jacksoni,,Cichlidae,benthopelagic,18.3 TL,3.4,endemic,Malawi
+Copadichromis likomae,,Cichlidae,benthopelagic,14.0 TL,3.4,endemic,Malawi
+Copadichromis mbenjii,Haplochromis quads,Cichlidae,benthopelagic,14.0 TL,3.4,endemic,Malawi
+Copadichromis melas,,Cichlidae,demersal,8.9 SL,3.3,endemic,Malawi
+Copadichromis mloto,,Cichlidae,benthopelagic,13.5 TL,3.3,endemic,Malawi
+Copadichromis nkatae,,Cichlidae,benthopelagic,14.5 TL,2.8,endemic,Malawi
+Copadichromis parvus,,Cichlidae,benthopelagic,9.6 SL,3.3,endemic,Malawi
+Copadichromis pleurostigma,,Cichlidae,benthopelagic,19.5 TL,3.4,endemic,Malawi
+Copadichromis pleurostigmoides,,Cichlidae,benthopelagic,16.0 TL,3.4,endemic,Malawi
+Copadichromis quadrimaculatus,,Cichlidae,benthopelagic,20.0 TL,2.6,endemic,Malawi
+Copadichromis trewavasae,,Cichlidae,benthopelagic,10.5 SL,3.3,endemic,Malawi
+Copadichromis trimaculatus,Verduya's hap,Cichlidae,benthopelagic,19.6 TL,3.4,endemic,Malawi
+Copadichromis verduyni,,Cichlidae,benthopelagic,11.0 TL,3.3,endemic,Malawi
+Copadichromis virginalis,Lake Malawi utaka,Cichlidae,demersal,13.2 TL,3,endemic,Malawi
+Coptodon rendalli,Redbreast tilapia,Cichlidae,benthopelagic,45.0 TL,2.3,native,Malawi
+Corematodus shiranus,,Cichlidae,benthopelagic,27.0 TL,4.4,endemic,Malawi
+Corematodus taeniatus,,Cichlidae,benthopelagic,19.0 TL,4.4,endemic,Malawi
+Ctenopharynx intermedius,,Cichlidae,benthopelagic,21.0 TL,3.4,native,Malawi
+Ctenopharynx nitidus,,Cichlidae,benthopelagic,13.9 TL,3.5,endemic,Malawi
+Ctenopharynx pictus,,Cichlidae,benthopelagic,12.6 TL,3,endemic,Malawi
+Cyathochromis obliquidens,,Cichlidae,benthopelagic,15.0 TL,2,native,Malawi
+Cynotilapia afra,,Cichlidae,benthopelagic,10.1 SL,3.4,endemic,Malawi
+Cynotilapia aurifrons,,Cichlidae,benthopelagic,7.3 SL,3.4,endemic,Malawi
+Cynotilapia axelrodi,,Cichlidae,benthopelagic,7.7 SL,3.4,endemic,Malawi
+Cynotilapia chilundu,,Cichlidae,benthopelagic,8.3 SL,3.4,endemic,Malawi
+Cynotilapia zebroides,,Cichlidae,benthopelagic,9.3 SL,3.4,endemic,Malawi
+Cyrtocara moorii,Hump-head,Cichlidae,benthopelagic,20.0 TL,3.4,endemic,Malawi
+Dimidiochromis compressiceps,Malawi eyebiter,Cichlidae,benthopelagic,23.0 TL,4.2,endemic,Malawi
+Dimidiochromis dimidiatus,Ncheni type haplochromis,Cichlidae,benthopelagic,20.0 TL,4,endemic,Malawi
+Dimidiochromis kiwinge,,Cichlidae,benthopelagic,30.0 TL,4.2,native,Malawi
+Dimidiochromis strigatus,Haplochromis sunset,Cichlidae,benthopelagic,24.4 TL,3.8,native,Malawi
+Diplotaxodon aeneus,,Cichlidae,benthopelagic,14.0 SL,4,endemic,Malawi
+Diplotaxodon altus,,Cichlidae,benthopelagic,16.2 SL,4,endemic,Malawi
+Diplotaxodon apogon,,Cichlidae,benthopelagic,11.7 SL,3.9,endemic,Malawi
+Diplotaxodon argenteus,,Cichlidae,benthopelagic,20.4 SL,4.2,endemic,Malawi
+Diplotaxodon dentatus,,Cichlidae,benthopelagic,12.0 SL,3.9,endemic,Malawi
+Diplotaxodon ecclesi,,Cichlidae,benthopelagic,14.6 SL,4.2,endemic,Malawi
+Diplotaxodon greenwoodi,,Cichlidae,benthopelagic,24.7 SL,4.2,endemic,Malawi
+Diplotaxodon limnothrissa,,Cichlidae,pelagic,15.4 SL,3.1,endemic,Malawi
+Diplotaxodon longimaxilla,,Cichlidae,benthopelagic,18.1 SL,4.1,endemic,Malawi
+Diplotaxodon macrops,,Cichlidae,benthopelagic,12.5 SL,2.8,endemic,Malawi
+Docimodus evelynae,,Cichlidae,benthopelagic,20.1 SL,3.4,endemic,Malawi
+Docimodus johnstoni,,Cichlidae,benthopelagic,25.0 TL,4.2,endemic,Malawi
+Eclectochromis lobochilus,,Cichlidae,benthopelagic,12.5 TL,3.3,endemic,Malawi
+Eclectochromis ornatus,,Cichlidae,benthopelagic,18.2 SL,3.4,endemic,Malawi
+Exochochromis anagenys,Threespot torpedo,Cichlidae,benthopelagic,20.0 SL,4.2,endemic,Malawi
+Fossorochromis rostratus,,Cichlidae,benthopelagic,24.4 TL,3.4,endemic,Malawi
+Genyochromis mento,,Cichlidae,benthopelagic,12.6 TL,4.4,endemic,Malawi
+Gephyrochromis lawsi,,Cichlidae,benthopelagic,12.8 TL,3.3,endemic,Malawi
+Gephyrochromis moorii,,Cichlidae,benthopelagic,12.0 TL,3.3,endemic,Malawi
+Hemitaeniochromis brachyrhynchus,,Cichlidae,pelagic,123.6 SL,3.8,endemic,Malawi
+Hemitaeniochromis urotaenia,,Cichlidae,benthopelagic,22.0 TL,3.4,endemic,Malawi
+Hemitilapia oxyrhynchus,Giant Haplochromis,Cichlidae,benthopelagic,20.0 TL,2,native,Malawi
+Iodotropheus declivitas,,Cichlidae,benthopelagic,6.5 SL,3.3,native,Malawi
+Iodotropheus sprengerae,Lavender mbuna,Cichlidae,benthopelagic,10.8 SL,4,endemic,Malawi
+Iodotropheus stuartgranti,,Cichlidae,benthopelagic,10.0 TL,3.3,endemic,Malawi
+Labeotropheus alticodia,,Cichlidae,benthopelagic,8.6 SL,3.3,endemic,Malawi
+Labeotropheus artatorostris,,Cichlidae,benthopelagic,11.5 SL,3.4,endemic,Malawi
+Labeotropheus aurantinfra,,Cichlidae,benthopelagic,11.5 SL,3.4,endemic,Malawi
+Labeotropheus candipygia,,Cichlidae,benthopelagic,9.7 SL,3.3,endemic,Malawi
+Labeotropheus chirangali,,Cichlidae,benthopelagic,11.2 SL,3.3,endemic,Malawi
+Labeotropheus chlorosiglos,,Cichlidae,benthopelagic,11.6 SL,3.4,endemic,Malawi
+Labeotropheus fuelleborni,Blue mbuna,Cichlidae,benthopelagic,30.0 SL,2.8,endemic,Malawi
+Labeotropheus obscurus,,Cichlidae,benthopelagic,7.8 SL,3.3,endemic,Malawi
+Labeotropheus rubidorsalis,,Cichlidae,benthopelagic,9.1 SL,3.3,endemic,Malawi
+Labeotropheus simoneae,,Cichlidae,benthopelagic,11,3.4,endemic,Malawi
+Labeotropheus trewavasae,Scrapermouth mbuna,Cichlidae,benthopelagic,11.7 TL,3.3,endemic,Malawi
+Labidochromis caeruleus,Blue streak hap,Cichlidae,benthopelagic,8.1 SL,2.6,endemic,Malawi
+Labidochromis chisumulae,,Cichlidae,benthopelagic,6.6 SL,2.7,endemic,Malawi
+Labidochromis flavigulis,Chisumulu pearl,Cichlidae,benthopelagic,6.8 SL,2.7,endemic,Malawi
+Labidochromis freibergi,,Cichlidae,benthopelagic,8.0 TL,2.7,endemic,Malawi
+Labidochromis gigas,,Cichlidae,benthopelagic,10.0 SL,2.6,endemic,Malawi
+Labidochromis heterodon,,Cichlidae,benthopelagic,7.3 SL,2.7,endemic,Malawi
+Labidochromis ianthinus,,Cichlidae,benthopelagic,9.0 TL,2.7,endemic,Malawi
+Labidochromis joanjohnsonae,Pearl of Likoma,Cichlidae,demersal,10.0 TL,2.6,endemic,Malawi
+Labidochromis lividus,,Cichlidae,benthopelagic,7.1 SL,2.7,endemic,Malawi
+Labidochromis maculicauda,,Cichlidae,benthopelagic,6.4 SL,3.3,endemic,Malawi
+Labidochromis mathotho,,Cichlidae,benthopelagic,8.0 TL,2.7,endemic,Malawi
+Labidochromis mbenjii,,Cichlidae,benthopelagic,6.4 SL,2.7,endemic,Malawi
+Labidochromis mylodon,,Cichlidae,benthopelagic,9.0 TL,2.7,endemic,Malawi
+Labidochromis pallidus,,Cichlidae,benthopelagic,6.7 SL,2.7,endemic,Malawi
+Labidochromis shiranus,,Cichlidae,benthopelagic,7.8 SL,2.7,endemic,Malawi
+Labidochromis strigatus,,Cichlidae,benthopelagic,6.9 SL,2.7,endemic,Malawi
+Labidochromis textilis,,Cichlidae,benthopelagic,7.7 SL,2.7,endemic,Malawi
+Labidochromis vellicans,,Cichlidae,benthopelagic,6.7 SL,2,endemic,Malawi
+Labidochromis zebroides,,Cichlidae,benthopelagic,8.5 TL,2.7,endemic,Malawi
+Lethrinops albus,,Cichlidae,demersal,16.5 TL,3.2,endemic,Malawi
+Lethrinops altus,,Cichlidae,demersal,15.8 TL,3.5,endemic,Malawi
+Lethrinops argenteus,,Cichlidae,demersal,19.0 TL,3.2,endemic,Malawi
+Lethrinops atrilabris,,Cichlidae,benthopelagic,7.3 SL,3.1,endemic,Malawi
+Lethrinops auritus,Golden sand-eater,Cichlidae,demersal,14.0 TL,3,endemic,Malawi
+Lethrinops christyi,,Cichlidae,demersal,18.3 TL,3.2,endemic,Malawi
+Lethrinops furcifer,Greenface sandsifter,Cichlidae,demersal,19.5 TL,3.2,endemic,Malawi
+Lethrinops gossei,,Cichlidae,demersal,14.4 SL,3.2,endemic,Malawi
+Lethrinops leptodon,,Cichlidae,demersal,20.0 TL,3.2,endemic,Malawi
+Lethrinops lethrinus,,Cichlidae,demersal,20.0 TL,3.5,endemic,Malawi
+Lethrinops longimanus,,Cichlidae,demersal,15.3 SL,3.2,endemic,Malawi
+Lethrinops longipinnis,,Cichlidae,demersal,16.0 SL,3.3,endemic,Malawi
+Lethrinops lunaris,,Cichlidae,benthopelagic,18.6 TL,3.2,endemic,Malawi
+Lethrinops macracanthus,,Cichlidae,demersal,20.0 TL,2.8,endemic,Malawi
+Lethrinops macrochir,,Cichlidae,demersal,13.0 TL,3.2,endemic,Malawi
+Lethrinops marginatus,Lethrinops rounded head,Cichlidae,demersal,11.0 SL,3.5,endemic,Malawi
+Lethrinops micrentodon,,Cichlidae,demersal,11.5 TL,2,endemic,Malawi
+Lethrinops microdon,,Cichlidae,demersal,13.1 SL,2,endemic,Malawi
+Lethrinops microstoma,Littletooth sandeater,Cichlidae,demersal,14.5 TL,3.5,endemic,Malawi
+Lethrinops mylodon,,Cichlidae,demersal,20.2 SL,3.4,endemic,Malawi
+Lethrinops oculatus,,Cichlidae,benthopelagic,13.5 TL,3.2,endemic,Malawi
+Lethrinops parvidens,Lethrinops red flush,Cichlidae,demersal,14.0 SL,3.3,endemic,Malawi
+Lethrinops stridei,,Cichlidae,demersal,13.0 SL,2,endemic,Malawi
+Lethrinops turneri,,Cichlidae,benthopelagic,9.4 SL,3.2,endemic,Malawi
+Lichnochromis acuticeps,Malawi gar,Cichlidae,demersal,14.0 TL,3.4,endemic,Malawi
+Maylandia aurora,,Cichlidae,demersal,8.7 SL,2,native,Malawi
+Maylandia barlowi,,Cichlidae,demersal,8.1 SL,3.4,endemic,Malawi
+Maylandia benetos,,Cichlidae,demersal,8.1 SL,2.3,native,Malawi
+Maylandia callainos,,Cichlidae,benthopelagic,8.0 SL,2.3,native,Malawi
+Maylandia chrysomallos,,Cichlidae,demersal,9.0 SL,2.2,endemic,Malawi
+Maylandia cyneusmarginata,,Cichlidae,demersal,8.0 SL,2.3,native,Malawi
+Maylandia emmiltos,,Cichlidae,demersal,8.4 SL,2.3,native,Malawi
+Maylandia estherae,Red zebra,Cichlidae,demersal,7.9 SL,2,native,Malawi
+Maylandia fainzilberi,,Cichlidae,demersal,12.9 TL,2.2,endemic,Malawi
+Maylandia flavicauda,,Cichlidae,benthopelagic,10.1 SL,2.2,endemic,Malawi
+Maylandia flavifemina,,Cichlidae,benthopelagic,8.5 SL,2.3,endemic,Malawi
+Maylandia glaucos,,Cichlidae,benthopelagic,6.9 SL,2.3,endemic,Malawi
+Maylandia greshakei,William's mbuna,Cichlidae,demersal,13.4 TL,2,endemic,Malawi
+Maylandia hajomaylandi,,Cichlidae,demersal,12.0 TL,3.4,endemic,Malawi
+Maylandia koningsi,,Cichlidae,benthopelagic,5.7 SL,2.4,endemic,Malawi
+Maylandia lanisticola,,Cichlidae,demersal,6.1 SL,2.4,endemic,Malawi
+Maylandia lombardoi,,Cichlidae,demersal,8.7 SL,2.7,endemic,Malawi
+Maylandia lundoensis,,Cichlidae,pelagic,8.3 SL,2.3,endemic,Malawi
+Maylandia mbenjii,,Cichlidae,demersal,8.8 SL,2.2,native,Malawi
+Maylandia midomo,,Cichlidae,pelagic,9.8 SL,2.2,endemic,Malawi
+Maylandia mossambica,,Cichlidae,benthopelagic,8.0 SL,2.3,endemic,Malawi
+Maylandia nigrodorsalis,,Cichlidae,pelagic,8.3 SL,2.3,endemic,Malawi
+Maylandia nkhunguensis,,Cichlidae,benthopelagic,7.3 SL,2.3,endemic,Malawi
+Maylandia pambazuko,,Cichlidae,pelagic,7.6 SL,2.3,endemic,Malawi
+Maylandia phaeos,,Cichlidae,demersal,8.7 SL,2.2,native,Malawi
+Maylandia pulpican,,Cichlidae,benthopelagic,7.1 SL,2.3,endemic,Malawi
+Maylandia pyrsonotos,,Cichlidae,demersal,8.6 SL,2.2,endemic,Malawi
+Maylandia sciasma,,Cichlidae,benthopelagic,7.1 SL,2.3,endemic,Malawi
+Maylandia tarakiki,,Cichlidae,pelagic,11.9 SL,2.1,endemic,Malawi
+Maylandia usisyae,,Cichlidae,benthopelagic,7.5 SL,2.3,endemic,Malawi
+Maylandia xanstomachus,,Cichlidae,demersal,12.5 TL,2,endemic,Malawi
+Maylandia xanthos,,Cichlidae,benthopelagic,4.9 SL,2.5,endemic,Malawi
+Maylandia zebra,Zebra mbuna,Cichlidae,demersal,11.3 SL,2.3,endemic,Malawi
+Mchenga conophoros,,Cichlidae,benthopelagic,11.1 SL,3.4,endemic,Malawi
+Mchenga cyclicos,,Cichlidae,benthopelagic,12.1 SL,3.4,endemic,Malawi
+Mchenga eucinostomus,,Cichlidae,benthopelagic,14.0 TL,3,endemic,Malawi
+Mchenga flavimanus,,Cichlidae,benthopelagic,12.0 TL,3.4,endemic,Malawi
+Mchenga inornata,,Cichlidae,benthopelagic,10.0 TL,3.4,endemic,Malawi
+Mchenga thinos,,Cichlidae,benthopelagic,7.8 SL,3.4,endemic,Malawi
+Melanochromis auratus,Golden mbuna,Cichlidae,demersal,11.0 TL,2,endemic,Malawi
+Melanochromis baliodigma,,Cichlidae,benthopelagic,8.6 SL,4.3,endemic,Malawi
+Melanochromis chipokae,,Cichlidae,demersal,12.0 SL,4.2,endemic,Malawi
+Melanochromis dialeptos,,Cichlidae,benthopelagic,8.0 SL,2,endemic,Malawi
+Melanochromis heterochromis,,Cichlidae,demersal,9.7 SL,3.3,endemic,Malawi
+Melanochromis kaskazini,,Cichlidae,benthopelagic,10.4 SL,3.4,endemic,Malawi
+Melanochromis lepidiadaptes,,Cichlidae,benthopelagic,8.7 SL,4.4,endemic,Malawi
+Melanochromis loriae,,Cichlidae,benthopelagic,11.4 SL,3.4,endemic,Malawi
+Melanochromis melanopterus,,Cichlidae,demersal,11.4 SL,3.4,endemic,Malawi
+Melanochromis mossambiquensis,,Cichlidae,benthopelagic,7.6 SL,3.3,endemic,Malawi
+Melanochromis mpoto,,Cichlidae,benthopelagic,9.1 SL,3.3,endemic,Malawi
+Melanochromis robustus,,Cichlidae,benthopelagic,12.4 SL,3.4,endemic,Malawi
+Melanochromis simulans,,Cichlidae,demersal,7.4 SL,3.3,endemic,Malawi
+Melanochromis vermivorus,Purple mbuna,Cichlidae,demersal,7.4 SL,2.7,endemic,Malawi
+Melanochromis wochepa,,Cichlidae,benthopelagic,6.5 SL,3.3,endemic,Malawi
+Mylochromis anaphyrmus,,Cichlidae,demersal,20.4 TL,3.5,endemic,Malawi
+Mylochromis balteatus,,Cichlidae,demersal,16.2 TL,3.5,endemic,Malawi
+Mylochromis chekopae,,Cichlidae,demersal,12.2 SL,3,endemic,Malawi
+Mylochromis ensatus,,Cichlidae,demersal,20.7 SL,3.6,endemic,Malawi
+Mylochromis epichorialis,,Cichlidae,demersal,20.0 TL,3.5,endemic,Malawi
+Mylochromis ericotaenia,,Cichlidae,demersal,20.6 TL,3.5,endemic,Malawi
+Mylochromis formosus,,Cichlidae,benthopelagic,12.7 TL,4,endemic,Malawi
+Mylochromis gracilis,Haplochromis torpedo stripe,Cichlidae,demersal,22.0 TL,4,endemic,Malawi
+Mylochromis guentheri,,Cichlidae,demersal,20.0 TL,3.5,endemic,Malawi
+Mylochromis incola,Golden mola hap,Cichlidae,demersal,19.9 TL,3.5,endemic,Malawi
+Mylochromis labidodon,,Cichlidae,benthopelagic,18.0 TL,3.5,endemic,Malawi
+Mylochromis lateristriga,Basket hap,Cichlidae,benthopelagic,20.7 TL,3.5,endemic,Malawi
+Mylochromis melanonotus,Haplochromis yellow black line,Cichlidae,demersal,26.0 TL,3.6,endemic,Malawi
+Mylochromis melanotaenia,,Cichlidae,benthopelagic,20.0 TL,3.5,endemic,Malawi
+Mylochromis mola,,Cichlidae,demersal,18.0 TL,3.6,endemic,Malawi
+Mylochromis mollis,Softy hap,Cichlidae,benthopelagic,16.0 TL,3.5,endemic,Malawi
+Mylochromis obtusus,,Cichlidae,benthopelagic,22.0 TL,3.6,endemic,Malawi
+Mylochromis plagiotaenia,,Cichlidae,demersal,11.0 TL,3.4,endemic,Malawi
+Mylochromis semipalatus,,Cichlidae,benthopelagic,18.5 TL,3.5,endemic,Malawi
+Mylochromis sphaerodon,Roundtooth hap,Cichlidae,demersal,14.0 TL,3.5,endemic,Malawi
+Mylochromis spilostichus,,Cichlidae,demersal,22.2 TL,4.2,endemic,Malawi
+Naevochromis chrysogaster,,Cichlidae,demersal,17.9 TL,4,endemic,Malawi
+Nimbochromis fuscotaeniatus,Fuscotaeniatus,Cichlidae,demersal,25.0 TL,4.2,endemic,Malawi
+Nimbochromis linni,,Cichlidae,demersal,25.0 TL,4.2,endemic,Malawi
+Nimbochromis livingstonii,,Cichlidae,demersal,25.0 TL,4.2,native,Malawi
+Nimbochromis polystigma,,Cichlidae,demersal,23.0 TL,4.2,endemic,Malawi
+Nimbochromis venustus,,Cichlidae,demersal,25.0 TL,4.2,endemic,Malawi
+Nyassachromis boadzulu,,Cichlidae,benthopelagic,14.0 TL,3.4,endemic,Malawi
+Nyassachromis breviceps,,Cichlidae,demersal,15.4 TL,2,endemic,Malawi
+Nyassachromis leuciscus,Small green utaka,Cichlidae,demersal,16.0 TL,2.5,endemic,Malawi
+Nyassachromis microcephalus,,Cichlidae,demersal,15.0 TL,3.4,endemic,Malawi
+Nyassachromis nigritaeniatus,,Cichlidae,demersal,21.0 TL,3.4,endemic,Malawi
+Nyassachromis prostoma,,Cichlidae,benthopelagic,11.5 TL,3.3,endemic,Malawi
+Nyassachromis purpurans,,Cichlidae,demersal,18.0 TL,3.4,endemic,Malawi
+Nyassachromis serenus,,Cichlidae,demersal,25.0 TL,3.4,endemic,Malawi
+Oreochromis chungruruensis,Kiungululu tilapia,Cichlidae,benthopelagic,15.4 SL,2.4,endemic,Malawi
+Oreochromis karongae,Karonga tilapia,Cichlidae,benthopelagic,42.0 TL,2,endemic,Malawi
+Oreochromis leucostictus,Blue spotted tilapia,Cichlidae,benthopelagic,36.3 SL,2.3,introduced,Malawi
+Oreochromis lidole,Lidole,Cichlidae,benthopelagic,38.0 SL,2.3,native,Malawi
+Oreochromis niloticus,Nile tilapia,Cichlidae,benthopelagic,60.0 SL,2,introduced,Malawi
+Oreochromis saka,,Cichlidae,benthopelagic,36.0 SL,2,endemic,Malawi
+Oreochromis shiranus,Shire tilapia,Cichlidae,benthopelagic,39.0 SL,2.5,native,Malawi
+Oreochromis squamipinnis,Kasawala,Cichlidae,benthopelagic,36.0 SL,2.1,endemic,Malawi
+Otopharynx aletes,,Cichlidae,benthopelagic,10.7 SL,3.4,endemic,Malawi
+Otopharynx alpha,,Cichlidae,benthopelagic,14.1 SL,3.4,endemic,Malawi
+Otopharynx antron,,Cichlidae,demersal,9.9 SL,3.4,endemic,Malawi
+Otopharynx argyrosoma,,Cichlidae,demersal,15.2 TL,3.5,endemic,Malawi
+Otopharynx auromarginatus,Golden-margined hap,Cichlidae,demersal,24.5 TL,2,endemic,Malawi
+Otopharynx brooksi,,Cichlidae,demersal,15.0 TL,4.2,endemic,Malawi
+Otopharynx decorus,,Cichlidae,demersal,18.0 TL,3.5,endemic,Malawi
+Otopharynx heterodon,Royal blue hap,Cichlidae,demersal,12.8 TL,3.4,endemic,Malawi
+Otopharynx lithobates,,Cichlidae,demersal,16.0 TL,2,endemic,Malawi
+Otopharynx mumboensis,,Cichlidae,benthopelagic,11.6 SL,3.4,endemic,Malawi
+Otopharynx ovatus,,Cichlidae,demersal,20.0 TL,4,endemic,Malawi
+Otopharynx pachycheilus,,Cichlidae,demersal,16.5 SL,3.5,endemic,Malawi
+Otopharynx panniculus,,Cichlidae,benthopelagic,7.3 SL,3.3,endemic,Malawi
+Otopharynx peridodeka,,Cichlidae,benthopelagic,9.2 SL,3.3,endemic,Malawi
+Otopharynx selenurus,,Cichlidae,demersal,17.5 TL,2.8,endemic,Malawi
+Otopharynx speciosus,,Cichlidae,demersal,25.2 TL,4.2,endemic,Malawi
+Otopharynx spelaeotes,,Cichlidae,demersal,11.7 SL,3.4,endemic,Malawi
+Otopharynx styrax,,Cichlidae,benthopelagic,11.7 SL,3.4,endemic,Malawi
+Otopharynx tetraspilus,,Cichlidae,demersal,15.6 TL,2.7,endemic,Malawi
+Otopharynx tetrastigma,,Cichlidae,demersal,16.0 TL,3.4,native,Malawi
+Pallidochromis tokolosh,,Cichlidae,demersal,28.0 SL,3.5,endemic,Malawi
+Petrotilapia chrysos,,Cichlidae,benthopelagic,13.1 SL,3.4,native,Malawi
+Petrotilapia flaviventris,,Cichlidae,pelagic,11.1 SL,3.3,endemic,Malawi
+Petrotilapia genalutea,,Cichlidae,demersal,13.1 SL,2,endemic,Malawi
+Petrotilapia microgalana,,Cichlidae,benthopelagic,11.4 SL,3.3,endemic,Malawi
+Petrotilapia mumboensis,,Cichlidae,pelagic,12.7 SL,3.4,endemic,Malawi
+Petrotilapia nigra,,Cichlidae,demersal,12.2 SL,3.4,endemic,Malawi
+Petrotilapia palingnathos,,Cichlidae,pelagic,11.8 SL,3.4,endemic,Malawi
+Petrotilapia pyroscelos,,Cichlidae,pelagic,10.7 SL,3.3,endemic,Malawi
+Petrotilapia tridentiger,,Cichlidae,demersal,17.0 TL,3.4,endemic,Malawi
+Petrotilapia xanthos,,Cichlidae,pelagic,13.0 SL,3.4,endemic,Malawi
+Placidochromis acuticeps,,Cichlidae,benthopelagic,10.3 SL,3.3,endemic,Malawi
+Placidochromis acutirostris,,Cichlidae,benthopelagic,11.4 SL,3.3,endemic,Malawi
+Placidochromis argyrogaster,,Cichlidae,benthopelagic,11.4 SL,3.3,endemic,Malawi
+Placidochromis boops,,Cichlidae,benthopelagic,11.2 SL,3.3,endemic,Malawi
+Placidochromis borealis,,Cichlidae,benthopelagic,6.5 SL,3.2,endemic,Malawi
+Placidochromis chilolae,,Cichlidae,benthopelagic,7.4 SL,3.3,endemic,Malawi
+Placidochromis communis,,Cichlidae,benthopelagic,7.7 SL,3.3,endemic,Malawi
+Placidochromis domirae,,Cichlidae,benthopelagic,9.3 SL,3.3,endemic,Malawi
+Placidochromis ecclesi,,Cichlidae,benthopelagic,6.3 SL,3.2,endemic,Malawi
+Placidochromis electra,Deep-water hap,Cichlidae,demersal,12.0 SL,2.8,endemic,Malawi
+Placidochromis elongatus,,Cichlidae,benthopelagic,7.5 SL,3.3,endemic,Malawi
+Placidochromis fuscus,,Cichlidae,benthopelagic,7.9 SL,3.3,endemic,Malawi
+Placidochromis hennydaviesae,,Cichlidae,demersal,10.0 TL,3.3,endemic,Malawi
+Placidochromis intermedius,,Cichlidae,benthopelagic,6.9 SL,3.2,endemic,Malawi
+Placidochromis johnstoni,,Cichlidae,demersal,20.0 TL,3.5,native,Malawi
+Placidochromis koningsi,,Cichlidae,benthopelagic,6.7 SL,3.2,endemic,Malawi
+Placidochromis lineatus,,Cichlidae,benthopelagic,9.1 SL,3.3,endemic,Malawi
+Placidochromis longimanus,,Cichlidae,demersal,14.5 TL,2,native,Malawi
+Placidochromis longirostris,,Cichlidae,benthopelagic,12.8 SL,3.3,endemic,Malawi
+Placidochromis longus,,Cichlidae,benthopelagic,4.9 SL,3.2,endemic,Malawi
+Placidochromis lukomae,,Cichlidae,benthopelagic,7.3 SL,3.3,endemic,Malawi
+Placidochromis macroceps,,Cichlidae,benthopelagic,5.3 SL,3.2,endemic,Malawi
+Placidochromis macrognathus,,Cichlidae,benthopelagic,12.7 SL,3.3,endemic,Malawi
+Placidochromis mbunoides,,Cichlidae,benthopelagic,7.3 SL,3.3,endemic,Malawi
+Placidochromis milomo,Super VC-10 hap,Cichlidae,demersal,18.7 SL,3.3,endemic,Malawi
+Placidochromis minor,,Cichlidae,benthopelagic,4.9 SL,3.2,endemic,Malawi
+Placidochromis minutus,,Cichlidae,benthopelagic,6.1 SL,3.2,endemic,Malawi
+Placidochromis msakae,,Cichlidae,benthopelagic,7.9 SL,3.3,endemic,Malawi
+Placidochromis nigribarbis,,Cichlidae,benthopelagic,6.4 SL,3.2,endemic,Malawi
+Placidochromis nkhatae,,Cichlidae,benthopelagic,9.8 SL,3.3,endemic,Malawi
+Placidochromis nkhotakotae,,Cichlidae,benthopelagic,6.5 SL,3.2,endemic,Malawi
+Placidochromis obscurus,,Cichlidae,benthopelagic,6.2 SL,3.2,endemic,Malawi
+Placidochromis ordinarius,,Cichlidae,benthopelagic,6.7 SL,3.2,endemic,Malawi
+Placidochromis orthognathus,,Cichlidae,benthopelagic,10.3 SL,3.3,endemic,Malawi
+Placidochromis pallidus,,Cichlidae,benthopelagic,7.8 SL,3.3,endemic,Malawi
+Placidochromis phenochilus,,Cichlidae,benthopelagic,15.7 TL,3.3,endemic,Malawi
+Placidochromis platyrhynchos,,Cichlidae,benthopelagic,10.0 SL,3.3,native,Malawi
+Placidochromis polli,,Cichlidae,demersal,14.9 SL,3.4,endemic,Malawi
+Placidochromis rotundifrons,,Cichlidae,benthopelagic,6.4 SL,3.2,endemic,Malawi
+Placidochromis subocularis,,Cichlidae,demersal,16.2 TL,3.4,endemic,Malawi
+Placidochromis trewavasae,,Cichlidae,benthopelagic,6.5 SL,3.2,endemic,Malawi
+Placidochromis turneri,,Cichlidae,benthopelagic,8.6 SL,3.3,endemic,Malawi
+Placidochromis vulgaris,,Cichlidae,benthopelagic,9.6 SL,3.3,endemic,Malawi
+Protomelas annectens,,Cichlidae,benthopelagic,20.0 TL,3.3,endemic,Malawi
+Protomelas dejunctus,,Cichlidae,benthopelagic,13.8 SL,2.7,native,Malawi
+Protomelas fenestratus,Fenestratus,Cichlidae,benthopelagic,14.0 TL,3.2,endemic,Malawi
+Protomelas insignis,One-and-a-half-stripe hap,Cichlidae,benthopelagic,20.3 TL,2.5,endemic,Malawi
+Protomelas kirkii,,Cichlidae,benthopelagic,18.0 TL,3.4,native,Malawi
+Protomelas krampus,,Cichlidae,benthopelagic,18.1 SL,3.3,native,Malawi
+Protomelas labridens,,Cichlidae,benthopelagic,18.0 TL,3.4,endemic,Malawi
+Protomelas macrodon,,Cichlidae,benthopelagic,8.8 SL,3.2,endemic,Malawi
+Protomelas marginatus,,Cichlidae,benthopelagic,16.6 TL,2,endemic,Malawi
+Protomelas pleurotaenia,,Cichlidae,benthopelagic,14.1 TL,3.5,endemic,Malawi
+Protomelas similis,,Cichlidae,benthopelagic,18.0 TL,2,endemic,Malawi
+Protomelas spilonotus,,Cichlidae,benthopelagic,16.7 TL,3.4,endemic,Malawi
+Protomelas spilopterus,,Cichlidae,benthopelagic,24.0 TL,3.3,endemic,Malawi
+Protomelas taeniolatus,Spindle hap,Cichlidae,benthopelagic,11.3 TL,3.2,endemic,Malawi
+Protomelas triaenodon,,Cichlidae,benthopelagic,15.4 TL,3.3,endemic,Malawi
+Protomelas virgatus,,Cichlidae,benthopelagic,14.0 SL,3.3,endemic,Malawi
+Pseudocrenilabrus philander,Southern mouthbrooder,Cichlidae,benthopelagic,13.0 TL,3.7,native,Malawi
+Pseudotropheus benetos,,Cichlidae,benthopelagic,9.1 SL,4.2,endemic,Malawi
+Pseudotropheus brevis,,Cichlidae,demersal,12.0 SL,2.8,endemic,Malawi
+Pseudotropheus crabro,,Cichlidae,demersal,9.4 SL,3.8,endemic,Malawi
+Pseudotropheus cyaneorhabdos,,Cichlidae,benthopelagic,7.5 SL,3.5,native,Malawi
+Pseudotropheus elegans,,Cichlidae,demersal,13.2 SL,4,endemic,Malawi
+Pseudotropheus fuscoides,,Cichlidae,demersal,12.0 TL,3.5,endemic,Malawi
+Pseudotropheus fuscus,,Cichlidae,demersal,11.0 TL,2,endemic,Malawi
+Pseudotropheus galanos,,Cichlidae,benthopelagic,8.8 SL,3.4,native,Malawi
+Pseudotropheus interruptus,,Cichlidae,benthopelagic,9.8 TL,3.4,endemic,Malawi
+Pseudotropheus johannii,Bluegray mbuna,Cichlidae,benthopelagic,10.0 TL,2,endemic,Malawi
+Pseudotropheus livingstonii,,Cichlidae,demersal,15.0 TL,3.7,endemic,Malawi
+Pseudotropheus perileucos,,Cichlidae,benthopelagic,8.0 SL,2,endemic,Malawi
+Pseudotropheus perspicax,,Cichlidae,demersal,8.1 TL,3.3,endemic,Malawi
+Pseudotropheus purpuratus,,Cichlidae,demersal,10.0 SL,3.4,endemic,Malawi
+Pseudotropheus tursiops,,Cichlidae,demersal,9.4 SL,2,endemic,Malawi
+Pseudotropheus williamsi,Red top williamsi,Cichlidae,benthopelagic,16.5 TL,3.4,endemic,Malawi
+Rhamphochromis esox,,Cichlidae,demersal,42.0 SL,4.2,endemic,Malawi
+Rhamphochromis ferox,,Cichlidae,demersal,45.0 TL,4.2,endemic,Malawi
+Rhamphochromis longiceps,Tigerfish,Cichlidae,pelagic,28.0 TL,3.8,native,Malawi
+Rhamphochromis lucius,,Cichlidae,demersal,40.0 TL,4.2,endemic,Malawi
+Rhamphochromis macrophthalmus,,Cichlidae,demersal,29.8 SL,4.2,endemic,Malawi
+Rhamphochromis woodi,,Cichlidae,demersal,42.0 TL,3.8,endemic,Malawi
+Sciaenochromis ahli,Electric blue hap,Cichlidae,demersal,20.0 TL,4.2,endemic,Malawi
+Sciaenochromis benthicola,,Cichlidae,demersal,14.0 SL,4.1,endemic,Malawi
+Sciaenochromis fryeri,,Cichlidae,demersal,11.5 SL,4.2,endemic,Malawi
+Sciaenochromis psammophilus,Electric blue kande,Cichlidae,demersal,11.6 SL,3.8,native,Malawi
+Serranochromis robustus,Yellow-belly bream,Cichlidae,demersal,56.0 TL,4.1,endemic,Malawi
+Stigmatochromis macrorhynchos,,Cichlidae,benthopelagic,12.8 SL,4,endemic,Malawi
+Stigmatochromis melanchros,,Cichlidae,benthopelagic,16.1 SL,4.1,endemic,Malawi
+Stigmatochromis modestus,,Cichlidae,demersal,25.0 TL,4.2,endemic,Malawi
+Stigmatochromis pholidophorus,Candle hap,Cichlidae,demersal,10.8 TL,3.5,endemic,Malawi
+Stigmatochromis pleurospilus,,Cichlidae,demersal,9.0 SL,3.8,endemic,Malawi
+Stigmatochromis woodi,,Cichlidae,demersal,25.0 TL,4.2,endemic,Malawi
+Taeniochromis holotaenia,,Cichlidae,demersal,22.0 TL,3.8,endemic,Malawi
+Taeniolethrinops cyrtonotus,,Cichlidae,demersal,11.2 TL,3,endemic,Malawi
+Taeniolethrinops furcicauda,,Cichlidae,demersal,21.0 TL,2.8,endemic,Malawi
+Taeniolethrinops laticeps,,Cichlidae,demersal,30.0 TL,3,endemic,Malawi
+Taeniolethrinops praeorbitalis,,Cichlidae,demersal,30.0 TL,3.2,endemic,Malawi
+Tilapia sparrmanii,Banded tilapia,Cichlidae,benthopelagic,23.5 TL,2.7,native,Malawi
+Tramitichromis brevis,,Cichlidae,demersal,16.3 TL,3.2,endemic,Malawi
+Tramitichromis intermedius,,Cichlidae,demersal,16.0 TL,3.3,endemic,Malawi
+Tramitichromis lituris,,Cichlidae,demersal,16.8 TL,3.3,endemic,Malawi
+Tramitichromis trilineatus,,Cichlidae,demersal,14.0 TL,3.5,endemic,Malawi
+Tramitichromis variabilis,,Cichlidae,demersal,17.3 TL,3.2,endemic,Malawi
+Trematocranus labifer,,Cichlidae,demersal,22.4 TL,3.1,endemic,Malawi
+Trematocranus microstoma,Haplochromis placodon pointed head,Cichlidae,demersal,23.2 TL,3.4,endemic,Malawi
+Trematocranus pachychilus,,Cichlidae,benthopelagic,15.5 SL,3.3,endemic,Malawi
+Trematocranus placodon,,Cichlidae,demersal,25.0 TL,3.4,native,Malawi
+Tropheops biriwira,,Cichlidae,benthopelagic,6.9 SL,2.3,endemic,Malawi
+Tropheops gracilior,,Cichlidae,demersal,11.2 TL,2.1,endemic,Malawi
+Tropheops kamtambo,,Cichlidae,benthopelagic,9.3 SL,2.1,endemic,Malawi
+Tropheops kumwera,,Cichlidae,benthopelagic,7.1 SL,2.2,endemic,Malawi
+Tropheops lucerna,,Cichlidae,demersal,13.5 TL,2,endemic,Malawi
+Tropheops macrophthalmus,,Cichlidae,demersal,11.5 TL,2.1,endemic,Malawi
+Tropheops microstoma,,Cichlidae,demersal,9.8 SL,2.8,endemic,Malawi
+Tropheops modestus,,Cichlidae,demersal,6.4 SL,2.3,endemic,Malawi
+Tropheops novemfasciatus,,Cichlidae,demersal,9.0 SL,2,endemic,Malawi
+Tropheops romandi,,Cichlidae,demersal,6.3 SL,2.3,endemic,Malawi
+Tropheops tropheops,,Cichlidae,demersal,14.0 TL,2,endemic,Malawi
+Tylochromis polylepis,,Cichlidae,demersal,43.5 NG,3,questionable,Malawi
+Tyrannochromis macrostoma,,Cichlidae,demersal,30.0 TL,4.2,endemic,Malawi
+Tyrannochromis maculiceps,,Cichlidae,demersal,29.5 TL,4.2,endemic,Malawi
+Tyrannochromis nigriventer,,Cichlidae,demersal,17.0 SL,4.2,endemic,Malawi
+Tyrannochromis polyodon,,Cichlidae,demersal,18.6 SL,4.1,endemic,Malawi
+Bathyclarias atribranchus,,Clariidae,demersal,60.0 TL,3.1,endemic,Malawi
+Bathyclarias euryodon,,Clariidae,demersal,105.0 TL,3.9,endemic,Malawi
+Bathyclarias filicibarbis,,Clariidae,demersal,79.2 TL,4.1,endemic,Malawi
+Bathyclarias foveolatus,,Clariidae,demersal,75.0 SL,3.8,endemic,Malawi
+Bathyclarias longibarbis,,Clariidae,demersal,76.0 TL,3.8,endemic,Malawi
+Bathyclarias nyasensis,,Clariidae,benthopelagic,100.0 SL,3.7,endemic,Malawi
+Bathyclarias rotundifrons,,Clariidae,demersal,68.1 TL,3.8,endemic,Malawi
+Bathyclarias worthingtoni,,Clariidae,demersal,80.0 SL,4,endemic,Malawi
+Clarias gariepinus,North African catfish,Clariidae,benthopelagic,170.0 TL,3.8,native,Malawi
+Clarias liocephalus,Smoothhead catfish,Clariidae,demersal,32.0 TL,3.3,native,Malawi
+Clarias ngamensis,Blunt-toothed African catfish,Clariidae,demersal,73.0 TL,4.3,native,Malawi
+Clarias theodorae,Snake catfish,Clariidae,demersal,35.0 SL,3.5,native,Malawi
+Heterobranchus longifilis,Sampa,Clariidae,demersal,150.0 SL,3.7,native,Malawi
+Enteromius arcislongae,,Cyprinidae,benthopelagic,6.4 SL,3,endemic,Malawi
+Enteromius atkinsoni,Dash-dot barb,Cyprinidae,benthopelagic,3.2 SL,3,native,Malawi
+Enteromius eutaenia,Orangefin barb,Cyprinidae,benthopelagic,14.0 SL,3.2,questionable,Malawi
+Enteromius innocens,Inconspicious barb,Cyprinidae,benthopelagic,8.0 TL,2.4,native,Malawi
+Enteromius litamba,,Cyprinidae,benthopelagic,35.0 SL,4,endemic,Malawi
+Enteromius macrotaenia,Broadband barb,Cyprinidae,benthopelagic,4.0 SL,3,native,Malawi
+Enteromius oligogrammus,,Cyprinidae,benthopelagic,8.2 TL,3,native,Malawi
+Enteromius paludinosus,Straightfin barb,Cyprinidae,benthopelagic,15.0 SL,2.9,native,Malawi
+Enteromius radiatus,Redeye barb,Cyprinidae,benthopelagic,12.0 SL,2.8,native,Malawi
+Enteromius seymouri,,Cyprinidae,benthopelagic,10.8 SL,3,endemic,Malawi
+Enteromius trimaculatus,Threespot barb,Cyprinidae,benthopelagic,15.0 SL,3.2,native,Malawi
+Labeo altivelis,Rednose labeo,Cyprinidae,benthopelagic,49.0 TL,2,native,Malawi
+Labeo cylindricus,Redeye labeo,Cyprinidae,benthopelagic,25.0 SL,2,native,Malawi
+Labeo mesops,Tana labeo,Cyprinidae,benthopelagic,39.0 TL,2,native,Malawi
+Labeo worthingtoni,,Cyprinidae,benthopelagic,26.0 TL,2.3,endemic,Malawi
+Labeobarbus johnstonii,,Cyprinidae,benthopelagic,50.0 SL,2,native,Malawi
+Labeobarbus latirostris,,Cyprinidae,benthopelagic,37.0 SL,3.2,endemic,Malawi
+Labeobarbus nthuwa,,Cyprinidae,benthopelagic,23.6 SL,3.2,endemic,Malawi
+Engraulicypris sardella,Lake Malawi sardine,Danionidae,demersal,13.0 TL,2.9,endemic,Malawi
+Opsaridium microcephalum,,Danionidae,demersal,34.0 TL,3.4,endemic,Malawi
+Opsaridium microlepis,Lake salmon,Danionidae,demersal,47.0 TL,3.5,endemic,Malawi
+Mastacembelus shiranus,Malawi spinyeel,Mastacembelidae,benthopelagic,26.0 TL,4,endemic,Malawi
+Chiloglanis neumanni,Neumann's suckermouth,Mochokidae,benthopelagic,6.5 SL,2.8,native,Malawi
+Synodontis njassae,Malawi squeaker,Mochokidae,benthopelagic,19.2 TL,3.1,native,Malawi
+Cyphomyrus discorhynchus,Zambesi parrotfish,Mormyridae,demersal,31.0 SL,3.2,native,Malawi
+Marcusenius livingstonii,,Mormyridae,demersal,30.0 SL,3.1,native,Malawi
+Marcusenius macrolepidotus,Bulldog,Mormyridae,demersal,32.0 TL,3.2,native,Malawi
+Marcusenius nyasensis,,Mormyridae,demersal,30.0 SL,3.1,native,Malawi
+Mormyrops anguilloides,Cornish jack,Mormyridae,demersal,150.0 TL,3.8,native,Malawi
+Mormyrus longirostris,Eastern bottlenose mormyrid,Mormyridae,demersal,75.0 SL,3.3,native,Malawi
+Petrocephalus catostoma,Churchill,Mormyridae,demersal,15.0 FL,3.4,native,Malawi
+Pollimyrus castelnaui,Dwarf stonebasher,Mormyridae,demersal,7.0 SL,3.2,native,Malawi
+Nothobranchius wattersi,,Nothobranchiidae,pelagic,5.3 SL,3.2,native,Malawi
+Lacustricola katangae,Striped topminnow,Procatopodidae,benthopelagic,5.0 TL,3.3,questionable,Malawi
+Micropanchax johnstoni,Johnston's topminnow,Procatopodidae,benthopelagic,8.5 TL,3.2,native,Malawi
+Protopterus annectens,West African lungfish,Protopteridae,demersal,100.0 TL,3.8,introduced,Malawi
+Schilbe intermedius,Silver catfish,Schilbeidae,pelagic,50.0 SL,3.6,error,Malawi

@@ -1,0 +1,272 @@
+Species,Name,Family,Habitat,Length (cm),Trophic Level,Status,Lake
+Alestopetersius leopoldianus,,Alestidae,pelagic,9.0 TL,3.1,questionable,Victoria
+Brycinus jacksonii,Victoria robber,Alestidae,pelagic,27.0 SL,3.2,native,Victoria
+Brycinus macrolepidotus,True big-scale tetra,Alestidae,pelagic,53.0 SL,2.8,questionable,Victoria
+Brycinus nurse,Nurse tetra,Alestidae,pelagic,25.0 TL,2.5,misidentification,Victoria
+Brycinus sadleri,Sadler's robber,Alestidae,pelagic,13.8 TL,3.2,native,Victoria
+Amphilius jacksonii,Marbled mountain catfish,Amphiliidae,demersal,15.0 TL,3,native,Victoria
+Amphilius kivuensis,,Amphiliidae,demersal,10.6 TL,3,questionable,Victoria
+Amphilius lujani,,Amphiliidae,demersal,12.0 SL,3,native,Victoria
+Amphilius uranoscopus,Stargazer mountain catfish,Amphiliidae,demersal,19.5 TL,2.9,native,Victoria
+Zaireichthys rotundiceps,Spotted sand catlet,Amphiliidae,demersal,3.8 SL,3.4,questionable,Victoria
+Ctenopoma muriei,Ocellated labyrinth fish,Anabantidae,benthopelagic,7.0 SL,3,native,Victoria
+Anguilla anguilla,European eel,Anguillidae,demersal,133.0 TL,3.5,introduced,Victoria
+Bagrus degeni,,Bagridae,demersal,55.0 TL,4.2,endemic,Victoria
+Bagrus docmak,Semutundu,Bagridae,benthopelagic,127.0 TL,4.1,native,Victoria
+Micropterus dolomieu,Smallmouth bass,Centrarchidae,benthopelagic,69.0 TL,3.6,introduced,Victoria
+Micropterus salmoides,Largemouth black bass,Centrarchidae,benthopelagic,97.0 TL,3.8,introduced,Victoria
+Astatoreochromis alluaudi,Alluaud's haplo,Cichlidae,benthopelagic,19.0 SL,3.6,native,Victoria
+Astatotilapia burtoni,,Cichlidae,benthopelagic,15.0 SL,3,native,Victoria
+Coptodon rendalli,Redbreast tilapia,Cichlidae,benthopelagic,45.0 TL,2.3,introduced,Victoria
+Coptodon zillii,Redbelly tilapia,Cichlidae,benthopelagic,40.0 SL,2.5,introduced,Victoria
+Haplochromis acidens,,Cichlidae,benthopelagic,12.8 SL,3,endemic,Victoria
+Haplochromis aelocephalus,,Cichlidae,benthopelagic,12.0 SL,3.3,endemic,Victoria
+Haplochromis altigenis,,Cichlidae,benthopelagic,20.2 SL,4.2,endemic,Victoria
+Haplochromis ampullarostratus,,Cichlidae,benthopelagic,7.2 SL,3.3,endemic,Victoria
+Haplochromis antleter,,Cichlidae,demersal,7.0 SL,3.3,endemic,Victoria
+Haplochromis apogonoides,,Cichlidae,benthopelagic,13.2 SL,3.4,native,Victoria
+Haplochromis arcanus,,Cichlidae,benthopelagic,14.2 SL,4.2,endemic,Victoria
+Haplochromis argens,,Cichlidae,pelagic,7.6 SL,3.3,endemic,Victoria
+Haplochromis argenteus,,Cichlidae,benthopelagic,20.2 SL,3.6,native,Victoria
+Haplochromis artaxerxes,,Cichlidae,benthopelagic,14.7 SL,3.6,endemic,Victoria
+Haplochromis azureus,,Cichlidae,demersal,9.6 SL,3.4,native,Victoria
+Haplochromis barbarae,,Cichlidae,benthopelagic,10.6 SL,4,native,Victoria
+Haplochromis bareli,,Cichlidae,benthopelagic,12.5 SL,4.2,endemic,Victoria
+Haplochromis bartoni,,Cichlidae,benthopelagic,19.5 SL,4.2,endemic,Victoria
+Haplochromis bayoni,,Cichlidae,benthopelagic,15.4 SL,4.2,endemic,Victoria
+Haplochromis bicolor,,Cichlidae,demersal,15.0 SL,3.6,endemic,Victoria
+Haplochromis boops,,Cichlidae,benthopelagic,19.4 SL,4.2,endemic,Victoria
+Haplochromis brownae,,Cichlidae,benthopelagic,10.4 SL,3.9,endemic,Victoria
+Haplochromis bwathondii,,Cichlidae,pelagic,8.2 SL,3.3,endemic,Victoria
+Haplochromis cassius,,Cichlidae,benthopelagic,9.8 SL,3.4,endemic,Victoria
+Haplochromis cavifrons,,Cichlidae,benthopelagic,19.5 SL,4.2,endemic,Victoria
+Haplochromis chilotes,,Cichlidae,benthopelagic,14.8 SL,3.2,native,Victoria
+Haplochromis chlorochrous,,Cichlidae,benthopelagic,12.0 SL,3.6,endemic,Victoria
+Haplochromis chromogynos,,Cichlidae,benthopelagic,11.0 SL,3.2,endemic,Victoria
+Haplochromis chrysogynaion,,Cichlidae,benthopelagic,9.1 SL,4.2,endemic,Victoria
+Haplochromis cinctus,,Cichlidae,benthopelagic,8.8 SL,2,endemic,Victoria
+Haplochromis cinereus,,Cichlidae,benthopelagic,8.1 SL,2.6,endemic,Victoria
+Haplochromis cnester,,Cichlidae,benthopelagic,8.1 SL,3.3,endemic,Victoria
+Haplochromis commutabilis,Kachira Blue,Cichlidae,benthopelagic,10.4 SL,3.3,endemic,Victoria
+Haplochromis coprologus,,Cichlidae,benthopelagic,7.5 SL,3.3,endemic,Victoria
+Haplochromis crassilabris,,Cichlidae,benthopelagic,15.0 TL,3.2,endemic,Victoria
+Haplochromis crocopeplus,,Cichlidae,benthopelagic,10.1 SL,3.6,endemic,Victoria
+Haplochromis cronus,,Cichlidae,benthopelagic,13.5 SL,4,native,Victoria
+Haplochromis cryptodon,,Cichlidae,benthopelagic,13.0 SL,4,endemic,Victoria
+Haplochromis cryptogramma,,Cichlidae,benthopelagic,9.4 SL,3.4,endemic,Victoria
+Haplochromis cyaneus,,Cichlidae,benthopelagic,10.7 SL,2.6,endemic,Victoria
+Haplochromis decticostoma,,Cichlidae,benthopelagic,22.9 SL,4,endemic,Victoria
+Haplochromis degeni,,Cichlidae,demersal,15.4 SL,3.2,endemic,Victoria
+Haplochromis dentex,,Cichlidae,benthopelagic,15.9 SL,4.2,endemic,Victoria
+Haplochromis dichrourus,,Cichlidae,benthopelagic,18.6 SL,4,endemic,Victoria
+Haplochromis diplotaenia,,Cichlidae,benthopelagic,11.0 SL,4.2,endemic,Victoria
+Haplochromis dolichorhynchus,,Cichlidae,benthopelagic,11.9 SL,3.4,native,Victoria
+Haplochromis empodisma,,Cichlidae,benthopelagic,11.7 SL,2.9,endemic,Victoria
+Haplochromis erythrocephalus,,Cichlidae,benthopelagic,7.7 SL,2.5,native,Victoria
+Haplochromis erythromaculatus,,Cichlidae,benthopelagic,10.3 SL,3.3,endemic,Victoria
+Haplochromis estor,,Cichlidae,benthopelagic,17.0 SL,4.2,endemic,Victoria
+Haplochromis eutaenia,,Cichlidae,benthopelagic,10.5 TL,3.6,native,Victoria
+Haplochromis exspectatus,,Cichlidae,benthopelagic,8.5 SL,3.3,endemic,Victoria
+Haplochromis fischeri,,Cichlidae,benthopelagic,10.5 SL,3.3,endemic,Victoria
+Haplochromis flavipinnis,,Cichlidae,benthopelagic,15.6 SL,4.2,native,Victoria
+Haplochromis flavus,,Cichlidae,benthopelagic,11.9 SL,2.3,native,Victoria
+Haplochromis fusiformis,,Cichlidae,benthopelagic,11.0 SL,3.3,native,Victoria
+Haplochromis gigas,,Cichlidae,demersal,14.2 SL,2,native,Victoria
+Haplochromis gilberti,,Cichlidae,benthopelagic,15.0 SL,4,endemic,Victoria
+Haplochromis goldschmidti,,Cichlidae,pelagic,6.9 SL,3.3,endemic,Victoria
+Haplochromis gowersii,,Cichlidae,benthopelagic,22.4 SL,4.2,native,Victoria
+Haplochromis granti,,Cichlidae,benthopelagic,12.2 SL,3.4,endemic,Victoria
+Haplochromis greenwoodi,,Cichlidae,demersal,13.5 SL,3.2,native,Victoria
+Haplochromis guiarti,,Cichlidae,benthopelagic,17.7 SL,4.2,endemic,Victoria
+Haplochromis harpakteridion,,Cichlidae,benthopelagic,8.1 SL,4.2,endemic,Victoria
+Haplochromis heusinkveldi,,Cichlidae,benthopelagic,7.6 SL,3.4,native,Victoria
+Haplochromis hiatus,,Cichlidae,benthopelagic,11.2 SL,3.2,endemic,Victoria
+Haplochromis howesi,,Cichlidae,benthopelagic,16.3 SL,3.5,endemic,Victoria
+Haplochromis humilior,,Cichlidae,benthopelagic,9.0 SL,2.6,endemic,Victoria
+Haplochromis igneopinnis,,Cichlidae,demersal,10.8 SL,2,native,Victoria
+Haplochromis iris,,Cichlidae,benthopelagic,11.6 SL,3.2,native,Victoria
+Haplochromis ishmaeli,,Cichlidae,benthopelagic,13.6 SL,3.6,native,Victoria
+Haplochromis katunzii,,Cichlidae,demersal,8.0 SL,3.3,endemic,Victoria
+Haplochromis kujunjui,,Cichlidae,benthopelagic,10.3 SL,4.2,endemic,Victoria
+Haplochromis labriformis,,Cichlidae,benthopelagic,6.2 SL,3.3,endemic,Victoria
+Haplochromis lacrimosus,,Cichlidae,benthopelagic,9.7 SL,2.8,endemic,Victoria
+Haplochromis laparogramma,,Cichlidae,benthopelagic,8.5 SL,3.3,native,Victoria
+Haplochromis lividus,,Cichlidae,benthopelagic,9.0 SL,2.4,endemic,Victoria
+Haplochromis longirostris,,Cichlidae,benthopelagic,14.5 SL,3.9,native,Victoria
+Haplochromis luteus,,Cichlidae,demersal,13.3 SL,2.6,native,Victoria
+Haplochromis macrocephalus,,Cichlidae,demersal,10.6 SL,3,native,Victoria
+Haplochromis macrognathus,,Cichlidae,benthopelagic,17.4 SL,4.2,endemic,Victoria
+Haplochromis macrops,,Cichlidae,benthopelagic,9.1 SL,2.8,endemic,Victoria
+Haplochromis maculipinna,,Cichlidae,benthopelagic,16.6 SL,3.9,endemic,Victoria
+Haplochromis maisomei,,Cichlidae,benthopelagic,9.8 SL,4.2,endemic,Victoria
+Haplochromis mandibularis,,Cichlidae,benthopelagic,17.4 SL,4.2,endemic,Victoria
+Haplochromis martini,,Cichlidae,benthopelagic,10.4 SL,3.9,endemic,Victoria
+Haplochromis maxillaris,,Cichlidae,benthopelagic,16.0 SL,4,endemic,Victoria
+Haplochromis mbipi,,Cichlidae,demersal,13.1 SL,2.6,native,Victoria
+Haplochromis megalops,,Cichlidae,benthopelagic,8.1 SL,3.3,endemic,Victoria
+Haplochromis melanopterus,,Cichlidae,benthopelagic,12.7 SL,4,endemic,Victoria
+Haplochromis melanopus,,Cichlidae,benthopelagic,10.0 TL,3.3,native,Victoria
+Haplochromis melichrous,,Cichlidae,benthopelagic,10.7 SL,3.4,endemic,Victoria
+Haplochromis mento,,Cichlidae,benthopelagic,17.8 SL,4.2,endemic,Victoria
+Haplochromis michaeli,,Cichlidae,benthopelagic,14.5 SL,4.2,endemic,Victoria
+Haplochromis microdon,,Cichlidae,benthopelagic,14.8 SL,4,endemic,Victoria
+Haplochromis mylergates,,Cichlidae,benthopelagic,13.7 SL,3.4,endemic,Victoria
+Haplochromis nanoserranus,,Cichlidae,benthopelagic,7.6 SL,3.8,endemic,Victoria
+Haplochromis nigrescens,,Cichlidae,benthopelagic,11.5 TL,4.2,endemic,Victoria
+Haplochromis nigricans,,Cichlidae,benthopelagic,9.4 SL,2.2,native,Victoria
+Haplochromis niloticus,,Cichlidae,benthopelagic,10.2 SL,3.3,endemic,Victoria
+Haplochromis nubilus,Blue Victoria mouthbrooder,Cichlidae,benthopelagic,9.3 SL,3.3,native,Victoria
+Haplochromis nuchisquamulatus,,Cichlidae,benthopelagic,11.3 SL,2,native,Victoria
+Haplochromis nyanzae,,Cichlidae,benthopelagic,17.1 SL,4.2,endemic,Victoria
+Haplochromis nyererei,,Cichlidae,benthopelagic,7.7 SL,2.6,native,Victoria
+Haplochromis obesus,,Cichlidae,benthopelagic,17.0 SL,4,native,Victoria
+Haplochromis obliquidens,,Cichlidae,benthopelagic,8.9 SL,2,native,Victoria
+Haplochromis obtusidens,,Cichlidae,benthopelagic,11.4 SL,3.1,endemic,Victoria
+Haplochromis oligolepis,,Cichlidae,benthopelagic,8.3 SL,3.3,endemic,Victoria
+Haplochromis omnicaeruleus,,Cichlidae,demersal,11.9 SL,2,native,Victoria
+Haplochromis pachycephalus,,Cichlidae,benthopelagic,23.2 SL,4.2,endemic,Victoria
+Haplochromis pallidus,,Cichlidae,benthopelagic,7.4 SL,2.6,endemic,Victoria
+Haplochromis pancitrinus,,Cichlidae,benthopelagic,8.6 SL,3.3,endemic,Victoria
+Haplochromis paraguiarti,,Cichlidae,benthopelagic,15.6 SL,3.2,endemic,Victoria
+Haplochromis paraplagiostoma,,Cichlidae,benthopelagic,9.8 SL,3.3,endemic,Victoria
+Haplochromis paropius,,Cichlidae,benthopelagic,8.7 SL,2.3,endemic,Victoria
+Haplochromis parorthostoma,,Cichlidae,benthopelagic,11.7 SL,3.4,endemic,Victoria
+Haplochromis parvidens,,Cichlidae,benthopelagic,16.3 SL,4,endemic,Victoria
+Haplochromis pellegrini,,Cichlidae,benthopelagic,10.4 SL,3.5,endemic,Victoria
+Haplochromis percoides,,Cichlidae,benthopelagic,9.3 SL,4.2,endemic,Victoria
+Haplochromis perrieri,,Cichlidae,benthopelagic,6.0 SL,4.2,endemic,Victoria
+Haplochromis pharyngomylus,,Cichlidae,benthopelagic,12.6 SL,3.2,endemic,Victoria
+Haplochromis phytophagus,,Cichlidae,benthopelagic,8.6 SL,2,endemic,Victoria
+Haplochromis piceatus,,Cichlidae,benthopelagic,9.0 SL,3.3,endemic,Victoria
+Haplochromis pitmani,,Cichlidae,benthopelagic,5.5 TL,4.2,endemic,Victoria
+Haplochromis plagiodon,,Cichlidae,benthopelagic,8.5 SL,3.2,native,Victoria
+Haplochromis plagiostoma,,Cichlidae,benthopelagic,14.7 SL,4.4,native,Victoria
+Haplochromis plutonius,,Cichlidae,benthopelagic,9.6 SL,3.6,native,Victoria
+Haplochromis prodromus,,Cichlidae,benthopelagic,13.0 SL,3.4,native,Victoria
+Haplochromis prognathus,,Cichlidae,benthopelagic,14.1 SL,3.1,native,Victoria
+Haplochromis pseudopellegrini,,Cichlidae,benthopelagic,15.0 SL,4.2,native,Victoria
+Haplochromis ptistes,,Cichlidae,benthopelagic,10.6 SL,3.6,native,Victoria
+Haplochromis pundamilia,,Cichlidae,demersal,12.4 SL,3.7,native,Victoria
+Haplochromis pyrrhocephalus,,Cichlidae,benthopelagic,7.3 SL,3.3,native,Victoria
+Haplochromis pyrrhopteryx,,Cichlidae,benthopelagic,19.7 SL,4.1,endemic,Victoria
+Haplochromis retrodens,,Cichlidae,benthopelagic,14.4 SL,3.3,native,Victoria
+Haplochromis riponianus,,Cichlidae,benthopelagic,10.4 SL,3.2,native,Victoria
+Haplochromis rubripinnis,,Cichlidae,pelagic,10.4 SL,3.3,native,Victoria
+Haplochromis rufocaudalis,,Cichlidae,demersal,10.0 SL,2,native,Victoria
+Haplochromis rufus,,Cichlidae,demersal,8.6 SL,3.3,native,Victoria
+Haplochromis sauvagei,,Cichlidae,benthopelagic,10.5 SL,2.7,native,Victoria
+Haplochromis saxicola,,Cichlidae,benthopelagic,12.3 SL,3.4,native,Victoria
+Haplochromis serranus,,Cichlidae,benthopelagic,20.5 SL,4.2,native,Victoria
+Haplochromis simotes,,Cichlidae,demersal,8.7 SL,3.3,native,Victoria
+Haplochromis spekii,,Cichlidae,benthopelagic,22.0 SL,4.2,native,Victoria
+Haplochromis sphex,,Cichlidae,benthopelagic,8.2 SL,3.3,endemic,Victoria
+Haplochromis squamipinnis,,Cichlidae,benthopelagic,20.2 SL,3.2,introduced,Victoria
+Haplochromis squamulatus,,Cichlidae,benthopelagic,19.8 SL,4.2,native,Victoria
+Haplochromis sulphureus,,Cichlidae,benthopelagic,10.9 SL,3.3,native,Victoria
+Haplochromis tanaos,,Cichlidae,benthopelagic,7.7 SL,3.3,endemic,Victoria
+Haplochromis teegelaari,,Cichlidae,benthopelagic,10.1 SL,3.1,native,Victoria
+Haplochromis teunisrasi,,Cichlidae,benthopelagic,9.6 SL,3.3,native,Victoria
+Haplochromis theliodon,,Cichlidae,benthopelagic,9.5 SL,3.2,native,Victoria
+Haplochromis thereuterion,,Cichlidae,benthopelagic,8.2 SL,3.3,endemic,Victoria
+Haplochromis thuragnathus,,Cichlidae,benthopelagic,20.0 SL,4.2,native,Victoria
+Haplochromis tridens,,Cichlidae,benthopelagic,11.9 SL,2.8,native,Victoria
+Haplochromis tyrianthinus,,Cichlidae,benthopelagic,10.5 SL,3.5,native,Victoria
+Haplochromis ushindi,,Cichlidae,benthopelagic,22.6 SL,3.5,endemic,Victoria
+Haplochromis vanoijeni,,Cichlidae,demersal,8.9 SL,3.3,endemic,Victoria
+Haplochromis victoriae,,Cichlidae,benthopelagic,7.6 SL,3.3,native,Victoria
+Haplochromis victorianus,,Cichlidae,benthopelagic,16.6 SL,4.2,native,Victoria
+Haplochromis vonlinnei,,Cichlidae,demersal,15.9 SL,3.4,native,Victoria
+Haplochromis welcommei,,Cichlidae,benthopelagic,10.5 SL,3.3,native,Victoria
+Haplochromis xanthopteryx,,Cichlidae,demersal,10.7 SL,3.1,native,Victoria
+Haplochromis xenognathus,,Cichlidae,benthopelagic,11.3 SL,2.9,native,Victoria
+Haplochromis xenostoma,,Cichlidae,benthopelagic,20.3 SL,4.2,native,Victoria
+Oreochromis esculentus,Singida tilapia,Cichlidae,benthopelagic,50.0 SL,2.5,native,Victoria
+Oreochromis leucostictus,Blue spotted tilapia,Cichlidae,benthopelagic,36.3 SL,2.3,introduced,Victoria
+Oreochromis niloticus,Nile tilapia,Cichlidae,benthopelagic,60.0 SL,2,introduced,Victoria
+Oreochromis variabilis,Victoria tilapia,Cichlidae,benthopelagic,30.0 SL,2,native,Victoria
+Sarotherodon galilaeus,Mango tilapia,Cichlidae,demersal,39.5 TL,2.8,native,Victoria
+Clariallabes petricola,Victoria snake catfish,Clariidae,demersal,8.5 SL,3.5,native,Victoria
+Clarias alluaudi,Alluaud's catfish,Clariidae,demersal,23.0 TL,3.2,native,Victoria
+Clarias gariepinus,North African catfish,Clariidae,benthopelagic,170.0 TL,3.8,native,Victoria
+Clarias liocephalus,Smoothhead catfish,Clariidae,demersal,32.0 TL,3.3,native,Victoria
+Clarias werneri,Werner's catfish,Clariidae,demersal,23.0 TL,3.1,native,Victoria
+Xenoclarias eupogon,Lake Victoria deepwater catfish,Clariidae,demersal,20.9 SL,3.4,endemic,Victoria
+Clypeobarbus pleuropholis,,Cyprinidae,benthopelagic,3.3 SL,3,error,Victoria
+Enteromius alberti,,Cyprinidae,benthopelagic,7.4 SL,3,native,Victoria
+Enteromius apleurogramma,East African red finned barb,Cyprinidae,benthopelagic,5.4 SL,2.9,native,Victoria
+Enteromius jacksoni,Jackson's barb,Cyprinidae,benthopelagic,11.6 SL,3,native,Victoria
+Enteromius kerstenii,Redspot barb,Cyprinidae,benthopelagic,9.0 SL,3,native,Victoria
+Enteromius loveridgii,,Cyprinidae,benthopelagic,6.6 SL,3,endemic,Victoria
+Enteromius magdalenae,Bunjako barb,Cyprinidae,benthopelagic,6.8 SL,3,endemic,Victoria
+Enteromius neumayeri,Neumayer's barb,Cyprinidae,benthopelagic,11.8 SL,3,native,Victoria
+Enteromius nyanzae,Nyanza barb,Cyprinidae,benthopelagic,7.0 SL,3,endemic,Victoria
+Enteromius paludinosus,Straightfin barb,Cyprinidae,benthopelagic,15.0 SL,2.9,native,Victoria
+Enteromius profundus,,Cyprinidae,benthopelagic,6.3 SL,3.2,endemic,Victoria
+Enteromius radiatus,Redeye barb,Cyprinidae,benthopelagic,12.0 SL,2.8,native,Victoria
+Enteromius serengetiensis,,Cyprinidae,pelagic,4.0 SL,3,endemic,Victoria
+Enteromius sexradiatus,Kavirondo barb,Cyprinidae,benthopelagic,5.6 SL,3,endemic,Victoria
+Enteromius trispilopleura,,Cyprinidae,benthopelagic,4.5 TL,3,native,Victoria
+Enteromius viktorianus,Victoria barb,Cyprinidae,benthopelagic,7.1 TL,3,endemic,Victoria
+Enteromius yongei,Nzoia barb,Cyprinidae,benthopelagic,5.6 SL,2.3,endemic,Victoria
+Garra dembeensis,Dembea stone lapper,Cyprinidae,benthopelagic,11.0 SL,2,native,Victoria
+Labeo victorianus,Ningu,Cyprinidae,benthopelagic,41.0 SL,2.4,native,Victoria
+Labeo werneri,,Cyprinidae,benthopelagic,31.3 TL,2.3,endemic,Victoria
+Labeobarbus acuticeps,,Cyprinidae,benthopelagic,40.3 TL,3.2,endemic,Victoria
+Labeobarbus altianalis,Ripon barbel,Cyprinidae,benthopelagic,90.0 TL,3.4,native,Victoria
+Labeobarbus claudinae,,Cyprinidae,benthopelagic,30.0 TL,3.2,endemic,Victoria
+Labeobarbus microbarbis,,Cyprinidae,benthopelagic,27.0 TL,3.2,extirpated,Victoria
+Labeobarbus platystomus,Rwandese carp,Cyprinidae,benthopelagic,21.0 TL,3.2,endemic,Victoria
+Labeobarbus ruandae,,Cyprinidae,benthopelagic,26.2 SL,3.2,endemic,Victoria
+Labeobarbus ruasae,,Cyprinidae,benthopelagic,49.5 TL,3.2,endemic,Victoria
+Labeobarbus somereni,,Cyprinidae,benthopelagic,40.0 SL,3.2,native,Victoria
+Xenobarbus loveridgei,,Cyprinidae,benthopelagic,9.0 SL,2.9,endemic,Victoria
+Rastrineobola argentea,Silver cyprinid,Danionidae,pelagic,8.0 TL,3.4,native,Victoria
+Lates niloticus,Nile perch,Latidae,demersal,200.0 TL,4.5,introduced,Victoria
+Mastacembelus frenatus,Longtail spiny eel,Mastacembelidae,demersal,40.0 SL,3.9,native,Victoria
+Chiloglanis somereni,Someren's suckermouth,Mochokidae,benthopelagic,10.0 SL,3.2,native,Victoria
+Synodontis afrofischeri,Fischer's Victoria squeaker,Mochokidae,benthopelagic,17.7 SL,3.4,native,Victoria
+Synodontis ruandae,,Mochokidae,benthopelagic,16.2 TL,2.9,endemic,Victoria
+Synodontis victoriae,Lake Victoria squeaker,Mochokidae,benthopelagic,35.0 SL,3.3,native,Victoria
+Cyphomyrus grahami,Graham's stonebasher,Mormyridae,benthopelagic,25.0 SL,3.2,native,Victoria
+Gnathonemus longibarbis,Longnose stonebasher,Mormyridae,demersal,36.0 TL,3.2,native,Victoria
+Marcusenius macrolepidotus,Bulldog,Mormyridae,demersal,32.0 TL,3.2,questionable,Victoria
+Marcusenius rheni,,Mormyridae,demersal,20.8 TL,3.1,endemic,Victoria
+Marcusenius victoriae,Victoria stonebasher,Mormyridae,demersal,26.0 TL,3.3,native,Victoria
+Mormyrus kannume,Elephant-snout fish,Mormyridae,demersal,100.0 SL,3.2,native,Victoria
+Mormyrus macrocephalus,,Mormyridae,demersal,42.0 TL,3.2,questionable,Victoria
+Petrocephalus catostoma,Churchill,Mormyridae,demersal,15.0 FL,3.4,native,Victoria
+Petrocephalus degeni,,Mormyridae,demersal,8.1 SL,3.2,endemic,Victoria
+Pollimyrus nigricans,Dark stonebasher,Mormyridae,demersal,10.0 SL,3.4,native,Victoria
+Nothobranchius attenboroughi,,Nothobranchiidae,benthopelagic,4.4 SL,3.2,endemic,Victoria
+Nothobranchius derhami,,Nothobranchiidae,benthopelagic,3.8 SL,3.2,endemic,Victoria
+Nothobranchius moameensis,,Nothobranchiidae,benthopelagic,4.3 SL,3.2,endemic,Victoria
+Nothobranchius ottoschmidti,,Nothobranchiidae,benthopelagic,5.5 SL,3.2,native,Victoria
+Nothobranchius robustus,Red Victoria nothobranch,Nothobranchiidae,benthopelagic,5.5 TL,3.2,native,Victoria
+Nothobranchius sagittae,,Nothobranchiidae,pelagic,3.9 SL,3.2,endemic,Victoria
+Nothobranchius serengetiensis,,Nothobranchiidae,pelagic,4.8 SL,3.2,endemic,Victoria
+Nothobranchius skeltoni,,Nothobranchiidae,benthopelagic,5.3 SL,3.2,endemic,Victoria
+Nothobranchius sonjae,,Nothobranchiidae,benthopelagic,4.4 SL,3.2,native,Victoria
+Nothobranchius taeniopygus,Striped nothobranch,Nothobranchiidae,benthopelagic,3.6 SL,3.2,native,Victoria
+Nothobranchius ugandensis,Uganda nothobranch,Nothobranchiidae,benthopelagic,5.0 SL,3.2,native,Victoria
+Nothobranchius venustus,,Nothobranchiidae,benthopelagic,3.6 SL,3.2,endemic,Victoria
+Gambusia holbrooki,Eastern mosquitofish,Poeciliidae,benthopelagic,8.0 TL,3.1,introduced,Victoria
+Poecilia reticulata,Guppy,Poeciliidae,benthopelagic,6.0 SL,3.2,introduced,Victoria
+Lacustricola atripinna,,Procatopodidae,benthopelagic,3.8 TL,3,questionable,Victoria
+Lacustricola bukobanus,Bukoba lampeye,Procatopodidae,benthopelagic,5.0 TL,3,native,Victoria
+Lacustricola centralis,Cental east african lampeye,Procatopodidae,benthopelagic,3.3 TL,3,native,Victoria
+Lacustricola pumilus,Tanganyika lampeye,Procatopodidae,benthopelagic,5.5 TL,2.9,misidentification,Victoria
+Lacustricola vitschumbaensis,Bitschumbi lampeye,Procatopodidae,benthopelagic,5.5 TL,2.9,native,Victoria
+Micropanchax fuelleborni,Lake Rukwa lampeye,Procatopodidae,benthopelagic,3.5 TL,3.1,questionable,Victoria
+Micropanchax loati,Nile killifish,Procatopodidae,benthopelagic,4.0 TL,3.2,native,Victoria
+Protopterus aethiopicus,Marbled lungfish,Protopteridae,demersal,200.0 TL,4.4,native,Victoria
+Schilbe intermedius,Silver catfish,Schilbeidae,pelagic,50.0 SL,3.6,native,Victoria
+Schilbe mystus,African butter catfish,Schilbeidae,demersal,35.0 SL,3.5,questionable,Victoria
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
