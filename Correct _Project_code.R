@@ -14,8 +14,8 @@ Chichlidae_Lake_Data <- Chichlidae_Lake_Data %>%
 
 #select data
 Chichlidae_selected <- Chichlidae_Lake_Data %>% 
-  select(Genus, Species, Lake, DepthRangeDeep, `Length (cm)`, LongevityWild)
+  select(Genus, Species, Family, Lake, DepthRangeDeep, `Length (cm)`, measurement, LongevityWild)
 
 #filter data
 Chichlidae_filtered <- Chichlidae_selected %>% 
-  filter(DepthRangeDeep != "NA", LongevityWild != "NA")
+  filter(DepthRangeDeep != "NA", LongevityWild != "NA", Family == "Cichlidae", measurement == "TL", Lake != "Victoria")
