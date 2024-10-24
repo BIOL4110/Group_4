@@ -1,0 +1,1888 @@
+Genus,Species,Family,Habitat,Length_cm,measurement,Trophic_lvl,Status,Lake,Region
+Brycinus,imberi,Alestidae,demersal,19.8,TL,3.3,native,Kariba,southern africa
+Brycinus,lateralis,Alestidae,pelagic,14,SL,3.5,native,Kariba,southern africa
+Hydrocynus,vittatus,Alestidae,demersal,105,FL,3.7,native,Kariba,southern africa
+Micralestes,acutidens,Alestidae,pelagic,9,SL,2.9,native,Kariba,southern africa
+Micropterus,salmoides,Centrarchidae,benthopelagic,97,TL,3.8,introduced,Kariba,southern africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,native,Kariba,southern africa
+Oreochromis,andersonii,Cichlidae,benthopelagic,61,TL,2,native,Kariba,southern africa
+Oreochromis,macrochir,Cichlidae,benthopelagic,43,TL,2.2,introduced,Kariba,southern africa
+Oreochromis,mortimeri,Cichlidae,benthopelagic,48,TL,2.2,native,Kariba,southern africa
+Oreochromis,mossambicus,Cichlidae,benthopelagic,39,SL,2.2,misidentification,Kariba,southern africa
+Oreochromis,niloticus,Cichlidae,benthopelagic,60,SL,2,introduced,Kariba,southern africa
+Pharyngochromis,acuticeps,Cichlidae,benthopelagic,12,TL,3.3,native,Kariba,southern africa
+Pharyngochromis,darlingi,Cichlidae,demersal,22,TL,3.2,native,Kariba,southern africa
+Pseudocrenilabrus,philander,Cichlidae,benthopelagic,13,TL,3.7,native,Kariba,southern africa
+Sargochromis,carlottae,Cichlidae,demersal,34.5,SL,3.6,native,Kariba,southern africa
+Sargochromis,codringtonii,Cichlidae,demersal,39,TL,3.1,native,Kariba,southern africa
+Serranochromis,jallae,Cichlidae,demersal,39.6,SL,4.1,introduced,Kariba,southern africa
+Serranochromis,macrocephalus,Cichlidae,demersal,35,SL,4.2,native,Kariba,southern africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Kariba,southern africa
+Heterobranchus,longifilis,Clariidae,demersal,150,SL,3.7,native,Kariba,southern africa
+Enteromius,fasciolatus,Cyprinidae,benthopelagic,6,SL,3,native,Kariba,southern africa
+Enteromius,lineomaculatus,Cyprinidae,benthopelagic,8.6,SL,3,native,Kariba,southern africa
+Enteromius,poechii,Cyprinidae,benthopelagic,11,SL,3.3,native,Kariba,southern africa
+Enteromius,unitaeniatus,Cyprinidae,benthopelagic,14,SL,3.3,native,Kariba,southern africa
+Labeo,altivelis,Cyprinidae,benthopelagic,49,TL,2,native,Kariba,southern africa
+Labeo,congoro,Cyprinidae,benthopelagic,41.5,SL,2.2,native,Kariba,southern africa
+Labeo,cylindricus,Cyprinidae,benthopelagic,25,SL,2,native,Kariba,southern africa
+Labeobarbus,marequensis,Cyprinidae,benthopelagic,47,TL,3.2,native,Kariba,southern africa
+Opsaridium,zambezense,Danionidae,benthopelagic,12,SL,3.4,native,Kariba,southern africa
+Distichodus,mossambicus,Distichodontidae,pelagic,57,SL,3.2,native,Kariba,southern africa
+Distichodus,schenga,Distichodontidae,pelagic,50,SL,2.1,native,Kariba,southern africa
+Limnothrissa,miodon,Dorosomatidae,pelagic,17,SL,3.1,introduced,Kariba,southern africa
+Kneria,auriculata,Kneriidae,benthopelagic,7,SL,2,native,Kariba,southern africa
+Malapterurus,electricus,Malapteruridae,benthopelagic,122,SL,2.9,misidentification,Kariba,southern africa
+Malapterurus,shirensis,Malapteruridae,benthopelagic,37.2,SL,3.5,native,Kariba,southern africa
+Chiloglanis,neumanni,Mochokidae,benthopelagic,6.5,SL,2.8,native,Kariba,southern africa
+Synodontis,nebulosus,Mochokidae,benthopelagic,15,SL,2.5,native,Kariba,southern africa
+Synodontis,zambezensis,Mochokidae,benthopelagic,43,SL,2.7,native,Kariba,southern africa
+Cyphomyrus,discorhynchus,Mormyridae,demersal,31,SL,3.2,native,Kariba,southern africa
+Marcusenius,macrolepidotus,Mormyridae,demersal,32,TL,3.2,native,Kariba,southern africa
+Mormyrops,anguilloides,Mormyridae,demersal,150,TL,3.8,native,Kariba,southern africa
+Mormyrus,longirostris,Mormyridae,demersal,75,SL,3.3,native,Kariba,southern africa
+Micropanchax,johnstoni,Procatopodidae,benthopelagic,8.5,TL,3.2,native,Kariba,southern africa
+Protopterus,annectens,Protopteridae,demersal,100,TL,3.8,native,Kariba,southern africa
+Schilbe,intermedius,Schilbeidae,pelagic,50,SL,3.6,native,Kariba,southern africa
+Bryconaethiops,microstoma,Alestidae,pelagic,17.2,SL,3.2,error,Kivu,central africa
+Hydrocynus,vittatus,Alestidae,demersal,105,FL,3.7,error,Kivu,central africa
+Amphilius,kivuensis,Amphiliidae,demersal,10.6,TL,3,questionable,Kivu,central africa
+Amphilius,uranoscopus,Amphiliidae,demersal,19.5,TL,2.9,native,Kivu,central africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,introduced,Kivu,central africa
+Haplochromis,adolphifrederici,Cichlidae,benthopelagic,11.4,SL,3.4,endemic,Kivu,central africa
+Haplochromis,astatodon,Cichlidae,benthopelagic,10.1,SL,3.3,endemic,Kivu,central africa
+Haplochromis,crebridens,Cichlidae,benthopelagic,10.4,SL,3.3,endemic,Kivu,central africa
+Haplochromis,gracilior,Cichlidae,benthopelagic,10.4,SL,3.3,endemic,Kivu,central africa
+Haplochromis,graueri,Cichlidae,benthopelagic,11.8,SL,3.1,endemic,Kivu,central africa
+Haplochromis,insidiae,Cichlidae,benthopelagic,9.4,SL,3.3,endemic,Kivu,central africa
+Haplochromis,kamiranzovu,Cichlidae,benthopelagic,9.4,SL,2.1,endemic,Kivu,central africa
+Haplochromis,microchrysomelas,Cichlidae,benthopelagic,8.3,SL,3.3,endemic,Kivu,central africa
+Haplochromis,nigroides,Cichlidae,benthopelagic,7.5,SL,2.7,endemic,Kivu,central africa
+Haplochromis,occultidens,Cichlidae,benthopelagic,12.3,SL,3.4,endemic,Kivu,central africa
+Haplochromis,olivaceus,Cichlidae,benthopelagic,8.9,SL,2.1,endemic,Kivu,central africa
+Haplochromis,paucidens,Cichlidae,benthopelagic,10.6,SL,3.3,endemic,Kivu,central africa
+Haplochromis,rubescens,Cichlidae,benthopelagic,11.4,SL,3.4,endemic,Kivu,central africa
+Haplochromis,scheffersi,Cichlidae,benthopelagic,8.5,SL,3.3,endemic,Kivu,central africa
+Haplochromis,vittatus,Cichlidae,benthopelagic,19.1,SL,3.5,endemic,Kivu,central africa
+Oreochromis,leucostictus,Cichlidae,benthopelagic,36.3,SL,2.3,introduced,Kivu,central africa
+Oreochromis,macrochir,Cichlidae,benthopelagic,43,TL,2.2,introduced,Kivu,central africa
+Oreochromis,mweruensis,Cichlidae,benthopelagic,23.8,SL,2.3,introduced,Kivu,central africa
+Oreochromis,niloticus,Cichlidae,benthopelagic,60,SL,2,native,Kivu,central africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Kivu,central africa
+Clarias,liocephalus,Clariidae,demersal,32,TL,3.3,native,Kivu,central africa
+Enteromius,apleurogramma,Cyprinidae,benthopelagic,5.4,SL,2.9,native,Kivu,central africa
+Enteromius,kerstenii,Cyprinidae,benthopelagic,9,SL,3,native,Kivu,central africa
+Enteromius,neumayeri,Cyprinidae,benthopelagic,11.8,SL,3,questionable,Kivu,central africa
+Enteromius,pellegrini,Cyprinidae,benthopelagic,11.7,SL,3,native,Kivu,central africa
+Labeobarbus,altianalis,Cyprinidae,benthopelagic,90,TL,3.4,native,Kivu,central africa
+Labeobarbus,somereni,Cyprinidae,benthopelagic,40,SL,3.2,native,Kivu,central africa
+Raiamas,moorii,Danionidae,benthopelagic,22,TL,3.3,native,Kivu,central africa
+Limnothrissa,miodon,Dorosomatidae,pelagic,17,SL,3.1,introduced,Kivu,central africa
+Stolothrissa,tanganicae,Dorosomatidae,pelagic,10,SL,2.7,not established,Kivu,central africa
+Gnathonemus,petersii,Mormyridae,demersal,35,SL,3.1,error,Kivu,central africa
+Lacustricola,pumilus,Procatopodidae,benthopelagic,5.5,TL,2.9,misidentification,Kivu,central africa
+Lamprichthys,tanganicanus,Procatopodidae,benthopelagic,15,SL,3.5,introduced,Kivu,central africa
+Schilbe,grenfelli,Schilbeidae,demersal,50.7,SL,3.5,error,Kivu,central africa
+Brycinus,lateralis,Alestidae,pelagic,14,SL,3.5,native,Liambezi,southwest africa
+Hydrocynus,vittatus,Alestidae,demersal,105,FL,3.7,native,Liambezi,southwest africa
+Rhabdalestes,maunensis,Alestidae,pelagic,8.5,TL,3.3,native,Liambezi,southwest africa
+Ctenopoma,multispine,Anabantidae,benthopelagic,13.5,SL,3.8,native,Liambezi,southwest africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,native,Liambezi,southwest africa
+Oreochromis,andersonii,Cichlidae,benthopelagic,61,TL,2,native,Liambezi,southwest africa
+Oreochromis,macrochir,Cichlidae,benthopelagic,43,TL,2.2,native,Liambezi,southwest africa
+Pharyngochromis,darlingi,Cichlidae,demersal,22,TL,3.2,native,Liambezi,southwest africa
+Pseudocrenilabrus,philander,Cichlidae,benthopelagic,13,TL,3.7,native,Liambezi,southwest africa
+Sargochromis,carlottae,Cichlidae,demersal,34.5,SL,3.6,native,Liambezi,southwest africa
+Sargochromis,codringtonii,Cichlidae,demersal,39,TL,3.1,native,Liambezi,southwest africa
+Sargochromis,giardi,Cichlidae,benthopelagic,48,TL,3.5,native,Liambezi,southwest africa
+Serranochromis,angusticeps,Cichlidae,demersal,41,SL,4.5,native,Liambezi,southwest africa
+Serranochromis,jallae,Cichlidae,demersal,39.6,SL,4.1,native,Liambezi,southwest africa
+Serranochromis,longimanus,Cichlidae,demersal,30,SL,3.9,native,Liambezi,southwest africa
+Serranochromis,macrocephalus,Cichlidae,demersal,35,SL,4.2,native,Liambezi,southwest africa
+Serranochromis,thumbergi,Cichlidae,demersal,33,TL,3.7,native,Liambezi,southwest africa
+Tilapia,ruweti,Cichlidae,benthopelagic,10.4,TL,2.4,native,Liambezi,southwest africa
+Tilapia,sparrmanii,Cichlidae,benthopelagic,23.5,TL,2.7,native,Liambezi,southwest africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Liambezi,southwest africa
+Clarias,ngamensis,Clariidae,demersal,73,TL,4.3,native,Liambezi,southwest africa
+Clarias,theodorae,Clariidae,demersal,35,SL,3.5,native,Liambezi,southwest africa
+Coptostomabarbus,wittei,Cyprinidae,benthopelagic,4,SL,2.7,native,Liambezi,southwest africa
+Enteromius,barnardi,Cyprinidae,benthopelagic,7,SL,2.6,native,Liambezi,southwest africa
+Enteromius,barotseensis,Cyprinidae,benthopelagic,5,SL,3,native,Liambezi,southwest africa
+Enteromius,bifrenatus,Cyprinidae,benthopelagic,7,SL,2.6,native,Liambezi,southwest africa
+Enteromius,multilineatus,Cyprinidae,benthopelagic,4.5,SL,3,native,Liambezi,southwest africa
+Enteromius,paludinosus,Cyprinidae,benthopelagic,15,SL,2.9,native,Liambezi,southwest africa
+Enteromius,poechii,Cyprinidae,benthopelagic,11,SL,3.3,native,Liambezi,southwest africa
+Enteromius,radiatus,Cyprinidae,benthopelagic,12,SL,2.8,native,Liambezi,southwest africa
+Enteromius,unitaeniatus,Cyprinidae,benthopelagic,14,SL,3.3,native,Liambezi,southwest africa
+Labeo,lunatus,Cyprinidae,benthopelagic,40,SL,2,native,Liambezi,southwest africa
+Hepsetus,cuvieri,Hepsetidae,demersal,37,SL,3,native,Liambezi,southwest africa
+Hepsetus,odoe,Hepsetidae,demersal,44.2,SL,4.1,misidentification,Liambezi,southwest africa
+Synodontis,leopardinus,Mochokidae,benthopelagic,19.6,SL,3.7,native,Liambezi,southwest africa
+Synodontis,macrostigma,Mochokidae,benthopelagic,17.1,TL,3.5,native,Liambezi,southwest africa
+Synodontis,nigromaculatus,Mochokidae,benthopelagic,38.5,TL,3.3,native,Liambezi,southwest africa
+Synodontis,woosnami,Mochokidae,benthopelagic,20.5,SL,2.4,native,Liambezi,southwest africa
+Marcusenius,macrolepidotus,Mormyridae,demersal,32,TL,3.2,native,Liambezi,southwest africa
+Mormyrus,lacerda,Mormyridae,demersal,50,TL,3.7,native,Liambezi,southwest africa
+Petrocephalus,catostoma,Mormyridae,demersal,15,FL,3.4,misidentification,Liambezi,southwest africa
+Petrocephalus,longicapitis,Mormyridae,demersal,11,SL,3.2,native,Liambezi,southwest africa
+Lacustricola,hutereaui,Procatopodidae,benthopelagic,3.5,TL,3,native,Liambezi,southwest africa
+Micropanchax,johnstoni,Procatopodidae,benthopelagic,8.5,TL,3.2,native,Liambezi,southwest africa
+Brycinus,lateralis,Alestidae,pelagic,14,SL,3.5,native,Linyanti Swamp,southwest africa
+Rhabdalestes,maunensis,Alestidae,pelagic,8.5,TL,3.3,native,Linyanti Swamp,southwest africa
+Ctenopoma,multispine,Anabantidae,benthopelagic,13.5,SL,3.8,native,Linyanti Swamp,southwest africa
+Ctenopoma,muriei,Anabantidae,benthopelagic,7,SL,3,misidentification,Linyanti Swamp,southwest africa
+Microctenopoma,intermedium,Anabantidae,benthopelagic,6.2,TL,3.2,misidentification,Linyanti Swamp,southwest africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,native,Linyanti Swamp,southwest africa
+Oreochromis,andersonii,Cichlidae,benthopelagic,61,TL,2,native,Linyanti Swamp,southwest africa
+Oreochromis,macrochir,Cichlidae,benthopelagic,43,TL,2.2,native,Linyanti Swamp,southwest africa
+Pharyngochromis,darlingi,Cichlidae,demersal,22,TL,3.2,native,Linyanti Swamp,southwest africa
+Pseudocrenilabrus,philander,Cichlidae,benthopelagic,13,TL,3.7,native,Linyanti Swamp,southwest africa
+Sargochromis,carlottae,Cichlidae,demersal,34.5,SL,3.6,native,Linyanti Swamp,southwest africa
+Sargochromis,codringtonii,Cichlidae,demersal,39,TL,3.1,native,Linyanti Swamp,southwest africa
+Sargochromis,giardi,Cichlidae,benthopelagic,48,TL,3.5,native,Linyanti Swamp,southwest africa
+Sargochromis,greenwoodi,Cichlidae,demersal,30,SL,3.7,native,Linyanti Swamp,southwest africa
+Serranochromis,angusticeps,Cichlidae,demersal,41,SL,4.5,native,Linyanti Swamp,southwest africa
+Serranochromis,jallae,Cichlidae,demersal,39.6,SL,4.1,native,Linyanti Swamp,southwest africa
+Serranochromis,macrocephalus,Cichlidae,demersal,35,SL,4.2,native,Linyanti Swamp,southwest africa
+Serranochromis,thumbergi,Cichlidae,demersal,33,TL,3.7,native,Linyanti Swamp,southwest africa
+Tilapia,ruweti,Cichlidae,benthopelagic,10.4,TL,2.4,native,Linyanti Swamp,southwest africa
+Tilapia,sparrmanii,Cichlidae,benthopelagic,23.5,TL,2.7,native,Linyanti Swamp,southwest africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Linyanti Swamp,southwest africa
+Clarias,ngamensis,Clariidae,demersal,73,TL,4.3,native,Linyanti Swamp,southwest africa
+Clarias,theodorae,Clariidae,demersal,35,SL,3.5,native,Linyanti Swamp,southwest africa
+Coptostomabarbus,wittei,Cyprinidae,benthopelagic,4,SL,2.7,native,Linyanti Swamp,southwest africa
+Enteromius,barnardi,Cyprinidae,benthopelagic,7,SL,2.6,native,Linyanti Swamp,southwest africa
+Enteromius,barotseensis,Cyprinidae,benthopelagic,5,SL,3,native,Linyanti Swamp,southwest africa
+Enteromius,bifrenatus,Cyprinidae,benthopelagic,7,SL,2.6,native,Linyanti Swamp,southwest africa
+Enteromius,fasciolatus,Cyprinidae,benthopelagic,6,SL,3,native,Linyanti Swamp,southwest africa
+Enteromius,haasianus,Cyprinidae,benthopelagic,3.2,SL,3,native,Linyanti Swamp,southwest africa
+Enteromius,lineomaculatus,Cyprinidae,benthopelagic,8.6,SL,3,native,Linyanti Swamp,southwest africa
+Enteromius,multilineatus,Cyprinidae,benthopelagic,4.5,SL,3,native,Linyanti Swamp,southwest africa
+Enteromius,paludinosus,Cyprinidae,benthopelagic,15,SL,2.9,native,Linyanti Swamp,southwest africa
+Enteromius,poechii,Cyprinidae,benthopelagic,11,SL,3.3,native,Linyanti Swamp,southwest africa
+Enteromius,thamalakanensis,Cyprinidae,benthopelagic,5,TL,2.6,native,Linyanti Swamp,southwest africa
+Enteromius,unitaeniatus,Cyprinidae,benthopelagic,14,SL,3.3,native,Linyanti Swamp,southwest africa
+Nannocharax,machadoi,Distichodontidae,pelagic,4,SL,3,native,Linyanti Swamp,southwest africa
+Nannocharax,multifasciatus,Distichodontidae,pelagic,6,TL,2.8,native,Linyanti Swamp,southwest africa
+Hepsetus,cuvieri,Hepsetidae,demersal,37,SL,3,native,Linyanti Swamp,southwest africa
+Hepsetus,odoe,Hepsetidae,demersal,44.2,SL,4.1,misidentification,Linyanti Swamp,southwest africa
+Synodontis,leopardinus,Mochokidae,benthopelagic,19.6,SL,3.7,native,Linyanti Swamp,southwest africa
+Synodontis,macrostigma,Mochokidae,benthopelagic,17.1,TL,3.5,native,Linyanti Swamp,southwest africa
+Synodontis,nigromaculatus,Mochokidae,benthopelagic,38.5,TL,3.3,native,Linyanti Swamp,southwest africa
+Synodontis,woosnami,Mochokidae,benthopelagic,20.5,SL,2.4,native,Linyanti Swamp,southwest africa
+Marcusenius,macrolepidotus,Mormyridae,demersal,32,TL,3.2,native,Linyanti Swamp,southwest africa
+Mormyrus,lacerda,Mormyridae,demersal,50,TL,3.7,native,Linyanti Swamp,southwest africa
+Pollimyrus,castelnaui,Mormyridae,demersal,7,SL,3.2,native,Linyanti Swamp,southwest africa
+Lacustricola,hutereaui,Procatopodidae,benthopelagic,3.5,TL,3,native,Linyanti Swamp,southwest africa
+Lacustricola,katangae,Procatopodidae,benthopelagic,5,TL,3.3,native,Linyanti Swamp,southwest africa
+Micropanchax,johnstoni,Procatopodidae,benthopelagic,8.5,TL,3.2,native,Linyanti Swamp,southwest africa
+Alestopetersius,hilgendorfi,Alestidae,pelagic,10,TL,3.1,native,Mai-Ndombe,central africa
+Alestopetersius,leopoldianus,Alestidae,pelagic,9,TL,3.1,native,Mai-Ndombe,central africa
+Alestopetersius,nigropterus,Alestidae,pelagic,6.5,SL,3.1,endemic,Mai-Ndombe,central africa
+Bathyaethiops,greeni,Alestidae,pelagic,6,TL,3.1,native,Mai-Ndombe,central africa
+Brachypetersius,altus,Alestidae,pelagic,6.5,TL,3.1,native,Mai-Ndombe,central africa
+Brycinus,bimaculatus,Alestidae,pelagic,14,TL,3.1,native,Mai-Ndombe,central africa
+Brycinus,grandisquamis,Alestidae,pelagic,26,SL,3.2,native,Mai-Ndombe,central africa
+Brycinus,imberi,Alestidae,demersal,19.8,TL,3.3,native,Mai-Ndombe,central africa
+Bryconaethiops,microstoma,Alestidae,pelagic,17.2,SL,3.2,native,Mai-Ndombe,central africa
+Hydrocynus,vittatus,Alestidae,demersal,105,FL,3.7,native,Mai-Ndombe,central africa
+Micralestes,humilis,Alestidae,pelagic,10.6,TL,3.1,native,Mai-Ndombe,central africa
+Ctenopoma,pellegrini,Anabantidae,benthopelagic,11.2,TL,3.1,native,Mai-Ndombe,central africa
+Microctenopoma,ansorgii,Anabantidae,benthopelagic,5.4,SL,3.2,native,Mai-Ndombe,central africa
+Parachanna,insignis,Channidae,benthopelagic,53.2,TL,4,native,Mai-Ndombe,central africa
+Hemichromis,elongatus,Cichlidae,benthopelagic,18.7,SL,3.7,native,Mai-Ndombe,central africa
+Nanochromis,nudiceps,Cichlidae,demersal,7,TL,3.2,native,Mai-Ndombe,central africa
+Nanochromis,transvestitus,Cichlidae,demersal,3.4,SL,3.1,endemic,Mai-Ndombe,central africa
+Nanochromis,wickleri,Cichlidae,demersal,7,SL,3.3,endemic,Mai-Ndombe,central africa
+Pterochromis,congicus,Cichlidae,demersal,15.2,SL,3.4,native,Mai-Ndombe,central africa
+Rubricatochromis,cerasogaster,Cichlidae,benthopelagic,9,TL,3.3,endemic,Mai-Ndombe,central africa
+Sarotherodon,nigripinnis,Cichlidae,demersal,18,SL,2.3,questionable,Mai-Ndombe,central africa
+Tylochromis,lateralis,Cichlidae,benthopelagic,26,TL,3.1,native,Mai-Ndombe,central africa
+Tylochromis,microdon,Cichlidae,benthopelagic,15.2,SL,2.8,questionable,Mai-Ndombe,central africa
+Tylochromis,pulcher,Cichlidae,benthopelagic,22.9,SL,3.2,native,Mai-Ndombe,central africa
+Citharinus,gibbosus,Citharinidae,pelagic,61,TL,2.2,native,Mai-Ndombe,central africa
+Citharinus,macrolepis,Citharinidae,pelagic,75,TL,2.1,native,Mai-Ndombe,central africa
+Clarias,gabonensis,Clariidae,demersal,36,TL,3.3,native,Mai-Ndombe,central africa
+Heterobranchus,longifilis,Clariidae,demersal,150,SL,3.7,native,Mai-Ndombe,central africa
+Chrysichthys,brevibarbis,Claroteidae,demersal,40,SL,3.3,native,Mai-Ndombe,central africa
+Chrysichthys,cranchii,Claroteidae,demersal,150,TL,3.4,native,Mai-Ndombe,central africa
+Chrysichthys,praecox,Claroteidae,demersal,6.3,SL,3.1,endemic,Mai-Ndombe,central africa
+Chrysichthys,punctatus,Claroteidae,demersal,15.5,SL,3.2,native,Mai-Ndombe,central africa
+Distichodus,altus,Distichodontidae,pelagic,15,TL,2.5,native,Mai-Ndombe,central africa
+Distichodus,antonii,Distichodontidae,pelagic,55,TL,2.1,native,Mai-Ndombe,central africa
+Distichodus,atroventralis,Distichodontidae,pelagic,35.7,SL,2.2,native,Mai-Ndombe,central africa
+Distichodus,noboli,Distichodontidae,pelagic,19,TL,2.4,native,Mai-Ndombe,central africa
+Distichodus,sexfasciatus,Distichodontidae,pelagic,76,SL,2.8,native,Mai-Ndombe,central africa
+Ichthyborus,ornatus,Distichodontidae,pelagic,18,TL,3,native,Mai-Ndombe,central africa
+Paraphago,rostratus,Distichodontidae,pelagic,13,TL,3,endemic,Mai-Ndombe,central africa
+Phago,boulengeri,Distichodontidae,pelagic,17,TL,3,native,Mai-Ndombe,central africa
+Xenocharax,crassus,Distichodontidae,benthopelagic,18.6,SL,3,native,Mai-Ndombe,central africa
+Xenocharax,spilurus,Distichodontidae,pelagic,26,TL,2.9,misidentification,Mai-Ndombe,central africa
+Nannothrissa,stewarti,Dorosomatidae,pelagic,2.3,SL,3,endemic,Mai-Ndombe,central africa
+Hepsetus,microlepis,Hepsetidae,benthopelagic,30.5,SL,3,native,Mai-Ndombe,central africa
+Hepsetus,odoe,Hepsetidae,demersal,44.2,SL,4.1,misidentification,Mai-Ndombe,central africa
+Synodontis,angelicus,Mochokidae,benthopelagic,55,TL,2.8,native,Mai-Ndombe,central africa
+Synodontis,greshoffi,Mochokidae,benthopelagic,26.6,TL,2.9,native,Mai-Ndombe,central africa
+Campylomormyrus,alces,Mormyridae,demersal,36,TL,3.2,native,Mai-Ndombe,central africa
+Cyphomyrus,psittacus,Mormyridae,demersal,30,TL,3.2,native,Mai-Ndombe,central africa
+Genyomyrus,donnyi,Mormyridae,demersal,45,TL,3.2,native,Mai-Ndombe,central africa
+Marcusenius,kutuensis,Mormyridae,demersal,19.5,SL,3.1,native,Mai-Ndombe,central africa
+Marcusenius,leopoldianus,Mormyridae,demersal,27,TL,3.1,native,Mai-Ndombe,central africa
+Marcusenius,schilthuisiae,Mormyridae,demersal,14.8,SL,3.1,native,Mai-Ndombe,central africa
+Mormyrops,anguilloides,Mormyridae,demersal,150,TL,3.8,native,Mai-Ndombe,central africa
+Mormyrops,lineolatus,Mormyridae,demersal,40,TL,3.2,native,Mai-Ndombe,central africa
+Mormyrops,nigricans,Mormyridae,demersal,34,TL,3.2,native,Mai-Ndombe,central africa
+Myomyrus,macrodon,Mormyridae,demersal,24,TL,3.2,native,Mai-Ndombe,central africa
+Petrocephalus,sauvagii,Mormyridae,demersal,17.5,TL,3.3,native,Mai-Ndombe,central africa
+Petrocephalus,simus,Mormyridae,demersal,12,TL,3.2,native,Mai-Ndombe,central africa
+Pollimyrus,nigripinnis,Mormyridae,demersal,11,TL,3.2,native,Mai-Ndombe,central africa
+Pollimyrus,plagiostoma,Mormyridae,demersal,17,TL,3.3,native,Mai-Ndombe,central africa
+Stomatorhinus,humilior,Mormyridae,demersal,8,TL,3.1,native,Mai-Ndombe,central africa
+Stomatorhinus,polylepis,Mormyridae,demersal,11,TL,3.1,native,Mai-Ndombe,central africa
+Aphyosemion,elegans,Nothobranchiidae,benthopelagic,5,TL,3.2,native,Mai-Ndombe,central africa
+Aphyosemion,pseudoelegans,Nothobranchiidae,pelagic,3.7,SL,3.2,native,Mai-Ndombe,central africa
+Papyrocranus,afer,Notopteridae,demersal,80,TL,3.2,misidentification,Mai-Ndombe,central africa
+Papyrocranus,congoensis,Notopteridae,demersal,29.2,SL,3.2,native,Mai-Ndombe,central africa
+Xenomystus,nigri,Notopteridae,demersal,30,SL,3.3,native,Mai-Ndombe,central africa
+Phractolaemus,ansorgii,Phractolaemidae,benthopelagic,25,TL,2.3,native,Mai-Ndombe,central africa
+Polypterus,delhezi,Polypteridae,demersal,44,TL,3.2,native,Mai-Ndombe,central africa
+Polypterus,retropinnis,Polypteridae,demersal,34,SL,2.6,native,Mai-Ndombe,central africa
+Congopanchax,brichardi,Procatopodidae,benthopelagic,3,TL,3.1,native,Mai-Ndombe,central africa
+Hylopanchax,leki,Procatopodidae,pelagic,2.9,SL,3.1,endemic,Mai-Ndombe,central africa
+Hylopanchax,moke,Procatopodidae,pelagic,2.1,SL,3.1,native,Mai-Ndombe,central africa
+Hylopanchax,ndeko,Procatopodidae,pelagic,3,SL,3.1,native,Mai-Ndombe,central africa
+Parailia,congica,Schilbeidae,demersal,9,SL,3.2,native,Mai-Ndombe,central africa
+Schilbe,laticeps,Schilbeidae,demersal,26.3,SL,3.4,native,Mai-Ndombe,central africa
+Brycinus,imberi,Alestidae,demersal,19.8,TL,3.3,native,Malawi,southeast africa
+Hemigrammopetersius,barnardi,Alestidae,pelagic,7,SL,3.4,native,Malawi,southeast africa
+Amphilius,chalei,Amphiliidae,demersal,7,SL,3,native,Malawi,southeast africa
+Zaireichthys,compactus,Amphiliidae,demersal,2.6,SL,3,native,Malawi,southeast africa
+Zaireichthys,lacustris,Amphiliidae,benthopelagic,2.2,SL,3,endemic,Malawi,southeast africa
+Zaireichthys,maravensis,Amphiliidae,benthopelagic,3.1,SL,3,endemic,Malawi,southeast africa
+Zaireichthys,monomotapa,Amphiliidae,benthopelagic,4.1,SL,3,native,Malawi,southeast africa
+Zaireichthys,rotundiceps,Amphiliidae,demersal,3.8,SL,3.4,misidentification,Malawi,southeast africa
+Anguilla,labiata,Anguillidae,demersal,175,TL,3.8,native,Malawi,southeast africa
+Bagrus,meridionalis,Bagridae,demersal,150,SL,3.9,native,Malawi,southeast africa
+Bagrus,orientalis,Bagridae,demersal,44.7,TL,3.8,native,Malawi,southeast africa
+Abactochromis,labrosus,Cichlidae,demersal,11.5,SL,3.4,endemic,Malawi,southeast africa
+Alticorpus,geoffreyi,Cichlidae,benthopelagic,15.5,SL,2.7,endemic,Malawi,southeast africa
+Alticorpus,macrocleithrum,Cichlidae,benthopelagic,12.7,SL,3.5,endemic,Malawi,southeast africa
+Alticorpus,mentale,Cichlidae,benthopelagic,20.1,SL,2.7,endemic,Malawi,southeast africa
+Alticorpus,peterdaviesi,Cichlidae,benthopelagic,15,TL,2,endemic,Malawi,southeast africa
+Alticorpus,profundicola,Cichlidae,benthopelagic,12.4,SL,2.8,endemic,Malawi,southeast africa
+Aristochromis,christyi,Cichlidae,benthopelagic,30,TL,4,endemic,Malawi,southeast africa
+Astatotilapia,calliptera,Cichlidae,benthopelagic,15,SL,3,native,Malawi,southeast africa
+Aulonocara,aquilonium,Cichlidae,benthopelagic,8.5,SL,3.5,native,Malawi,southeast africa
+Aulonocara,auditor,Cichlidae,benthopelagic,8,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,baenschi,Cichlidae,benthopelagic,13,TL,3.5,endemic,Malawi,southeast africa
+Aulonocara,brevinidus,Cichlidae,benthopelagic,9.5,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,brevirostre,Cichlidae,benthopelagic,8,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,ethelwynnae,Cichlidae,benthopelagic,7.1,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,gertrudae,Cichlidae,benthopelagic,11,SL,3.6,native,Malawi,southeast africa
+Aulonocara,guentheri,Cichlidae,benthopelagic,15,TL,3.5,endemic,Malawi,southeast africa
+Aulonocara,hansbaenschi,Cichlidae,benthopelagic,8.4,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,hueseri,Cichlidae,benthopelagic,7.9,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,jacobfreibergi,Cichlidae,benthopelagic,15,TL,3.6,endemic,Malawi,southeast africa
+Aulonocara,kandeense,Cichlidae,benthopelagic,7.8,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,koningsi,Cichlidae,benthopelagic,9.2,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,korneliae,Cichlidae,benthopelagic,7.8,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,maylandi,Cichlidae,benthopelagic,15,TL,3.5,endemic,Malawi,southeast africa
+Aulonocara,nyassae,Cichlidae,benthopelagic,8,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,rostratum,Cichlidae,benthopelagic,18,TL,3.5,endemic,Malawi,southeast africa
+Aulonocara,saulosi,Cichlidae,benthopelagic,9.2,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,steveni,Cichlidae,benthopelagic,8.9,SL,3.5,endemic,Malawi,southeast africa
+Aulonocara,stonemani,Cichlidae,demersal,5.5,SL,3.3,endemic,Malawi,southeast africa
+Aulonocara,stuartgranti,Cichlidae,benthopelagic,11.8,TL,3.5,endemic,Malawi,southeast africa
+Aulonocara,trematocephalum,Cichlidae,benthopelagic,9,TL,3.5,endemic,Malawi,southeast africa
+Buccochromis,atritaeniatus,Cichlidae,benthopelagic,28,TL,4.2,endemic,Malawi,southeast africa
+Buccochromis,heterotaenia,Cichlidae,benthopelagic,40,TL,4.2,endemic,Malawi,southeast africa
+Buccochromis,lepturus,Cichlidae,benthopelagic,41.7,TL,4.2,endemic,Malawi,southeast africa
+Buccochromis,nototaenia,Cichlidae,benthopelagic,23,TL,4,endemic,Malawi,southeast africa
+Buccochromis,oculatus,Cichlidae,benthopelagic,28,TL,4.1,endemic,Malawi,southeast africa
+Buccochromis,rhoadesii,Cichlidae,benthopelagic,34.1,TL,4.2,endemic,Malawi,southeast africa
+Buccochromis,spectabilis,Cichlidae,benthopelagic,25.6,TL,4.1,endemic,Malawi,southeast africa
+Caprichromis,liemi,Cichlidae,benthopelagic,19.1,SL,4,endemic,Malawi,southeast africa
+Caprichromis,orthognathus,Cichlidae,benthopelagic,19.5,TL,4,endemic,Malawi,southeast africa
+Champsochromis,caeruleus,Cichlidae,benthopelagic,32.2,TL,4.2,endemic,Malawi,southeast africa
+Champsochromis,spilorhynchus,Cichlidae,benthopelagic,30,TL,4.2,endemic,Malawi,southeast africa
+Cheilochromis,euchilus,Cichlidae,benthopelagic,35,TL,3.2,endemic,Malawi,southeast africa
+Chilotilapia,rhoadesii,Cichlidae,benthopelagic,22.5,TL,3.4,native,Malawi,southeast africa
+Chindongo,ater,Cichlidae,benthopelagic,8.1,SL,2.4,endemic,Malawi,southeast africa
+Chindongo,bellicosus,Cichlidae,benthopelagic,9.3,SL,2.5,endemic,Malawi,southeast africa
+Chindongo,cyaneus,Cichlidae,demersal,7.8,SL,2.7,endemic,Malawi,southeast africa
+Chindongo,demasoni,Cichlidae,demersal,6.3,SL,2.6,endemic,Malawi,southeast africa
+Chindongo,elongatus,Cichlidae,demersal,9.5,SL,2.5,endemic,Malawi,southeast africa
+Chindongo,flavus,Cichlidae,demersal,7.6,SL,3.4,endemic,Malawi,southeast africa
+Chindongo,heteropictus,Cichlidae,demersal,8.6,SL,2.7,endemic,Malawi,southeast africa
+Chindongo,longior,Cichlidae,demersal,8.7,SL,2,endemic,Malawi,southeast africa
+Chindongo,minutus,Cichlidae,demersal,6.6,SL,2,endemic,Malawi,southeast africa
+Chindongo,saulosi,Cichlidae,demersal,8.6,TL,2.6,endemic,Malawi,southeast africa
+Chindongo,socolofi,Cichlidae,demersal,6.7,SL,2.6,endemic,Malawi,southeast africa
+Copadichromis,atripinnis,Cichlidae,pelagic,10.3,SL,3.3,native,Malawi,southeast africa
+Copadichromis,azureus,Cichlidae,benthopelagic,14.6,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,borleyi,Cichlidae,benthopelagic,14,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,chizumuluensis,Cichlidae,benthopelagic,10.6,SL,3.3,endemic,Malawi,southeast africa
+Copadichromis,chrysonotus,Cichlidae,benthopelagic,16.3,TL,3.4,native,Malawi,southeast africa
+Copadichromis,cyaneus,Cichlidae,benthopelagic,19,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,cyanocephalus,Cichlidae,benthopelagic,9,SL,3.3,endemic,Malawi,southeast africa
+Copadichromis,diplostigma,Cichlidae,benthopelagic,11.2,SL,3.4,endemic,Malawi,southeast africa
+Copadichromis,geertsi,Cichlidae,benthopelagic,12.8,SL,3.4,endemic,Malawi,southeast africa
+Copadichromis,ilesi,Cichlidae,benthopelagic,11.4,SL,3.4,endemic,Malawi,southeast africa
+Copadichromis,insularis,Cichlidae,benthopelagic,11,SL,3.3,endemic,Malawi,southeast africa
+Copadichromis,jacksoni,Cichlidae,benthopelagic,18.3,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,likomae,Cichlidae,benthopelagic,14,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,mbenjii,Cichlidae,benthopelagic,14,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,melas,Cichlidae,demersal,8.9,SL,3.3,endemic,Malawi,southeast africa
+Copadichromis,mloto,Cichlidae,benthopelagic,13.5,TL,3.3,endemic,Malawi,southeast africa
+Copadichromis,nkatae,Cichlidae,benthopelagic,14.5,TL,2.8,endemic,Malawi,southeast africa
+Copadichromis,parvus,Cichlidae,benthopelagic,9.6,SL,3.3,endemic,Malawi,southeast africa
+Copadichromis,pleurostigma,Cichlidae,benthopelagic,19.5,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,pleurostigmoides,Cichlidae,benthopelagic,16,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,quadrimaculatus,Cichlidae,benthopelagic,20,TL,2.6,endemic,Malawi,southeast africa
+Copadichromis,trewavasae,Cichlidae,benthopelagic,10.5,SL,3.3,endemic,Malawi,southeast africa
+Copadichromis,trimaculatus,Cichlidae,benthopelagic,19.6,TL,3.4,endemic,Malawi,southeast africa
+Copadichromis,verduyni,Cichlidae,benthopelagic,11,TL,3.3,endemic,Malawi,southeast africa
+Copadichromis,virginalis,Cichlidae,demersal,13.2,TL,3,endemic,Malawi,southeast africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,native,Malawi,southeast africa
+Corematodus,shiranus,Cichlidae,benthopelagic,27,TL,4.4,endemic,Malawi,southeast africa
+Corematodus,taeniatus,Cichlidae,benthopelagic,19,TL,4.4,endemic,Malawi,southeast africa
+Ctenopharynx,intermedius,Cichlidae,benthopelagic,21,TL,3.4,native,Malawi,southeast africa
+Ctenopharynx,nitidus,Cichlidae,benthopelagic,13.9,TL,3.5,endemic,Malawi,southeast africa
+Ctenopharynx,pictus,Cichlidae,benthopelagic,12.6,TL,3,endemic,Malawi,southeast africa
+Cyathochromis,obliquidens,Cichlidae,benthopelagic,15,TL,2,native,Malawi,southeast africa
+Cynotilapia,afra,Cichlidae,benthopelagic,10.1,SL,3.4,endemic,Malawi,southeast africa
+Cynotilapia,aurifrons,Cichlidae,benthopelagic,7.3,SL,3.4,endemic,Malawi,southeast africa
+Cynotilapia,axelrodi,Cichlidae,benthopelagic,7.7,SL,3.4,endemic,Malawi,southeast africa
+Cynotilapia,chilundu,Cichlidae,benthopelagic,8.3,SL,3.4,endemic,Malawi,southeast africa
+Cynotilapia,zebroides,Cichlidae,benthopelagic,9.3,SL,3.4,endemic,Malawi,southeast africa
+Cyrtocara,moorii,Cichlidae,benthopelagic,20,TL,3.4,endemic,Malawi,southeast africa
+Dimidiochromis,compressiceps,Cichlidae,benthopelagic,23,TL,4.2,endemic,Malawi,southeast africa
+Dimidiochromis,dimidiatus,Cichlidae,benthopelagic,20,TL,4,endemic,Malawi,southeast africa
+Dimidiochromis,kiwinge,Cichlidae,benthopelagic,30,TL,4.2,native,Malawi,southeast africa
+Dimidiochromis,strigatus,Cichlidae,benthopelagic,24.4,TL,3.8,native,Malawi,southeast africa
+Diplotaxodon,aeneus,Cichlidae,benthopelagic,14,SL,4,endemic,Malawi,southeast africa
+Diplotaxodon,altus,Cichlidae,benthopelagic,16.2,SL,4,endemic,Malawi,southeast africa
+Diplotaxodon,apogon,Cichlidae,benthopelagic,11.7,SL,3.9,endemic,Malawi,southeast africa
+Diplotaxodon,argenteus,Cichlidae,benthopelagic,20.4,SL,4.2,endemic,Malawi,southeast africa
+Diplotaxodon,dentatus,Cichlidae,benthopelagic,12,SL,3.9,endemic,Malawi,southeast africa
+Diplotaxodon,ecclesi,Cichlidae,benthopelagic,14.6,SL,4.2,endemic,Malawi,southeast africa
+Diplotaxodon,greenwoodi,Cichlidae,benthopelagic,24.7,SL,4.2,endemic,Malawi,southeast africa
+Diplotaxodon,limnothrissa,Cichlidae,pelagic,15.4,SL,3.1,endemic,Malawi,southeast africa
+Diplotaxodon,longimaxilla,Cichlidae,benthopelagic,18.1,SL,4.1,endemic,Malawi,southeast africa
+Diplotaxodon,macrops,Cichlidae,benthopelagic,12.5,SL,2.8,endemic,Malawi,southeast africa
+Docimodus,evelynae,Cichlidae,benthopelagic,20.1,SL,3.4,endemic,Malawi,southeast africa
+Docimodus,johnstoni,Cichlidae,benthopelagic,25,TL,4.2,endemic,Malawi,southeast africa
+Eclectochromis,lobochilus,Cichlidae,benthopelagic,12.5,TL,3.3,endemic,Malawi,southeast africa
+Eclectochromis,ornatus,Cichlidae,benthopelagic,18.2,SL,3.4,endemic,Malawi,southeast africa
+Exochochromis,anagenys,Cichlidae,benthopelagic,20,SL,4.2,endemic,Malawi,southeast africa
+Fossorochromis,rostratus,Cichlidae,benthopelagic,24.4,TL,3.4,endemic,Malawi,southeast africa
+Genyochromis,mento,Cichlidae,benthopelagic,12.6,TL,4.4,endemic,Malawi,southeast africa
+Gephyrochromis,lawsi,Cichlidae,benthopelagic,12.8,TL,3.3,endemic,Malawi,southeast africa
+Gephyrochromis,moorii,Cichlidae,benthopelagic,12,TL,3.3,endemic,Malawi,southeast africa
+Hemitaeniochromis,brachyrhynchus,Cichlidae,pelagic,123.6,SL,3.8,endemic,Malawi,southeast africa
+Hemitaeniochromis,urotaenia,Cichlidae,benthopelagic,22,TL,3.4,endemic,Malawi,southeast africa
+Hemitilapia,oxyrhynchus,Cichlidae,benthopelagic,20,TL,2,native,Malawi,southeast africa
+Iodotropheus,declivitas,Cichlidae,benthopelagic,6.5,SL,3.3,native,Malawi,southeast africa
+Iodotropheus,sprengerae,Cichlidae,benthopelagic,10.8,SL,4,endemic,Malawi,southeast africa
+Iodotropheus,stuartgranti,Cichlidae,benthopelagic,10,TL,3.3,endemic,Malawi,southeast africa
+Labeotropheus,alticodia,Cichlidae,benthopelagic,8.6,SL,3.3,endemic,Malawi,southeast africa
+Labeotropheus,artatorostris,Cichlidae,benthopelagic,11.5,SL,3.4,endemic,Malawi,southeast africa
+Labeotropheus,aurantinfra,Cichlidae,benthopelagic,11.5,SL,3.4,endemic,Malawi,southeast africa
+Labeotropheus,candipygia,Cichlidae,benthopelagic,9.7,SL,3.3,endemic,Malawi,southeast africa
+Labeotropheus,chirangali,Cichlidae,benthopelagic,11.2,SL,3.3,endemic,Malawi,southeast africa
+Labeotropheus,chlorosiglos,Cichlidae,benthopelagic,11.6,SL,3.4,endemic,Malawi,southeast africa
+Labeotropheus,fuelleborni,Cichlidae,benthopelagic,30,SL,2.8,endemic,Malawi,southeast africa
+Labeotropheus,obscurus,Cichlidae,benthopelagic,7.8,SL,3.3,endemic,Malawi,southeast africa
+Labeotropheus,rubidorsalis,Cichlidae,benthopelagic,9.1,SL,3.3,endemic,Malawi,southeast africa
+Labeotropheus,simoneae,Cichlidae,benthopelagic,11,,3.4,endemic,Malawi,southeast africa
+Labeotropheus,trewavasae,Cichlidae,benthopelagic,11.7,TL,3.3,endemic,Malawi,southeast africa
+Labidochromis,caeruleus,Cichlidae,benthopelagic,8.1,SL,2.6,endemic,Malawi,southeast africa
+Labidochromis,chisumulae,Cichlidae,benthopelagic,6.6,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,flavigulis,Cichlidae,benthopelagic,6.8,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,freibergi,Cichlidae,benthopelagic,8,TL,2.7,endemic,Malawi,southeast africa
+Labidochromis,gigas,Cichlidae,benthopelagic,10,SL,2.6,endemic,Malawi,southeast africa
+Labidochromis,heterodon,Cichlidae,benthopelagic,7.3,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,ianthinus,Cichlidae,benthopelagic,9,TL,2.7,endemic,Malawi,southeast africa
+Labidochromis,joanjohnsonae,Cichlidae,demersal,10,TL,2.6,endemic,Malawi,southeast africa
+Labidochromis,lividus,Cichlidae,benthopelagic,7.1,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,maculicauda,Cichlidae,benthopelagic,6.4,SL,3.3,endemic,Malawi,southeast africa
+Labidochromis,mathotho,Cichlidae,benthopelagic,8,TL,2.7,endemic,Malawi,southeast africa
+Labidochromis,mbenjii,Cichlidae,benthopelagic,6.4,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,mylodon,Cichlidae,benthopelagic,9,TL,2.7,endemic,Malawi,southeast africa
+Labidochromis,pallidus,Cichlidae,benthopelagic,6.7,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,shiranus,Cichlidae,benthopelagic,7.8,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,strigatus,Cichlidae,benthopelagic,6.9,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,textilis,Cichlidae,benthopelagic,7.7,SL,2.7,endemic,Malawi,southeast africa
+Labidochromis,vellicans,Cichlidae,benthopelagic,6.7,SL,2,endemic,Malawi,southeast africa
+Labidochromis,zebroides,Cichlidae,benthopelagic,8.5,TL,2.7,endemic,Malawi,southeast africa
+Lethrinops,albus,Cichlidae,demersal,16.5,TL,3.2,endemic,Malawi,southeast africa
+Lethrinops,altus,Cichlidae,demersal,15.8,TL,3.5,endemic,Malawi,southeast africa
+Lethrinops,argenteus,Cichlidae,demersal,19,TL,3.2,endemic,Malawi,southeast africa
+Lethrinops,atrilabris,Cichlidae,benthopelagic,7.3,SL,3.1,endemic,Malawi,southeast africa
+Lethrinops,auritus,Cichlidae,demersal,14,TL,3,endemic,Malawi,southeast africa
+Lethrinops,christyi,Cichlidae,demersal,18.3,TL,3.2,endemic,Malawi,southeast africa
+Lethrinops,furcifer,Cichlidae,demersal,19.5,TL,3.2,endemic,Malawi,southeast africa
+Lethrinops,gossei,Cichlidae,demersal,14.4,SL,3.2,endemic,Malawi,southeast africa
+Lethrinops,leptodon,Cichlidae,demersal,20,TL,3.2,endemic,Malawi,southeast africa
+Lethrinops,lethrinus,Cichlidae,demersal,20,TL,3.5,endemic,Malawi,southeast africa
+Lethrinops,longimanus,Cichlidae,demersal,15.3,SL,3.2,endemic,Malawi,southeast africa
+Lethrinops,longipinnis,Cichlidae,demersal,16,SL,3.3,endemic,Malawi,southeast africa
+Lethrinops,lunaris,Cichlidae,benthopelagic,18.6,TL,3.2,endemic,Malawi,southeast africa
+Lethrinops,macracanthus,Cichlidae,demersal,20,TL,2.8,endemic,Malawi,southeast africa
+Lethrinops,macrochir,Cichlidae,demersal,13,TL,3.2,endemic,Malawi,southeast africa
+Lethrinops,marginatus,Cichlidae,demersal,11,SL,3.5,endemic,Malawi,southeast africa
+Lethrinops,micrentodon,Cichlidae,demersal,11.5,TL,2,endemic,Malawi,southeast africa
+Lethrinops,microdon,Cichlidae,demersal,13.1,SL,2,endemic,Malawi,southeast africa
+Lethrinops,microstoma,Cichlidae,demersal,14.5,TL,3.5,endemic,Malawi,southeast africa
+Lethrinops,mylodon,Cichlidae,demersal,20.2,SL,3.4,endemic,Malawi,southeast africa
+Lethrinops,oculatus,Cichlidae,benthopelagic,13.5,TL,3.2,endemic,Malawi,southeast africa
+Lethrinops,parvidens,Cichlidae,demersal,14,SL,3.3,endemic,Malawi,southeast africa
+Lethrinops,stridei,Cichlidae,demersal,13,SL,2,endemic,Malawi,southeast africa
+Lethrinops,turneri,Cichlidae,benthopelagic,9.4,SL,3.2,endemic,Malawi,southeast africa
+Lichnochromis,acuticeps,Cichlidae,demersal,14,TL,3.4,endemic,Malawi,southeast africa
+Maylandia,aurora,Cichlidae,demersal,8.7,SL,2,native,Malawi,southeast africa
+Maylandia,barlowi,Cichlidae,demersal,8.1,SL,3.4,endemic,Malawi,southeast africa
+Maylandia,benetos,Cichlidae,demersal,8.1,SL,2.3,native,Malawi,southeast africa
+Maylandia,callainos,Cichlidae,benthopelagic,8,SL,2.3,native,Malawi,southeast africa
+Maylandia,chrysomallos,Cichlidae,demersal,9,SL,2.2,endemic,Malawi,southeast africa
+Maylandia,cyneusmarginata,Cichlidae,demersal,8,SL,2.3,native,Malawi,southeast africa
+Maylandia,emmiltos,Cichlidae,demersal,8.4,SL,2.3,native,Malawi,southeast africa
+Maylandia,estherae,Cichlidae,demersal,7.9,SL,2,native,Malawi,southeast africa
+Maylandia,fainzilberi,Cichlidae,demersal,12.9,TL,2.2,endemic,Malawi,southeast africa
+Maylandia,flavicauda,Cichlidae,benthopelagic,10.1,SL,2.2,endemic,Malawi,southeast africa
+Maylandia,flavifemina,Cichlidae,benthopelagic,8.5,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,glaucos,Cichlidae,benthopelagic,6.9,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,greshakei,Cichlidae,demersal,13.4,TL,2,endemic,Malawi,southeast africa
+Maylandia,hajomaylandi,Cichlidae,demersal,12,TL,3.4,endemic,Malawi,southeast africa
+Maylandia,koningsi,Cichlidae,benthopelagic,5.7,SL,2.4,endemic,Malawi,southeast africa
+Maylandia,lanisticola,Cichlidae,demersal,6.1,SL,2.4,endemic,Malawi,southeast africa
+Maylandia,lombardoi,Cichlidae,demersal,8.7,SL,2.7,endemic,Malawi,southeast africa
+Maylandia,lundoensis,Cichlidae,pelagic,8.3,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,mbenjii,Cichlidae,demersal,8.8,SL,2.2,native,Malawi,southeast africa
+Maylandia,midomo,Cichlidae,pelagic,9.8,SL,2.2,endemic,Malawi,southeast africa
+Maylandia,mossambica,Cichlidae,benthopelagic,8,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,nigrodorsalis,Cichlidae,pelagic,8.3,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,nkhunguensis,Cichlidae,benthopelagic,7.3,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,pambazuko,Cichlidae,pelagic,7.6,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,phaeos,Cichlidae,demersal,8.7,SL,2.2,native,Malawi,southeast africa
+Maylandia,pulpican,Cichlidae,benthopelagic,7.1,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,pyrsonotos,Cichlidae,demersal,8.6,SL,2.2,endemic,Malawi,southeast africa
+Maylandia,sciasma,Cichlidae,benthopelagic,7.1,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,tarakiki,Cichlidae,pelagic,11.9,SL,2.1,endemic,Malawi,southeast africa
+Maylandia,usisyae,Cichlidae,benthopelagic,7.5,SL,2.3,endemic,Malawi,southeast africa
+Maylandia,xanstomachus,Cichlidae,demersal,12.5,TL,2,endemic,Malawi,southeast africa
+Maylandia,xanthos,Cichlidae,benthopelagic,4.9,SL,2.5,endemic,Malawi,southeast africa
+Maylandia,zebra,Cichlidae,demersal,11.3,SL,2.3,endemic,Malawi,southeast africa
+Mchenga,conophoros,Cichlidae,benthopelagic,11.1,SL,3.4,endemic,Malawi,southeast africa
+Mchenga,cyclicos,Cichlidae,benthopelagic,12.1,SL,3.4,endemic,Malawi,southeast africa
+Mchenga,eucinostomus,Cichlidae,benthopelagic,14,TL,3,endemic,Malawi,southeast africa
+Mchenga,flavimanus,Cichlidae,benthopelagic,12,TL,3.4,endemic,Malawi,southeast africa
+Mchenga,inornata,Cichlidae,benthopelagic,10,TL,3.4,endemic,Malawi,southeast africa
+Mchenga,thinos,Cichlidae,benthopelagic,7.8,SL,3.4,endemic,Malawi,southeast africa
+Melanochromis,auratus,Cichlidae,demersal,11,TL,2,endemic,Malawi,southeast africa
+Melanochromis,baliodigma,Cichlidae,benthopelagic,8.6,SL,4.3,endemic,Malawi,southeast africa
+Melanochromis,chipokae,Cichlidae,demersal,12,SL,4.2,endemic,Malawi,southeast africa
+Melanochromis,dialeptos,Cichlidae,benthopelagic,8,SL,2,endemic,Malawi,southeast africa
+Melanochromis,heterochromis,Cichlidae,demersal,9.7,SL,3.3,endemic,Malawi,southeast africa
+Melanochromis,kaskazini,Cichlidae,benthopelagic,10.4,SL,3.4,endemic,Malawi,southeast africa
+Melanochromis,lepidiadaptes,Cichlidae,benthopelagic,8.7,SL,4.4,endemic,Malawi,southeast africa
+Melanochromis,loriae,Cichlidae,benthopelagic,11.4,SL,3.4,endemic,Malawi,southeast africa
+Melanochromis,melanopterus,Cichlidae,demersal,11.4,SL,3.4,endemic,Malawi,southeast africa
+Melanochromis,mossambiquensis,Cichlidae,benthopelagic,7.6,SL,3.3,endemic,Malawi,southeast africa
+Melanochromis,mpoto,Cichlidae,benthopelagic,9.1,SL,3.3,endemic,Malawi,southeast africa
+Melanochromis,robustus,Cichlidae,benthopelagic,12.4,SL,3.4,endemic,Malawi,southeast africa
+Melanochromis,simulans,Cichlidae,demersal,7.4,SL,3.3,endemic,Malawi,southeast africa
+Melanochromis,vermivorus,Cichlidae,demersal,7.4,SL,2.7,endemic,Malawi,southeast africa
+Melanochromis,wochepa,Cichlidae,benthopelagic,6.5,SL,3.3,endemic,Malawi,southeast africa
+Mylochromis,anaphyrmus,Cichlidae,demersal,20.4,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,balteatus,Cichlidae,demersal,16.2,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,chekopae,Cichlidae,demersal,12.2,SL,3,endemic,Malawi,southeast africa
+Mylochromis,ensatus,Cichlidae,demersal,20.7,SL,3.6,endemic,Malawi,southeast africa
+Mylochromis,epichorialis,Cichlidae,demersal,20,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,ericotaenia,Cichlidae,demersal,20.6,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,formosus,Cichlidae,benthopelagic,12.7,TL,4,endemic,Malawi,southeast africa
+Mylochromis,gracilis,Cichlidae,demersal,22,TL,4,endemic,Malawi,southeast africa
+Mylochromis,guentheri,Cichlidae,demersal,20,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,incola,Cichlidae,demersal,19.9,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,labidodon,Cichlidae,benthopelagic,18,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,lateristriga,Cichlidae,benthopelagic,20.7,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,melanonotus,Cichlidae,demersal,26,TL,3.6,endemic,Malawi,southeast africa
+Mylochromis,melanotaenia,Cichlidae,benthopelagic,20,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,mola,Cichlidae,demersal,18,TL,3.6,endemic,Malawi,southeast africa
+Mylochromis,mollis,Cichlidae,benthopelagic,16,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,obtusus,Cichlidae,benthopelagic,22,TL,3.6,endemic,Malawi,southeast africa
+Mylochromis,plagiotaenia,Cichlidae,demersal,11,TL,3.4,endemic,Malawi,southeast africa
+Mylochromis,semipalatus,Cichlidae,benthopelagic,18.5,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,sphaerodon,Cichlidae,demersal,14,TL,3.5,endemic,Malawi,southeast africa
+Mylochromis,spilostichus,Cichlidae,demersal,22.2,TL,4.2,endemic,Malawi,southeast africa
+Naevochromis,chrysogaster,Cichlidae,demersal,17.9,TL,4,endemic,Malawi,southeast africa
+Nimbochromis,fuscotaeniatus,Cichlidae,demersal,25,TL,4.2,endemic,Malawi,southeast africa
+Nimbochromis,linni,Cichlidae,demersal,25,TL,4.2,endemic,Malawi,southeast africa
+Nimbochromis,livingstonii,Cichlidae,demersal,25,TL,4.2,native,Malawi,southeast africa
+Nimbochromis,polystigma,Cichlidae,demersal,23,TL,4.2,endemic,Malawi,southeast africa
+Nimbochromis,venustus,Cichlidae,demersal,25,TL,4.2,endemic,Malawi,southeast africa
+Nyassachromis,boadzulu,Cichlidae,benthopelagic,14,TL,3.4,endemic,Malawi,southeast africa
+Nyassachromis,breviceps,Cichlidae,demersal,15.4,TL,2,endemic,Malawi,southeast africa
+Nyassachromis,leuciscus,Cichlidae,demersal,16,TL,2.5,endemic,Malawi,southeast africa
+Nyassachromis,microcephalus,Cichlidae,demersal,15,TL,3.4,endemic,Malawi,southeast africa
+Nyassachromis,nigritaeniatus,Cichlidae,demersal,21,TL,3.4,endemic,Malawi,southeast africa
+Nyassachromis,prostoma,Cichlidae,benthopelagic,11.5,TL,3.3,endemic,Malawi,southeast africa
+Nyassachromis,purpurans,Cichlidae,demersal,18,TL,3.4,endemic,Malawi,southeast africa
+Nyassachromis,serenus,Cichlidae,demersal,25,TL,3.4,endemic,Malawi,southeast africa
+Oreochromis,chungruruensis,Cichlidae,benthopelagic,15.4,SL,2.4,endemic,Malawi,southeast africa
+Oreochromis,karongae,Cichlidae,benthopelagic,42,TL,2,endemic,Malawi,southeast africa
+Oreochromis,leucostictus,Cichlidae,benthopelagic,36.3,SL,2.3,introduced,Malawi,southeast africa
+Oreochromis,lidole,Cichlidae,benthopelagic,38,SL,2.3,native,Malawi,southeast africa
+Oreochromis,niloticus,Cichlidae,benthopelagic,60,SL,2,introduced,Malawi,southeast africa
+Oreochromis,saka,Cichlidae,benthopelagic,36,SL,2,endemic,Malawi,southeast africa
+Oreochromis,shiranus,Cichlidae,benthopelagic,39,SL,2.5,native,Malawi,southeast africa
+Oreochromis,squamipinnis,Cichlidae,benthopelagic,36,SL,2.1,endemic,Malawi,southeast africa
+Otopharynx,aletes,Cichlidae,benthopelagic,10.7,SL,3.4,endemic,Malawi,southeast africa
+Otopharynx,alpha,Cichlidae,benthopelagic,14.1,SL,3.4,endemic,Malawi,southeast africa
+Otopharynx,antron,Cichlidae,demersal,9.9,SL,3.4,endemic,Malawi,southeast africa
+Otopharynx,argyrosoma,Cichlidae,demersal,15.2,TL,3.5,endemic,Malawi,southeast africa
+Otopharynx,auromarginatus,Cichlidae,demersal,24.5,TL,2,endemic,Malawi,southeast africa
+Otopharynx,brooksi,Cichlidae,demersal,15,TL,4.2,endemic,Malawi,southeast africa
+Otopharynx,decorus,Cichlidae,demersal,18,TL,3.5,endemic,Malawi,southeast africa
+Otopharynx,heterodon,Cichlidae,demersal,12.8,TL,3.4,endemic,Malawi,southeast africa
+Otopharynx,lithobates,Cichlidae,demersal,16,TL,2,endemic,Malawi,southeast africa
+Otopharynx,mumboensis,Cichlidae,benthopelagic,11.6,SL,3.4,endemic,Malawi,southeast africa
+Otopharynx,ovatus,Cichlidae,demersal,20,TL,4,endemic,Malawi,southeast africa
+Otopharynx,pachycheilus,Cichlidae,demersal,16.5,SL,3.5,endemic,Malawi,southeast africa
+Otopharynx,panniculus,Cichlidae,benthopelagic,7.3,SL,3.3,endemic,Malawi,southeast africa
+Otopharynx,peridodeka,Cichlidae,benthopelagic,9.2,SL,3.3,endemic,Malawi,southeast africa
+Otopharynx,selenurus,Cichlidae,demersal,17.5,TL,2.8,endemic,Malawi,southeast africa
+Otopharynx,speciosus,Cichlidae,demersal,25.2,TL,4.2,endemic,Malawi,southeast africa
+Otopharynx,spelaeotes,Cichlidae,demersal,11.7,SL,3.4,endemic,Malawi,southeast africa
+Otopharynx,styrax,Cichlidae,benthopelagic,11.7,SL,3.4,endemic,Malawi,southeast africa
+Otopharynx,tetraspilus,Cichlidae,demersal,15.6,TL,2.7,endemic,Malawi,southeast africa
+Otopharynx,tetrastigma,Cichlidae,demersal,16,TL,3.4,native,Malawi,southeast africa
+Pallidochromis,tokolosh,Cichlidae,demersal,28,SL,3.5,endemic,Malawi,southeast africa
+Petrotilapia,chrysos,Cichlidae,benthopelagic,13.1,SL,3.4,native,Malawi,southeast africa
+Petrotilapia,flaviventris,Cichlidae,pelagic,11.1,SL,3.3,endemic,Malawi,southeast africa
+Petrotilapia,genalutea,Cichlidae,demersal,13.1,SL,2,endemic,Malawi,southeast africa
+Petrotilapia,microgalana,Cichlidae,benthopelagic,11.4,SL,3.3,endemic,Malawi,southeast africa
+Petrotilapia,mumboensis,Cichlidae,pelagic,12.7,SL,3.4,endemic,Malawi,southeast africa
+Petrotilapia,nigra,Cichlidae,demersal,12.2,SL,3.4,endemic,Malawi,southeast africa
+Petrotilapia,palingnathos,Cichlidae,pelagic,11.8,SL,3.4,endemic,Malawi,southeast africa
+Petrotilapia,pyroscelos,Cichlidae,pelagic,10.7,SL,3.3,endemic,Malawi,southeast africa
+Petrotilapia,tridentiger,Cichlidae,demersal,17,TL,3.4,endemic,Malawi,southeast africa
+Petrotilapia,xanthos,Cichlidae,pelagic,13,SL,3.4,endemic,Malawi,southeast africa
+Placidochromis,acuticeps,Cichlidae,benthopelagic,10.3,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,acutirostris,Cichlidae,benthopelagic,11.4,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,argyrogaster,Cichlidae,benthopelagic,11.4,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,boops,Cichlidae,benthopelagic,11.2,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,borealis,Cichlidae,benthopelagic,6.5,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,chilolae,Cichlidae,benthopelagic,7.4,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,communis,Cichlidae,benthopelagic,7.7,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,domirae,Cichlidae,benthopelagic,9.3,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,ecclesi,Cichlidae,benthopelagic,6.3,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,electra,Cichlidae,demersal,12,SL,2.8,endemic,Malawi,southeast africa
+Placidochromis,elongatus,Cichlidae,benthopelagic,7.5,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,fuscus,Cichlidae,benthopelagic,7.9,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,hennydaviesae,Cichlidae,demersal,10,TL,3.3,endemic,Malawi,southeast africa
+Placidochromis,intermedius,Cichlidae,benthopelagic,6.9,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,johnstoni,Cichlidae,demersal,20,TL,3.5,native,Malawi,southeast africa
+Placidochromis,koningsi,Cichlidae,benthopelagic,6.7,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,lineatus,Cichlidae,benthopelagic,9.1,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,longimanus,Cichlidae,demersal,14.5,TL,2,native,Malawi,southeast africa
+Placidochromis,longirostris,Cichlidae,benthopelagic,12.8,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,longus,Cichlidae,benthopelagic,4.9,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,lukomae,Cichlidae,benthopelagic,7.3,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,macroceps,Cichlidae,benthopelagic,5.3,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,macrognathus,Cichlidae,benthopelagic,12.7,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,mbunoides,Cichlidae,benthopelagic,7.3,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,milomo,Cichlidae,demersal,18.7,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,minor,Cichlidae,benthopelagic,4.9,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,minutus,Cichlidae,benthopelagic,6.1,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,msakae,Cichlidae,benthopelagic,7.9,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,nigribarbis,Cichlidae,benthopelagic,6.4,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,nkhatae,Cichlidae,benthopelagic,9.8,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,nkhotakotae,Cichlidae,benthopelagic,6.5,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,obscurus,Cichlidae,benthopelagic,6.2,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,ordinarius,Cichlidae,benthopelagic,6.7,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,orthognathus,Cichlidae,benthopelagic,10.3,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,pallidus,Cichlidae,benthopelagic,7.8,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,phenochilus,Cichlidae,benthopelagic,15.7,TL,3.3,endemic,Malawi,southeast africa
+Placidochromis,platyrhynchos,Cichlidae,benthopelagic,10,SL,3.3,native,Malawi,southeast africa
+Placidochromis,polli,Cichlidae,demersal,14.9,SL,3.4,endemic,Malawi,southeast africa
+Placidochromis,rotundifrons,Cichlidae,benthopelagic,6.4,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,subocularis,Cichlidae,demersal,16.2,TL,3.4,endemic,Malawi,southeast africa
+Placidochromis,trewavasae,Cichlidae,benthopelagic,6.5,SL,3.2,endemic,Malawi,southeast africa
+Placidochromis,turneri,Cichlidae,benthopelagic,8.6,SL,3.3,endemic,Malawi,southeast africa
+Placidochromis,vulgaris,Cichlidae,benthopelagic,9.6,SL,3.3,endemic,Malawi,southeast africa
+Protomelas,annectens,Cichlidae,benthopelagic,20,TL,3.3,endemic,Malawi,southeast africa
+Protomelas,dejunctus,Cichlidae,benthopelagic,13.8,SL,2.7,native,Malawi,southeast africa
+Protomelas,fenestratus,Cichlidae,benthopelagic,14,TL,3.2,endemic,Malawi,southeast africa
+Protomelas,insignis,Cichlidae,benthopelagic,20.3,TL,2.5,endemic,Malawi,southeast africa
+Protomelas,kirkii,Cichlidae,benthopelagic,18,TL,3.4,native,Malawi,southeast africa
+Protomelas,krampus,Cichlidae,benthopelagic,18.1,SL,3.3,native,Malawi,southeast africa
+Protomelas,labridens,Cichlidae,benthopelagic,18,TL,3.4,endemic,Malawi,southeast africa
+Protomelas,macrodon,Cichlidae,benthopelagic,8.8,SL,3.2,endemic,Malawi,southeast africa
+Protomelas,marginatus,Cichlidae,benthopelagic,16.6,TL,2,endemic,Malawi,southeast africa
+Protomelas,pleurotaenia,Cichlidae,benthopelagic,14.1,TL,3.5,endemic,Malawi,southeast africa
+Protomelas,similis,Cichlidae,benthopelagic,18,TL,2,endemic,Malawi,southeast africa
+Protomelas,spilonotus,Cichlidae,benthopelagic,16.7,TL,3.4,endemic,Malawi,southeast africa
+Protomelas,spilopterus,Cichlidae,benthopelagic,24,TL,3.3,endemic,Malawi,southeast africa
+Protomelas,taeniolatus,Cichlidae,benthopelagic,11.3,TL,3.2,endemic,Malawi,southeast africa
+Protomelas,triaenodon,Cichlidae,benthopelagic,15.4,TL,3.3,endemic,Malawi,southeast africa
+Protomelas,virgatus,Cichlidae,benthopelagic,14,SL,3.3,endemic,Malawi,southeast africa
+Pseudocrenilabrus,philander,Cichlidae,benthopelagic,13,TL,3.7,native,Malawi,southeast africa
+Pseudotropheus,benetos,Cichlidae,benthopelagic,9.1,SL,4.2,endemic,Malawi,southeast africa
+Pseudotropheus,brevis,Cichlidae,demersal,12,SL,2.8,endemic,Malawi,southeast africa
+Pseudotropheus,crabro,Cichlidae,demersal,9.4,SL,3.8,endemic,Malawi,southeast africa
+Pseudotropheus,cyaneorhabdos,Cichlidae,benthopelagic,7.5,SL,3.5,native,Malawi,southeast africa
+Pseudotropheus,elegans,Cichlidae,demersal,13.2,SL,4,endemic,Malawi,southeast africa
+Pseudotropheus,fuscoides,Cichlidae,demersal,12,TL,3.5,endemic,Malawi,southeast africa
+Pseudotropheus,fuscus,Cichlidae,demersal,11,TL,2,endemic,Malawi,southeast africa
+Pseudotropheus,galanos,Cichlidae,benthopelagic,8.8,SL,3.4,native,Malawi,southeast africa
+Pseudotropheus,interruptus,Cichlidae,benthopelagic,9.8,TL,3.4,endemic,Malawi,southeast africa
+Pseudotropheus,johannii,Cichlidae,benthopelagic,10,TL,2,endemic,Malawi,southeast africa
+Pseudotropheus,livingstonii,Cichlidae,demersal,15,TL,3.7,endemic,Malawi,southeast africa
+Pseudotropheus,perileucos,Cichlidae,benthopelagic,8,SL,2,endemic,Malawi,southeast africa
+Pseudotropheus,perspicax,Cichlidae,demersal,8.1,TL,3.3,endemic,Malawi,southeast africa
+Pseudotropheus,purpuratus,Cichlidae,demersal,10,SL,3.4,endemic,Malawi,southeast africa
+Pseudotropheus,tursiops,Cichlidae,demersal,9.4,SL,2,endemic,Malawi,southeast africa
+Pseudotropheus,williamsi,Cichlidae,benthopelagic,16.5,TL,3.4,endemic,Malawi,southeast africa
+Rhamphochromis,esox,Cichlidae,demersal,42,SL,4.2,endemic,Malawi,southeast africa
+Rhamphochromis,ferox,Cichlidae,demersal,45,TL,4.2,endemic,Malawi,southeast africa
+Rhamphochromis,longiceps,Cichlidae,pelagic,28,TL,3.8,native,Malawi,southeast africa
+Rhamphochromis,lucius,Cichlidae,demersal,40,TL,4.2,endemic,Malawi,southeast africa
+Rhamphochromis,macrophthalmus,Cichlidae,demersal,29.8,SL,4.2,endemic,Malawi,southeast africa
+Rhamphochromis,woodi,Cichlidae,demersal,42,TL,3.8,endemic,Malawi,southeast africa
+Sciaenochromis,ahli,Cichlidae,demersal,20,TL,4.2,endemic,Malawi,southeast africa
+Sciaenochromis,benthicola,Cichlidae,demersal,14,SL,4.1,endemic,Malawi,southeast africa
+Sciaenochromis,fryeri,Cichlidae,demersal,11.5,SL,4.2,endemic,Malawi,southeast africa
+Sciaenochromis,psammophilus,Cichlidae,demersal,11.6,SL,3.8,native,Malawi,southeast africa
+Serranochromis,robustus,Cichlidae,demersal,56,TL,4.1,endemic,Malawi,southeast africa
+Stigmatochromis,macrorhynchos,Cichlidae,benthopelagic,12.8,SL,4,endemic,Malawi,southeast africa
+Stigmatochromis,melanchros,Cichlidae,benthopelagic,16.1,SL,4.1,endemic,Malawi,southeast africa
+Stigmatochromis,modestus,Cichlidae,demersal,25,TL,4.2,endemic,Malawi,southeast africa
+Stigmatochromis,pholidophorus,Cichlidae,demersal,10.8,TL,3.5,endemic,Malawi,southeast africa
+Stigmatochromis,pleurospilus,Cichlidae,demersal,9,SL,3.8,endemic,Malawi,southeast africa
+Stigmatochromis,woodi,Cichlidae,demersal,25,TL,4.2,endemic,Malawi,southeast africa
+Taeniochromis,holotaenia,Cichlidae,demersal,22,TL,3.8,endemic,Malawi,southeast africa
+Taeniolethrinops,cyrtonotus,Cichlidae,demersal,11.2,TL,3,endemic,Malawi,southeast africa
+Taeniolethrinops,furcicauda,Cichlidae,demersal,21,TL,2.8,endemic,Malawi,southeast africa
+Taeniolethrinops,laticeps,Cichlidae,demersal,30,TL,3,endemic,Malawi,southeast africa
+Taeniolethrinops,praeorbitalis,Cichlidae,demersal,30,TL,3.2,endemic,Malawi,southeast africa
+Tilapia,sparrmanii,Cichlidae,benthopelagic,23.5,TL,2.7,native,Malawi,southeast africa
+Tramitichromis,brevis,Cichlidae,demersal,16.3,TL,3.2,endemic,Malawi,southeast africa
+Tramitichromis,intermedius,Cichlidae,demersal,16,TL,3.3,endemic,Malawi,southeast africa
+Tramitichromis,lituris,Cichlidae,demersal,16.8,TL,3.3,endemic,Malawi,southeast africa
+Tramitichromis,trilineatus,Cichlidae,demersal,14,TL,3.5,endemic,Malawi,southeast africa
+Tramitichromis,variabilis,Cichlidae,demersal,17.3,TL,3.2,endemic,Malawi,southeast africa
+Trematocranus,labifer,Cichlidae,demersal,22.4,TL,3.1,endemic,Malawi,southeast africa
+Trematocranus,microstoma,Cichlidae,demersal,23.2,TL,3.4,endemic,Malawi,southeast africa
+Trematocranus,pachychilus,Cichlidae,benthopelagic,15.5,SL,3.3,endemic,Malawi,southeast africa
+Trematocranus,placodon,Cichlidae,demersal,25,TL,3.4,native,Malawi,southeast africa
+Tropheops,biriwira,Cichlidae,benthopelagic,6.9,SL,2.3,endemic,Malawi,southeast africa
+Tropheops,gracilior,Cichlidae,demersal,11.2,TL,2.1,endemic,Malawi,southeast africa
+Tropheops,kamtambo,Cichlidae,benthopelagic,9.3,SL,2.1,endemic,Malawi,southeast africa
+Tropheops,kumwera,Cichlidae,benthopelagic,7.1,SL,2.2,endemic,Malawi,southeast africa
+Tropheops,lucerna,Cichlidae,demersal,13.5,TL,2,endemic,Malawi,southeast africa
+Tropheops,macrophthalmus,Cichlidae,demersal,11.5,TL,2.1,endemic,Malawi,southeast africa
+Tropheops,microstoma,Cichlidae,demersal,9.8,SL,2.8,endemic,Malawi,southeast africa
+Tropheops,modestus,Cichlidae,demersal,6.4,SL,2.3,endemic,Malawi,southeast africa
+Tropheops,novemfasciatus,Cichlidae,demersal,9,SL,2,endemic,Malawi,southeast africa
+Tropheops,romandi,Cichlidae,demersal,6.3,SL,2.3,endemic,Malawi,southeast africa
+Tropheops,tropheops,Cichlidae,demersal,14,TL,2,endemic,Malawi,southeast africa
+Tylochromis,polylepis,Cichlidae,demersal,43.5,NG,3,questionable,Malawi,southeast africa
+Tyrannochromis,macrostoma,Cichlidae,demersal,30,TL,4.2,endemic,Malawi,southeast africa
+Tyrannochromis,maculiceps,Cichlidae,demersal,29.5,TL,4.2,endemic,Malawi,southeast africa
+Tyrannochromis,nigriventer,Cichlidae,demersal,17,SL,4.2,endemic,Malawi,southeast africa
+Tyrannochromis,polyodon,Cichlidae,demersal,18.6,SL,4.1,endemic,Malawi,southeast africa
+Bathyclarias,atribranchus,Clariidae,demersal,60,TL,3.1,endemic,Malawi,southeast africa
+Bathyclarias,euryodon,Clariidae,demersal,105,TL,3.9,endemic,Malawi,southeast africa
+Bathyclarias,filicibarbis,Clariidae,demersal,79.2,TL,4.1,endemic,Malawi,southeast africa
+Bathyclarias,foveolatus,Clariidae,demersal,75,SL,3.8,endemic,Malawi,southeast africa
+Bathyclarias,longibarbis,Clariidae,demersal,76,TL,3.8,endemic,Malawi,southeast africa
+Bathyclarias,nyasensis,Clariidae,benthopelagic,100,SL,3.7,endemic,Malawi,southeast africa
+Bathyclarias,rotundifrons,Clariidae,demersal,68.1,TL,3.8,endemic,Malawi,southeast africa
+Bathyclarias,worthingtoni,Clariidae,demersal,80,SL,4,endemic,Malawi,southeast africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Malawi,southeast africa
+Clarias,liocephalus,Clariidae,demersal,32,TL,3.3,native,Malawi,southeast africa
+Clarias,ngamensis,Clariidae,demersal,73,TL,4.3,native,Malawi,southeast africa
+Clarias,theodorae,Clariidae,demersal,35,SL,3.5,native,Malawi,southeast africa
+Heterobranchus,longifilis,Clariidae,demersal,150,SL,3.7,native,Malawi,southeast africa
+Enteromius,arcislongae,Cyprinidae,benthopelagic,6.4,SL,3,endemic,Malawi,southeast africa
+Enteromius,atkinsoni,Cyprinidae,benthopelagic,3.2,SL,3,native,Malawi,southeast africa
+Enteromius,eutaenia,Cyprinidae,benthopelagic,14,SL,3.2,questionable,Malawi,southeast africa
+Enteromius,innocens,Cyprinidae,benthopelagic,8,TL,2.4,native,Malawi,southeast africa
+Enteromius,litamba,Cyprinidae,benthopelagic,35,SL,4,endemic,Malawi,southeast africa
+Enteromius,macrotaenia,Cyprinidae,benthopelagic,4,SL,3,native,Malawi,southeast africa
+Enteromius,oligogrammus,Cyprinidae,benthopelagic,8.2,TL,3,native,Malawi,southeast africa
+Enteromius,paludinosus,Cyprinidae,benthopelagic,15,SL,2.9,native,Malawi,southeast africa
+Enteromius,radiatus,Cyprinidae,benthopelagic,12,SL,2.8,native,Malawi,southeast africa
+Enteromius,seymouri,Cyprinidae,benthopelagic,10.8,SL,3,endemic,Malawi,southeast africa
+Enteromius,trimaculatus,Cyprinidae,benthopelagic,15,SL,3.2,native,Malawi,southeast africa
+Labeo,altivelis,Cyprinidae,benthopelagic,49,TL,2,native,Malawi,southeast africa
+Labeo,cylindricus,Cyprinidae,benthopelagic,25,SL,2,native,Malawi,southeast africa
+Labeo,mesops,Cyprinidae,benthopelagic,39,TL,2,native,Malawi,southeast africa
+Labeo,worthingtoni,Cyprinidae,benthopelagic,26,TL,2.3,endemic,Malawi,southeast africa
+Labeobarbus,johnstonii,Cyprinidae,benthopelagic,50,SL,2,native,Malawi,southeast africa
+Labeobarbus,latirostris,Cyprinidae,benthopelagic,37,SL,3.2,endemic,Malawi,southeast africa
+Labeobarbus,nthuwa,Cyprinidae,benthopelagic,23.6,SL,3.2,endemic,Malawi,southeast africa
+Engraulicypris,sardella,Danionidae,demersal,13,TL,2.9,endemic,Malawi,southeast africa
+Opsaridium,microcephalum,Danionidae,demersal,34,TL,3.4,endemic,Malawi,southeast africa
+Opsaridium,microlepis,Danionidae,demersal,47,TL,3.5,endemic,Malawi,southeast africa
+Mastacembelus,shiranus,Mastacembelidae,benthopelagic,26,TL,4,endemic,Malawi,southeast africa
+Chiloglanis,neumanni,Mochokidae,benthopelagic,6.5,SL,2.8,native,Malawi,southeast africa
+Synodontis,njassae,Mochokidae,benthopelagic,19.2,TL,3.1,native,Malawi,southeast africa
+Cyphomyrus,discorhynchus,Mormyridae,demersal,31,SL,3.2,native,Malawi,southeast africa
+Marcusenius,livingstonii,Mormyridae,demersal,30,SL,3.1,native,Malawi,southeast africa
+Marcusenius,macrolepidotus,Mormyridae,demersal,32,TL,3.2,native,Malawi,southeast africa
+Marcusenius,nyasensis,Mormyridae,demersal,30,SL,3.1,native,Malawi,southeast africa
+Mormyrops,anguilloides,Mormyridae,demersal,150,TL,3.8,native,Malawi,southeast africa
+Mormyrus,longirostris,Mormyridae,demersal,75,SL,3.3,native,Malawi,southeast africa
+Petrocephalus,catostoma,Mormyridae,demersal,15,FL,3.4,native,Malawi,southeast africa
+Pollimyrus,castelnaui,Mormyridae,demersal,7,SL,3.2,native,Malawi,southeast africa
+Nothobranchius,wattersi,Nothobranchiidae,pelagic,5.3,SL,3.2,native,Malawi,southeast africa
+Lacustricola,katangae,Procatopodidae,benthopelagic,5,TL,3.3,questionable,Malawi,southeast africa
+Micropanchax,johnstoni,Procatopodidae,benthopelagic,8.5,TL,3.2,native,Malawi,southeast africa
+Protopterus,annectens,Protopteridae,demersal,100,TL,3.8,introduced,Malawi,southeast africa
+Schilbe,intermedius,Schilbeidae,pelagic,50,SL,3.6,error,Malawi,southeast africa
+Alestes,liebrechtsii,Alestidae,pelagic,40,TL,2.9,native,Mweru,central africa
+Alestes,macrophthalmus,Alestidae,pelagic,60,SL,2,native,Mweru,central africa
+Brycinus,grandisquamis,Alestidae,pelagic,26,SL,3.2,native,Mweru,central africa
+Brycinus,humilis,Alestidae,pelagic,7,TL,3.1,questionable,Mweru,central africa
+Brycinus,imberi,Alestidae,demersal,19.8,TL,3.3,native,Mweru,central africa
+Brycinus,kingsleyae,Alestidae,pelagic,16.6,SL,3.1,native,Mweru,central africa
+Brycinus,lateralis,Alestidae,pelagic,14,SL,3.5,native,Mweru,central africa
+Brycinus,macrolepidotus,Alestidae,pelagic,53,SL,2.8,native,Mweru,central africa
+Brycinus,peringueyi,Alestidae,pelagic,13.3,TL,3.1,native,Mweru,central africa
+Bryconaethiops,boulengeri,Alestidae,pelagic,25,TL,3.2,native,Mweru,central africa
+Hydrocynus,vittatus,Alestidae,demersal,105,FL,3.7,native,Mweru,central africa
+Micralestes,acutidens,Alestidae,pelagic,9,SL,2.9,native,Mweru,central africa
+Micralestes,humilis,Alestidae,pelagic,10.6,TL,3.1,native,Mweru,central africa
+Micralestes,sardina,Alestidae,pelagic,9.5,SL,3.2,native,Mweru,central africa
+Rhabdalestes,rhodesiensis,Alestidae,pelagic,5.7,SL,3.1,native,Mweru,central africa
+Amphilius,cryptobullatus,Amphiliidae,demersal,13.5,SL,3,endemic,Mweru,central africa
+Amphilius,frieli,Amphiliidae,demersal,13.6,SL,3,native,Mweru,central africa
+Amphilius,platychir,Amphiliidae,demersal,10.8,TL,3,misidentification,Mweru,central africa
+Amphilius,uranoscopus,Amphiliidae,demersal,19.5,TL,2.9,native,Mweru,central africa
+Congoglanis,alula,Amphiliidae,demersal,14.1,SL,3.1,misidentification,Mweru,central africa
+Congoglanis,sagitta,Amphiliidae,demersal,13.6,SL,3.1,native,Mweru,central africa
+Zaireichthys,brevis,Amphiliidae,demersal,3.4,TL,3,native,Mweru,central africa
+Zaireichthys,rotundiceps,Amphiliidae,demersal,3.8,SL,3.4,questionable,Mweru,central africa
+Ctenopoma,multispine,Anabantidae,benthopelagic,13.5,SL,3.8,native,Mweru,central africa
+Microctenopoma,intermedium,Anabantidae,benthopelagic,6.2,TL,3.2,native,Mweru,central africa
+Chetia,mola,Cichlidae,benthopelagic,13.3,SL,3.8,endemic,Mweru,central africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,native,Mweru,central africa
+Oreochromis,andersonii,Cichlidae,benthopelagic,61,TL,2,introduced,Mweru,central africa
+Oreochromis,macrochir,Cichlidae,benthopelagic,43,TL,2.2,questionable,Mweru,central africa
+Oreochromis,mortimeri,Cichlidae,benthopelagic,48,TL,2.2,introduced,Mweru,central africa
+Oreochromis,mweruensis,Cichlidae,benthopelagic,23.8,SL,2.3,native,Mweru,central africa
+Orthochromis,kalungwishiensis,Cichlidae,benthopelagic,9.9,SL,2,endemic,Mweru,central africa
+Orthochromis,katumbii,Cichlidae,benthopelagic,8.6,SL,2,endemic,Mweru,central africa
+Orthochromis,luongoensis,Cichlidae,benthopelagic,10.7,SL,2,endemic,Mweru,central africa
+Orthochromis,mporokoso,Cichlidae,benthopelagic,7.5,SL,2,endemic,Mweru,central africa
+Orthochromis,polyacanthus,Cichlidae,benthopelagic,11.8,TL,2,endemic,Mweru,central africa
+Orthochromis,stormsi,Cichlidae,benthopelagic,10.2,TL,2,native,Mweru,central africa
+Palaeoplex,palimpsest,Cichlidae,benthopelagic,14.3,SL,3.4,endemic,Mweru,central africa
+Pseudocrenilabrus,philander,Cichlidae,benthopelagic,13,TL,3.7,native,Mweru,central africa
+Pseudocrenilabrus,pyrrhocaudalis,Cichlidae,benthopelagic,7.3,SL,3.3,endemic,Mweru,central africa
+Sargochromis,mellandi,Cichlidae,demersal,20,TL,3.4,native,Mweru,central africa
+Serranochromis,angusticeps,Cichlidae,demersal,41,SL,4.5,native,Mweru,central africa
+Serranochromis,jallae,Cichlidae,demersal,39.6,SL,4.1,native,Mweru,central africa
+Serranochromis,macrocephalus,Cichlidae,demersal,35,SL,4.2,native,Mweru,central africa
+Serranochromis,stappersi,Cichlidae,benthopelagic,25.5,SL,3.9,endemic,Mweru,central africa
+Serranochromis,thumbergi,Cichlidae,demersal,33,TL,3.7,native,Mweru,central africa
+Steatocranus,bleheri,Cichlidae,demersal,6.8,SL,3.3,endemic,Mweru,central africa
+Thoracochromis,moeruensis,Cichlidae,benthopelagic,10,TL,3.3,endemic,Mweru,central africa
+Thoracochromis,stigmatogenys,Cichlidae,benthopelagic,10.5,TL,3.3,native,Mweru,central africa
+Tilapia,baloni,Cichlidae,demersal,17.5,TL,2.3,endemic,Mweru,central africa
+Tilapia,ruweti,Cichlidae,benthopelagic,10.4,TL,2.4,native,Mweru,central africa
+Tilapia,sparrmanii,Cichlidae,benthopelagic,23.5,TL,2.7,native,Mweru,central africa
+Tylochromis,bangwelensis,Cichlidae,benthopelagic,27.5,TL,3.2,native,Mweru,central africa
+Tylochromis,mylodon,Cichlidae,benthopelagic,22,SL,3.3,native,Mweru,central africa
+Tylochromis,regani,Cichlidae,benthopelagic,27.5,TL,2.6,native,Mweru,central africa
+Clarias,buthupogon,Clariidae,demersal,34.1,TL,3.3,native,Mweru,central africa
+Clarias,dumerilii,Clariidae,demersal,30.5,TL,3.4,native,Mweru,central africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Mweru,central africa
+Clarias,liocephalus,Clariidae,demersal,32,TL,3.3,native,Mweru,central africa
+Clarias,ngamensis,Clariidae,demersal,73,TL,4.3,native,Mweru,central africa
+Clarias,stappersii,Clariidae,demersal,41,SL,4.5,native,Mweru,central africa
+Clarias,theodorae,Clariidae,demersal,35,SL,3.5,native,Mweru,central africa
+Heterobranchus,boulengeri,Clariidae,demersal,64,TL,3.5,endemic,Mweru,central africa
+Heterobranchus,longifilis,Clariidae,demersal,150,SL,3.7,native,Mweru,central africa
+Auchenoglanis,occidentalis,Claroteidae,demersal,70,SL,2.9,native,Mweru,central africa
+Chrysichthys,mabusi,Claroteidae,demersal,41,SL,3.3,native,Mweru,central africa
+Chrysichthys,sharpii,Claroteidae,demersal,37,TL,3.3,native,Mweru,central africa
+Clypeobarbus,pseudognathodon,Cyprinidae,benthopelagic,5.5,TL,2.9,native,Mweru,central africa
+Coptostomabarbus,bellcrossi,Cyprinidae,benthopelagic,2.7,SL,3,native,Mweru,central africa
+Enteromius,afrovernayi,Cyprinidae,benthopelagic,5.7,TL,3.5,native,Mweru,central africa
+Enteromius,atromaculatus,Cyprinidae,benthopelagic,6.8,TL,3,native,Mweru,central africa
+Enteromius,barotseensis,Cyprinidae,benthopelagic,5,SL,3,native,Mweru,central africa
+Enteromius,bifrenatus,Cyprinidae,benthopelagic,7,SL,2.6,native,Mweru,central africa
+Enteromius,brachygramma,Cyprinidae,benthopelagic,5.2,TL,3,endemic,Mweru,central africa
+Enteromius,brevidorsalis,Cyprinidae,benthopelagic,4.6,TL,3,native,Mweru,central africa
+Enteromius,eutaenia,Cyprinidae,benthopelagic,14,SL,3.2,native,Mweru,central africa
+Enteromius,fasciolatus,Cyprinidae,benthopelagic,6,SL,3,native,Mweru,central africa
+Enteromius,haasianus,Cyprinidae,benthopelagic,3.2,SL,3,native,Mweru,central africa
+Enteromius,holotaenia,Cyprinidae,benthopelagic,12,SL,2.8,native,Mweru,central africa
+Enteromius,kerstenii,Cyprinidae,benthopelagic,9,SL,3,native,Mweru,central africa
+Enteromius,kessleri,Cyprinidae,benthopelagic,7.7,TL,3,native,Mweru,central africa
+Enteromius,lineomaculatus,Cyprinidae,benthopelagic,8.6,SL,3,native,Mweru,central africa
+Enteromius,lornae,Cyprinidae,pelagic,5.4,SL,3,native,Mweru,central africa
+Enteromius,lukindae,Cyprinidae,benthopelagic,7.5,TL,3,endemic,Mweru,central africa
+Enteromius,multilineatus,Cyprinidae,benthopelagic,4.5,SL,3,native,Mweru,central africa
+Enteromius,paludinosus,Cyprinidae,benthopelagic,15,SL,2.9,native,Mweru,central africa
+Enteromius,radiatus,Cyprinidae,benthopelagic,12,SL,2.8,native,Mweru,central africa
+Enteromius,trimaculatus,Cyprinidae,benthopelagic,15,SL,3.2,native,Mweru,central africa
+Enteromius,unitaeniatus,Cyprinidae,benthopelagic,14,SL,3.3,native,Mweru,central africa
+Labeo,altivelis,Cyprinidae,benthopelagic,49,TL,2,native,Mweru,central africa
+Labeo,annectens,Cyprinidae,benthopelagic,17.5,SL,2.4,native,Mweru,central africa
+Labeo,chariensis,Cyprinidae,benthopelagic,22.1,SL,2.3,native,Mweru,central africa
+Labeo,congoro,Cyprinidae,benthopelagic,41.5,SL,2.2,native,Mweru,central africa
+Labeo,cylindricus,Cyprinidae,benthopelagic,25,SL,2,native,Mweru,central africa
+Labeo,polli,Cyprinidae,benthopelagic,18.4,SL,2.4,native,Mweru,central africa
+Labeo,simpsoni,Cyprinidae,benthopelagic,22,SL,2.3,native,Mweru,central africa
+Labeo,weeksii,Cyprinidae,benthopelagic,29,TL,2.3,native,Mweru,central africa
+Labeobarbus,caudovittatus,Cyprinidae,benthopelagic,80,TL,3.3,native,Mweru,central africa
+Labeobarbus,stappersii,Cyprinidae,benthopelagic,59.4,SL,3.3,native,Mweru,central africa
+Labeobarbus,trachypterus,Cyprinidae,benthopelagic,23.9,SL,3.2,native,Mweru,central africa
+Chelaethiops,congicus,Danionidae,benthopelagic,11,TL,3.3,native,Mweru,central africa
+Engraulicypris,brevianalis,Danionidae,benthopelagic,7.5,SL,3.2,native,Mweru,central africa
+Engraulicypris,moeruensis,Danionidae,benthopelagic,3.7,TL,3,native,Mweru,central africa
+Opsaridium,ubangiense,Danionidae,benthopelagic,12,TL,3.3,native,Mweru,central africa
+Opsaridium,zambezense,Danionidae,benthopelagic,12,SL,3.4,native,Mweru,central africa
+Raiamas,intermedius,Danionidae,benthopelagic,13,TL,3.3,native,Mweru,central africa
+Distichodus,antonii,Distichodontidae,pelagic,55,TL,2.1,questionable,Mweru,central africa
+Distichodus,maculatus,Distichodontidae,pelagic,31,TL,2.3,native,Mweru,central africa
+Nannocharax,dageti,Distichodontidae,benthopelagic,4.4,SL,3.1,native,Mweru,central africa
+Nannocharax,luapulae,Distichodontidae,pelagic,4.6,TL,3.1,native,Mweru,central africa
+Nannocharax,minutus,Distichodontidae,pelagic,2.7,SL,3.1,native,Mweru,central africa
+Nannocharax,multifasciatus,Distichodontidae,pelagic,6,TL,2.8,native,Mweru,central africa
+Limnothrissa,miodon,Dorosomatidae,pelagic,17,SL,3.1,error,Mweru,central africa
+Microthrissa,moeruensis,Dorosomatidae,pelagic,4.1,SL,3,endemic,Mweru,central africa
+Potamothrissa,acutirostris,Dorosomatidae,pelagic,7,SL,3.1,native,Mweru,central africa
+Hepsetus,cuvieri,Hepsetidae,demersal,37,SL,3,native,Mweru,central africa
+Hepsetus,odoe,Hepsetidae,demersal,44.2,SL,4.1,misidentification,Mweru,central africa
+Kneria,auriculata,Kneriidae,benthopelagic,7,SL,2,native,Mweru,central africa
+Kneria,paucisquamata,Kneriidae,benthopelagic,4.8,SL,2.3,endemic,Mweru,central africa
+Kneria,polli,Kneriidae,benthopelagic,7,SL,2,native,Mweru,central africa
+Kneria,stappersii,Kneriidae,benthopelagic,4.8,SL,2.3,endemic,Mweru,central africa
+Kneria,wittei,Kneriidae,benthopelagic,8.6,SL,2,native,Mweru,central africa
+Parakneria,malaissei,Kneriidae,benthopelagic,7.8,SL,2,endemic,Mweru,central africa
+Mastacembelus,congicus,Mastacembelidae,benthopelagic,43.5,SL,3.9,native,Mweru,central africa
+Mastacembelus,frenatus,Mastacembelidae,demersal,40,SL,3.9,native,Mweru,central africa
+Chiloglanis,elisabethianus,Mochokidae,benthopelagic,5.2,TL,3.1,native,Mweru,central africa
+Chiloglanis,macropterus,Mochokidae,benthopelagic,9.8,TL,3.2,endemic,Mweru,central africa
+Chiloglanis,neumanni,Mochokidae,benthopelagic,6.5,SL,2.8,questionable,Mweru,central africa
+Euchilichthys,royauxi,Mochokidae,demersal,22,TL,3.3,native,Mweru,central africa
+Synodontis,katangae,Mochokidae,benthopelagic,24,TL,2.9,native,Mweru,central africa
+Synodontis,nigromaculatus,Mochokidae,benthopelagic,38.5,TL,3.3,native,Mweru,central africa
+Synodontis,ornatipinnis,Mochokidae,benthopelagic,40,TL,2.8,native,Mweru,central africa
+Synodontis,polystigma,Mochokidae,benthopelagic,24.5,TL,2.9,native,Mweru,central africa
+Synodontis,unicolor,Mochokidae,benthopelagic,24.1,TL,2.9,endemic,Mweru,central africa
+Synodontis,zambezensis,Mochokidae,benthopelagic,43,SL,2.7,native,Mweru,central africa
+Campylomormyrus,bredoi,Mormyridae,demersal,37,TL,3.2,endemic,Mweru,central africa
+Campylomormyrus,luapulaensis,Mormyridae,demersal,22,TL,3.2,native,Mweru,central africa
+Campylomormyrus,orycteropus,Mormyridae,demersal,32,TL,3.2,native,Mweru,central africa
+Campylomormyrus,tamandua,Mormyridae,demersal,43,SL,3.2,native,Mweru,central africa
+Cyphomyrus,aelsbroecki,Mormyridae,demersal,8.6,TL,3.1,endemic,Mweru,central africa
+Cyphomyrus,discorhynchus,Mormyridae,demersal,31,SL,3.2,native,Mweru,central africa
+Gnathonemus,petersii,Mormyridae,demersal,35,SL,3.1,native,Mweru,central africa
+Marcusenius,macrolepidotus,Mormyridae,demersal,32,TL,3.2,native,Mweru,central africa
+Marcusenius,monteiri,Mormyridae,demersal,45,TL,3.1,native,Mweru,central africa
+Marcusenius,stanleyanus,Mormyridae,demersal,21,TL,3.1,native,Mweru,central africa
+Mormyrops,anguilloides,Mormyridae,demersal,150,TL,3.8,native,Mweru,central africa
+Mormyrus,caballus,Mormyridae,demersal,50,TL,3.2,native,Mweru,central africa
+Mormyrus,longirostris,Mormyridae,demersal,75,SL,3.3,native,Mweru,central africa
+Mormyrus,ovis,Mormyridae,demersal,29,TL,3.1,questionable,Mweru,central africa
+Myomyrus,macrodon,Mormyridae,demersal,24,TL,3.2,native,Mweru,central africa
+Myomyrus,macrops,Mormyridae,demersal,25,TL,3.2,native,Mweru,central africa
+Petrocephalus,catostoma,Mormyridae,demersal,15,FL,3.4,questionable,Mweru,central africa
+Petrocephalus,frieli,Mormyridae,demersal,9.1,SL,3.2,native,Mweru,central africa
+Petrocephalus,longianalis,Mormyridae,demersal,11.9,SL,3.3,native,Mweru,central africa
+Petrocephalus,simus,Mormyridae,demersal,12,TL,3.2,native,Mweru,central africa
+Petrocephalus,squalostoma,Mormyridae,demersal,12.2,SL,3.3,native,Mweru,central africa
+Pollimyrus,castelnaui,Mormyridae,demersal,7,SL,3.2,native,Mweru,central africa
+Pollimyrus,isidori,Mormyridae,demersal,10.3,TL,2.6,native,Mweru,central africa
+Pollimyrus,stappersii,Mormyridae,demersal,7.4,TL,3.2,native,Mweru,central africa
+Nothobranchius,chochamandai,Nothobranchiidae,pelagic,3.5,SL,3.2,endemic,Mweru,central africa
+Nothobranchius,cooperi,Nothobranchiidae,pelagic,2.6,SL,3.1,native,Mweru,central africa
+Nothobranchius,malaissei,Nothobranchiidae,benthopelagic,5.5,TL,3.2,endemic,Mweru,central africa
+Nothobranchius,milvertzi,Nothobranchiidae,pelagic,3.7,SL,3.2,endemic,Mweru,central africa
+Nothobranchius,oestergaardi,Nothobranchiidae,demersal,3.2,SL,3.1,endemic,Mweru,central africa
+Nothobranchius,rosenstocki,Nothobranchiidae,pelagic,4.5,TL,3.2,native,Mweru,central africa
+Nothobranchius,sainthousei,Nothobranchiidae,benthopelagic,4.1,SL,3.2,endemic,Mweru,central africa
+Nothobranchius,symoensi,Nothobranchiidae,benthopelagic,5,TL,3.2,native,Mweru,central africa
+Lacustricola,hutereaui,Procatopodidae,benthopelagic,3.5,TL,3,native,Mweru,central africa
+Lacustricola,katangae,Procatopodidae,benthopelagic,5,TL,3.3,native,Mweru,central africa
+Lacustricola,moeruensis,Procatopodidae,benthopelagic,4,TL,3,native,Mweru,central africa
+Micropanchax,fuelleborni,Procatopodidae,benthopelagic,3.5,TL,3.1,native,Mweru,central africa
+Micropanchax,johnstoni,Procatopodidae,benthopelagic,8.5,TL,3.2,native,Mweru,central africa
+Protopterus,annectens,Protopteridae,demersal,100,TL,3.8,native,Mweru,central africa
+Pareutropius,mandevillei,Schilbeidae,demersal,6.5,SL,3.2,native,Mweru,central africa
+Schilbe,banguelensis,Schilbeidae,demersal,59,TL,3.5,native,Mweru,central africa
+Schilbe,intermedius,Schilbeidae,pelagic,50,SL,3.6,native,Mweru,central africa
+Alestes,liebrechtsii,Alestidae,pelagic,40,TL,2.9,native,Pool Malebo,central africa
+Alestes,macrophthalmus,Alestidae,pelagic,60,SL,2,native,Pool Malebo,central africa
+Alestopetersius,brichardi,Alestidae,pelagic,7.9,SL,3.1,native,Pool Malebo,central africa
+Alestopetersius,hilgendorfi,Alestidae,pelagic,10,TL,3.1,native,Pool Malebo,central africa
+Alestopetersius,tumbensis,Alestidae,pelagic,4.4,SL,3.1,native,Pool Malebo,central africa
+Bathyaethiops,caudomaculatus,Alestidae,pelagic,8,TL,3.1,native,Pool Malebo,central africa
+Brachypetersius,altus,Alestidae,pelagic,6.5,TL,3.1,native,Pool Malebo,central africa
+Brycinus,grandisquamis,Alestidae,pelagic,26,SL,3.2,native,Pool Malebo,central africa
+Brycinus,imberi,Alestidae,demersal,19.8,TL,3.3,native,Pool Malebo,central africa
+Brycinus,macrolepidotus,Alestidae,pelagic,53,SL,2.8,native,Pool Malebo,central africa
+Bryconaethiops,boulengeri,Alestidae,pelagic,25,TL,3.2,native,Pool Malebo,central africa
+Bryconaethiops,macrops,Alestidae,pelagic,12,SL,3.1,native,Pool Malebo,central africa
+Bryconaethiops,microstoma,Alestidae,pelagic,17.2,SL,3.2,native,Pool Malebo,central africa
+Bryconaethiops,yseuxi,Alestidae,pelagic,7.2,SL,3.1,native,Pool Malebo,central africa
+Hydrocynus,forskahlii,Alestidae,pelagic,78,SL,4,native,Pool Malebo,central africa
+Hydrocynus,goliath,Alestidae,pelagic,133,FL,3.8,native,Pool Malebo,central africa
+Hydrocynus,vittatus,Alestidae,demersal,105,FL,3.7,native,Pool Malebo,central africa
+Micralestes,acutidens,Alestidae,pelagic,9,SL,2.9,native,Pool Malebo,central africa
+Micralestes,humilis,Alestidae,pelagic,10.6,TL,3.1,native,Pool Malebo,central africa
+Micralestes,stormsi,Alestidae,pelagic,10,SL,3.2,native,Pool Malebo,central africa
+Phenacogrammus,interruptus,Alestidae,benthopelagic,8,TL,3,native,Pool Malebo,central africa
+Belonoglanis,brieni,Amphiliidae,demersal,5,TL,3,endemic,Pool Malebo,central africa
+Belonoglanis,tenuis,Amphiliidae,demersal,17.2,TL,3.1,native,Pool Malebo,central africa
+Dolichamphilius,brieni,Amphiliidae,demersal,5.4,TL,3,endemic,Pool Malebo,central africa
+Doumea,angolensis,Amphiliidae,demersal,7,TL,3,native,Pool Malebo,central africa
+Leptoglanis,bouilloni,Amphiliidae,demersal,6.2,SL,3,native,Pool Malebo,central africa
+Leptoglanis,xenognathus,Amphiliidae,demersal,7.8,TL,3,native,Pool Malebo,central africa
+Phractura,lindica,Amphiliidae,demersal,9,TL,3.1,native,Pool Malebo,central africa
+Psammphiletria,delicata,Amphiliidae,demersal,2.1,SL,3,endemic,Pool Malebo,central africa
+Zaireichthys,mandevillei,Amphiliidae,demersal,2.6,SL,3,native,Pool Malebo,central africa
+Ctenopoma,acutirostre,Anabantidae,benthopelagic,15,TL,3.2,native,Pool Malebo,central africa
+Ctenopoma,kingsleyae,Anabantidae,benthopelagic,18.2,SL,3.2,native,Pool Malebo,central africa
+Ctenopoma,nigropannosum,Anabantidae,benthopelagic,15.5,SL,3.2,native,Pool Malebo,central africa
+Ctenopoma,ocellatum,Anabantidae,benthopelagic,13.8,SL,3.2,native,Pool Malebo,central africa
+Ctenopoma,weeksii,Anabantidae,benthopelagic,12,TL,3.1,native,Pool Malebo,central africa
+Microctenopoma,ansorgii,Anabantidae,benthopelagic,5.4,SL,3.2,native,Pool Malebo,central africa
+Microctenopoma,congicum,Anabantidae,benthopelagic,6.2,SL,3.2,native,Pool Malebo,central africa
+Microctenopoma,fasciolatum,Anabantidae,benthopelagic,8,TL,3.3,native,Pool Malebo,central africa
+Microctenopoma,nanum,Anabantidae,benthopelagic,6.7,SL,3.3,native,Pool Malebo,central africa
+Heterotis,niloticus,Arapaimidae,pelagic,100,SL,2.7,introduced,Pool Malebo,central africa
+Bagrus,ubangensis,Bagridae,demersal,31.5,TL,4.2,native,Pool Malebo,central africa
+Kribia,nana,Butidae,demersal,5.8,TL,3.4,native,Pool Malebo,central africa
+Parachanna,insignis,Channidae,benthopelagic,53.2,TL,4,native,Pool Malebo,central africa
+Parachanna,obscura,Channidae,demersal,50,SL,3.4,native,Pool Malebo,central africa
+Congolapia,crassa,Cichlidae,pelagic,14.7,SL,3.2,native,Pool Malebo,central africa
+Coptodon,congica,Cichlidae,demersal,25,TL,2.5,native,Pool Malebo,central africa
+Coptodon,tholloni,Cichlidae,benthopelagic,22,TL,2.5,questionable,Pool Malebo,central africa
+Haplochromis,polli,Cichlidae,benthopelagic,9.1,TL,3.3,native,Pool Malebo,central africa
+Hemichromis,elongatus,Cichlidae,benthopelagic,18.7,SL,3.7,native,Pool Malebo,central africa
+Lamprologus,congoensis,Cichlidae,benthopelagic,13,TL,4,native,Pool Malebo,central africa
+Lamprologus,teugelsi,Cichlidae,benthopelagic,8.2,SL,3.8,native,Pool Malebo,central africa
+Lamprologus,werneri,Cichlidae,benthopelagic,12.3,TL,3.9,native,Pool Malebo,central africa
+Nanochromis,nudiceps,Cichlidae,demersal,7,TL,3.2,native,Pool Malebo,central africa
+Pelmatochromis,nigrofasciatus,Cichlidae,demersal,11.6,SL,3.4,native,Pool Malebo,central africa
+Pelmatochromis,ocellifer,Cichlidae,demersal,13,TL,3.3,native,Pool Malebo,central africa
+Pterochromis,congicus,Cichlidae,demersal,15.2,SL,3.4,native,Pool Malebo,central africa
+Rubricatochromis,bimaculatus,Cichlidae,benthopelagic,13.6,SL,3.9,misidentification,Pool Malebo,central africa
+Rubricatochromis,stellifer,Cichlidae,benthopelagic,10,SL,3.4,native,Pool Malebo,central africa
+Sarotherodon,galilaeus,Cichlidae,demersal,39.5,TL,2.8,native,Pool Malebo,central africa
+Steatocranus,casuarius,Cichlidae,demersal,10,TL,3.3,native,Pool Malebo,central africa
+Steatocranus,gibbiceps,Cichlidae,demersal,10,TL,3.3,native,Pool Malebo,central africa
+Steatocranus,tinanti,Cichlidae,demersal,6.3,SL,3.3,native,Pool Malebo,central africa
+Tylochromis,labrodon,Cichlidae,benthopelagic,22.6,SL,2.6,native,Pool Malebo,central africa
+Tylochromis,lateralis,Cichlidae,benthopelagic,26,TL,3.1,native,Pool Malebo,central africa
+Citharinus,congicus,Citharinidae,pelagic,43,TL,2.3,native,Pool Malebo,central africa
+Citharinus,gibbosus,Citharinidae,pelagic,61,TL,2.2,native,Pool Malebo,central africa
+Citharinus,macrolepis,Citharinidae,pelagic,75,TL,2.1,native,Pool Malebo,central africa
+Channallabes,apus,Clariidae,benthopelagic,41.6,TL,3.5,native,Pool Malebo,central africa
+Clariallabes,melas,Clariidae,demersal,26,TL,3.7,native,Pool Malebo,central africa
+Clariallabes,teugelsi,Clariidae,demersal,17,TL,3.6,native,Pool Malebo,central africa
+Clariallabes,variabilis,Clariidae,demersal,15.8,TL,3.6,native,Pool Malebo,central africa
+Clarias,angolensis,Clariidae,demersal,35,TL,3.3,native,Pool Malebo,central africa
+Clarias,buthupogon,Clariidae,demersal,34.1,TL,3.3,native,Pool Malebo,central africa
+Clarias,camerunensis,Clariidae,demersal,46.6,TL,3.5,native,Pool Malebo,central africa
+Clarias,gabonensis,Clariidae,demersal,36,TL,3.3,native,Pool Malebo,central africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Pool Malebo,central africa
+Clarias,platycephalus,Clariidae,demersal,37.6,TL,4.2,native,Pool Malebo,central africa
+Heterobranchus,longifilis,Clariidae,demersal,150,SL,3.7,native,Pool Malebo,central africa
+Platyallabes,tihoni,Clariidae,demersal,52.8,TL,3.5,native,Pool Malebo,central africa
+Auchenoglanis,occidentalis,Claroteidae,demersal,70,SL,2.9,native,Pool Malebo,central africa
+Chrysichthys,brevibarbis,Claroteidae,demersal,40,SL,3.3,native,Pool Malebo,central africa
+Chrysichthys,cranchii,Claroteidae,demersal,150,TL,3.4,native,Pool Malebo,central africa
+Chrysichthys,delhezi,Claroteidae,demersal,23.2,SL,3.3,native,Pool Malebo,central africa
+Chrysichthys,duttoni,Claroteidae,demersal,27.3,TL,3.3,native,Pool Malebo,central africa
+Chrysichthys,habereri,Claroteidae,demersal,29,SL,3.3,native,Pool Malebo,central africa
+Chrysichthys,laticeps,Claroteidae,demersal,126,TL,3.4,native,Pool Malebo,central africa
+Chrysichthys,longibarbis,Claroteidae,demersal,25,SL,3.3,native,Pool Malebo,central africa
+Chrysichthys,longipinnis,Claroteidae,demersal,70,SL,3.1,native,Pool Malebo,central africa
+Chrysichthys,ornatus,Claroteidae,demersal,25.2,SL,3.3,native,Pool Malebo,central africa
+Chrysichthys,punctatus,Claroteidae,demersal,15.5,SL,3.2,native,Pool Malebo,central africa
+Gephyroglanis,congicus,Claroteidae,demersal,43,SL,3.6,native,Pool Malebo,central africa
+Parauchenoglanis,monkei,Claroteidae,demersal,15.1,SL,3.7,native,Pool Malebo,central africa
+Parauchenoglanis,punctatus,Claroteidae,demersal,41,SL,3.8,native,Pool Malebo,central africa
+Clypeobarbus,matthesi,Cyprinidae,benthopelagic,6.2,SL,2.9,native,Pool Malebo,central africa
+Clypeobarbus,pleuropholis,Cyprinidae,benthopelagic,3.3,SL,3,native,Pool Malebo,central africa
+Enteromius,miolepis,Cyprinidae,benthopelagic,12.5,SL,3,native,Pool Malebo,central africa
+Enteromius,validus,Cyprinidae,benthopelagic,9.6,SL,3,native,Pool Malebo,central africa
+Labeo,annectens,Cyprinidae,benthopelagic,17.5,SL,2.4,native,Pool Malebo,central africa
+Labeo,barbatus,Cyprinidae,benthopelagic,56.2,SL,2.1,native,Pool Malebo,central africa
+Labeo,chariensis,Cyprinidae,benthopelagic,22.1,SL,2.3,native,Pool Malebo,central africa
+Labeo,coubie,Cyprinidae,benthopelagic,75,SL,2,questionable,Pool Malebo,central africa
+Labeo,cyclorhynchus,Cyprinidae,benthopelagic,16,TL,2.5,native,Pool Malebo,central africa
+Labeo,degeni,Cyprinidae,benthopelagic,68,SL,2,native,Pool Malebo,central africa
+Labeo,falcipinnis,Cyprinidae,benthopelagic,38.1,SL,2.2,native,Pool Malebo,central africa
+Labeo,greenii,Cyprinidae,benthopelagic,27,TL,2.3,native,Pool Malebo,central africa
+Labeo,kirkii,Cyprinidae,benthopelagic,24,TL,2.3,native,Pool Malebo,central africa
+Labeo,lineatus,Cyprinidae,benthopelagic,78,TL,2,native,Pool Malebo,central africa
+Labeo,longipinnis,Cyprinidae,benthopelagic,26,SL,2.3,native,Pool Malebo,central africa
+Labeo,macrostoma,Cyprinidae,benthopelagic,73,TL,2,questionable,Pool Malebo,central africa
+Labeo,maleboensis,Cyprinidae,benthopelagic,7.1,SL,2.6,endemic,Pool Malebo,central africa
+Labeo,nasus,Cyprinidae,benthopelagic,19,TL,2.4,native,Pool Malebo,central africa
+Labeo,nigricans,Cyprinidae,benthopelagic,4.6,SL,2.7,native,Pool Malebo,central africa
+Labeo,parvus,Cyprinidae,benthopelagic,38,SL,2,native,Pool Malebo,central africa
+Labeo,sorex,Cyprinidae,benthopelagic,35.2,SL,2.2,questionable,Pool Malebo,central africa
+Labeo,weeksii,Cyprinidae,benthopelagic,29,TL,2.3,native,Pool Malebo,central africa
+Labeobarbus,caudovittatus,Cyprinidae,benthopelagic,80,TL,3.3,native,Pool Malebo,central africa
+Chelaethiops,congicus,Danionidae,benthopelagic,11,TL,3.3,native,Pool Malebo,central africa
+Chelaethiops,elongatus,Danionidae,benthopelagic,6.2,TL,3.2,native,Pool Malebo,central africa
+Leptocypris,lujae,Danionidae,benthopelagic,11.5,TL,3.3,native,Pool Malebo,central africa
+Leptocypris,modestus,Danionidae,benthopelagic,11,TL,3.3,native,Pool Malebo,central africa
+Raiamas,christyi,Danionidae,benthopelagic,17.7,TL,3.3,native,Pool Malebo,central africa
+Belonophago,tinanti,Distichodontidae,pelagic,12,TL,3,native,Pool Malebo,central africa
+Distichodus,affinis,Distichodontidae,pelagic,20,TL,2.4,native,Pool Malebo,central africa
+Distichodus,altus,Distichodontidae,pelagic,15,TL,2.5,native,Pool Malebo,central africa
+Distichodus,antonii,Distichodontidae,pelagic,55,TL,2.1,native,Pool Malebo,central africa
+Distichodus,atroventralis,Distichodontidae,pelagic,35.7,SL,2.2,native,Pool Malebo,central africa
+Distichodus,fasciolatus,Distichodontidae,pelagic,60,TL,2,native,Pool Malebo,central africa
+Distichodus,lusosso,Distichodontidae,pelagic,38,TL,2.2,native,Pool Malebo,central africa
+Distichodus,maculatus,Distichodontidae,pelagic,31,TL,2.3,native,Pool Malebo,central africa
+Distichodus,sexfasciatus,Distichodontidae,pelagic,76,SL,2.8,native,Pool Malebo,central africa
+Eugnathichthys,eetveldii,Distichodontidae,pelagic,29,TL,2.9,native,Pool Malebo,central africa
+Eugnathichthys,macroterolepis,Distichodontidae,pelagic,14.5,TL,4.2,native,Pool Malebo,central africa
+Ichthyborus,ornatus,Distichodontidae,pelagic,18,TL,3,native,Pool Malebo,central africa
+Monostichodus,lootensi,Distichodontidae,pelagic,4.6,SL,3,questionable,Pool Malebo,central africa
+Monostichodus,mesmaekersi,Distichodontidae,pelagic,5.9,TL,3,questionable,Pool Malebo,central africa
+Nannocharax,gracilis,Distichodontidae,pelagic,4.3,TL,3.1,native,Pool Malebo,central africa
+Nannocharax,hastatus,Distichodontidae,pelagic,3.2,SL,3.1,native,Pool Malebo,central africa
+Nannocharax,macropterus,Distichodontidae,pelagic,6,SL,3.2,native,Pool Malebo,central africa
+Nannocharax,schoutedeni,Distichodontidae,pelagic,4.5,TL,3.1,native,Pool Malebo,central africa
+Nannocharax,uniocellatus,Distichodontidae,pelagic,2.8,SL,3.1,native,Pool Malebo,central africa
+Neolebias,trilineatus,Distichodontidae,pelagic,3.3,SL,3.4,native,Pool Malebo,central africa
+Phago,boulengeri,Distichodontidae,pelagic,17,TL,3,native,Pool Malebo,central africa
+Phago,intermedius,Distichodontidae,pelagic,16,TL,3,native,Pool Malebo,central africa
+Xenocharax,crassus,Distichodontidae,benthopelagic,18.6,SL,3,native,Pool Malebo,central africa
+Xenocharax,spilurus,Distichodontidae,pelagic,26,TL,2.9,misidentification,Pool Malebo,central africa
+Microthrissa,congica,Dorosomatidae,pelagic,7,SL,3.1,native,Pool Malebo,central africa
+Microthrissa,royauxi,Dorosomatidae,pelagic,9.9,TL,3.1,native,Pool Malebo,central africa
+Odaxothrissa,losera,Dorosomatidae,pelagic,14.4,SL,3.1,native,Pool Malebo,central africa
+Potamothrissa,acutirostris,Dorosomatidae,pelagic,7,SL,3.1,native,Pool Malebo,central africa
+Hepsetus,microlepis,Hepsetidae,benthopelagic,30.5,SL,3,native,Pool Malebo,central africa
+Hepsetus,odoe,Hepsetidae,demersal,44.2,SL,4.1,misidentification,Pool Malebo,central africa
+Lates,niloticus,Latidae,demersal,200,TL,4.5,native,Pool Malebo,central africa
+Malapterurus,electricus,Malapteruridae,benthopelagic,122,SL,2.9,misidentification,Pool Malebo,central africa
+Malapterurus,melanochir,Malapteruridae,demersal,98,SL,3.6,native,Pool Malebo,central africa
+Malapterurus,microstoma,Malapteruridae,benthopelagic,55.5,SL,3.5,native,Pool Malebo,central africa
+Malapterurus,monsembeensis,Malapteruridae,benthopelagic,58,SL,3.5,native,Pool Malebo,central africa
+Mastacembelus,congicus,Mastacembelidae,benthopelagic,43.5,SL,3.9,native,Pool Malebo,central africa
+Mastacembelus,greshoffi,Mastacembelidae,demersal,33.3,SL,3.8,native,Pool Malebo,central africa
+Mastacembelus,marchei,Mastacembelidae,benthopelagic,32.6,SL,3.8,native,Pool Malebo,central africa
+Mastacembelus,niger,Mastacembelidae,demersal,37.5,SL,3.8,native,Pool Malebo,central africa
+Mastacembelus,robertsi,Mastacembelidae,benthopelagic,33.8,SL,3.8,native,Pool Malebo,central africa
+Mastacembelus,traversi,Mastacembelidae,benthopelagic,35.7,SL,3.8,native,Pool Malebo,central africa
+Acanthocleithron,chapini,Mochokidae,demersal,5.5,SL,2.9,questionable,Pool Malebo,central africa
+Atopochilus,chabanaudi,Mochokidae,demersal,6,SL,3.2,endemic,Pool Malebo,central africa
+Chiloglanis,congicus,Mochokidae,benthopelagic,7.5,TL,3.2,native,Pool Malebo,central africa
+Chiloglanis,micropogon,Mochokidae,benthopelagic,4.9,TL,3.1,native,Pool Malebo,central africa
+Euchilichthys,guentheri,Mochokidae,demersal,19,TL,3.3,native,Pool Malebo,central africa
+Microsynodontis,christyi,Mochokidae,demersal,,,2.9,native,Pool Malebo,central africa
+Microsynodontis,polli,Mochokidae,demersal,4.1,TL,3,misidentification,Pool Malebo,central africa
+Synodontis,acanthomias,Mochokidae,benthopelagic,59,TL,2.8,native,Pool Malebo,central africa
+Synodontis,alberti,Mochokidae,benthopelagic,20.3,TL,2.8,native,Pool Malebo,central africa
+Synodontis,angelicus,Mochokidae,benthopelagic,55,TL,2.8,native,Pool Malebo,central africa
+Synodontis,caudalis,Mochokidae,benthopelagic,20.4,TL,2.9,native,Pool Malebo,central africa
+Synodontis,congicus,Mochokidae,benthopelagic,20.2,TL,2.9,native,Pool Malebo,central africa
+Synodontis,contractus,Mochokidae,benthopelagic,9.7,TL,2,native,Pool Malebo,central africa
+Synodontis,decorus,Mochokidae,benthopelagic,31.8,TL,2.9,native,Pool Malebo,central africa
+Synodontis,depauwi,Mochokidae,benthopelagic,24,TL,2.9,endemic,Pool Malebo,central africa
+Synodontis,flavitaeniatus,Mochokidae,benthopelagic,19.5,TL,2.9,native,Pool Malebo,central africa
+Synodontis,greshoffi,Mochokidae,benthopelagic,26.6,TL,2.9,native,Pool Malebo,central africa
+Synodontis,leopardus,Mochokidae,benthopelagic,6,SL,2.9,misidentification,Pool Malebo,central africa
+Synodontis,nigriventris,Mochokidae,benthopelagic,9.6,TL,2.9,native,Pool Malebo,central africa
+Synodontis,notatus,Mochokidae,benthopelagic,26.5,TL,2.9,native,Pool Malebo,central africa
+Synodontis,nummifer,Mochokidae,demersal,20.5,TL,2.9,native,Pool Malebo,central africa
+Synodontis,ornatipinnis,Mochokidae,benthopelagic,40,TL,2.8,native,Pool Malebo,central africa
+Synodontis,pleurops,Mochokidae,benthopelagic,32.5,TL,2.8,native,Pool Malebo,central africa
+Synodontis,pulcher,Mochokidae,benthopelagic,15,TL,2.9,endemic,Pool Malebo,central africa
+Synodontis,schoutedeni,Mochokidae,benthopelagic,17.1,TL,2.9,native,Pool Malebo,central africa
+Synodontis,soloni,Mochokidae,benthopelagic,15.5,TL,2.9,native,Pool Malebo,central africa
+Campylomormyrus,christyi,Mormyridae,demersal,37.5,TL,3.2,native,Pool Malebo,central africa
+Campylomormyrus,compressirostris,Mormyridae,demersal,19,TL,3.2,native,Pool Malebo,central africa
+Campylomormyrus,curvirostris,Mormyridae,demersal,40.5,TL,3.2,native,Pool Malebo,central africa
+Campylomormyrus,elephas,Mormyridae,demersal,40,TL,3.2,native,Pool Malebo,central africa
+Campylomormyrus,numenius,Mormyridae,demersal,65,TL,3.3,native,Pool Malebo,central africa
+Campylomormyrus,rhynchophorus,Mormyridae,demersal,22,TL,3.2,native,Pool Malebo,central africa
+Campylomormyrus,tamandua,Mormyridae,demersal,43,SL,3.2,native,Pool Malebo,central africa
+Cyphomyrus,macrops,Mormyridae,demersal,19,SL,3.2,native,Pool Malebo,central africa
+Cyphomyrus,psittacus,Mormyridae,demersal,30,TL,3.2,native,Pool Malebo,central africa
+Cyphomyrus,weeksii,Mormyridae,demersal,14,TL,3.1,native,Pool Malebo,central africa
+Cyphomyrus,wilverthi,Mormyridae,demersal,26,TL,3.2,native,Pool Malebo,central africa
+Genyomyrus,donnyi,Mormyridae,demersal,45,TL,3.2,native,Pool Malebo,central africa
+Gnathonemus,petersii,Mormyridae,demersal,35,SL,3.1,native,Pool Malebo,central africa
+Marcusenius,angolensis,Mormyridae,demersal,13.5,TL,3.1,questionable,Pool Malebo,central africa
+Marcusenius,cyprinoides,Mormyridae,demersal,33,SL,3,misidentification,Pool Malebo,central africa
+Marcusenius,friteli,Mormyridae,demersal,13.5,TL,3.1,native,Pool Malebo,central africa
+Marcusenius,fuscus,Mormyridae,demersal,19.9,SL,3.1,native,Pool Malebo,central africa
+Marcusenius,greshoffii,Mormyridae,demersal,10.8,TL,3.1,native,Pool Malebo,central africa
+Marcusenius,macrolepidotus,Mormyridae,demersal,32,TL,3.2,misidentification,Pool Malebo,central africa
+Marcusenius,monteiri,Mormyridae,demersal,45,TL,3.1,native,Pool Malebo,central africa
+Marcusenius,moorii,Mormyridae,demersal,21.4,SL,3.1,native,Pool Malebo,central africa
+Marcusenius,schilthuisiae,Mormyridae,demersal,14.8,SL,3.1,native,Pool Malebo,central africa
+Marcusenius,stanleyanus,Mormyridae,demersal,21,TL,3.1,native,Pool Malebo,central africa
+Mormyrops,anguilloides,Mormyridae,demersal,150,TL,3.8,native,Pool Malebo,central africa
+Mormyrops,boulengeri,Mormyridae,demersal,25,TL,3.2,native,Pool Malebo,central africa
+Mormyrops,curtus,Mormyridae,demersal,40,TL,3.2,native,Pool Malebo,central africa
+Mormyrops,lineolatus,Mormyridae,demersal,40,TL,3.2,native,Pool Malebo,central africa
+Mormyrops,mariae,Mormyridae,benthopelagic,17,TL,3.2,native,Pool Malebo,central africa
+Mormyrops,masuianus,Mormyridae,demersal,41,TL,3.2,native,Pool Malebo,central africa
+Mormyrops,nigricans,Mormyridae,demersal,34,TL,3.2,native,Pool Malebo,central africa
+Mormyrops,sirenoides,Mormyridae,demersal,63,TL,3.3,native,Pool Malebo,central africa
+Mormyrops,zanclirostris,Mormyridae,demersal,27,TL,3.2,native,Pool Malebo,central africa
+Mormyrus,caballus,Mormyridae,demersal,50,TL,3.2,native,Pool Malebo,central africa
+Mormyrus,rume,Mormyridae,demersal,100,SL,2.5,native,Pool Malebo,central africa
+Myomyrus,macrodon,Mormyridae,demersal,24,TL,3.2,native,Pool Malebo,central africa
+Myomyrus,pharao,Mormyridae,demersal,29.6,SL,3.2,questionable,Pool Malebo,central africa
+Petrocephalus,ansorgii,Mormyridae,demersal,14.1,SL,3.3,misidentification,Pool Malebo,central africa
+Petrocephalus,balayi,Mormyridae,demersal,11,TL,3.2,native,Pool Malebo,central africa
+Petrocephalus,binotatus,Mormyridae,demersal,10,SL,3.2,native,Pool Malebo,central africa
+Petrocephalus,christyi,Mormyridae,demersal,7.7,TL,3.2,native,Pool Malebo,central africa
+Petrocephalus,grandoculis,Mormyridae,demersal,9.5,TL,3.2,native,Pool Malebo,central africa
+Petrocephalus,microphthalmus,Mormyridae,demersal,5.2,TL,3.1,native,Pool Malebo,central africa
+Petrocephalus,pulsivertens,Mormyridae,benthopelagic,11.5,SL,3.2,native,Pool Malebo,central africa
+Petrocephalus,sauvagii,Mormyridae,demersal,17.5,TL,3.3,native,Pool Malebo,central africa
+Petrocephalus,simus,Mormyridae,demersal,12,TL,3.2,native,Pool Malebo,central africa
+Petrocephalus,valentini,Mormyridae,benthopelagic,7.7,SL,3.2,questionable,Pool Malebo,central africa
+Petrocephalus,zakoni,Mormyridae,benthopelagic,8.6,SL,3.2,questionable,Pool Malebo,central africa
+Pollimyrus,isidori,Mormyridae,demersal,10.3,TL,2.6,native,Pool Malebo,central africa
+Pollimyrus,nigripinnis,Mormyridae,demersal,11,TL,3.2,native,Pool Malebo,central africa
+Pollimyrus,plagiostoma,Mormyridae,demersal,17,TL,3.3,native,Pool Malebo,central africa
+Pollimyrus,tumifrons,Mormyridae,demersal,11.2,TL,3.2,native,Pool Malebo,central africa
+Stomatorhinus,corneti,Mormyridae,demersal,10,TL,3.1,native,Pool Malebo,central africa
+Stomatorhinus,kununguensis,Mormyridae,demersal,8.6,TL,3.1,native,Pool Malebo,central africa
+Stomatorhinus,microps,Mormyridae,demersal,9,TL,3.1,questionable,Pool Malebo,central africa
+Stomatorhinus,puncticulatus,Mormyridae,demersal,8.7,TL,3.1,native,Pool Malebo,central africa
+Aphyosemion,castaneum,Nothobranchiidae,benthopelagic,3.4,SL,3.2,native,Pool Malebo,central africa
+Aphyosemion,christyi,Nothobranchiidae,benthopelagic,6,TL,3.2,questionable,Pool Malebo,central africa
+Aphyosemion,cognatum,Nothobranchiidae,benthopelagic,5,TL,3.2,native,Pool Malebo,central africa
+Aphyosemion,polli,Nothobranchiidae,benthopelagic,5,TL,3.2,native,Pool Malebo,central africa
+Epiplatys,chevalieri,Nothobranchiidae,benthopelagic,6,TL,3.2,native,Pool Malebo,central africa
+Epiplatys,duboisi,Nothobranchiidae,benthopelagic,3.5,TL,3.1,native,Pool Malebo,central africa
+Epiplatys,multifasciatus,Nothobranchiidae,benthopelagic,6,TL,3.2,native,Pool Malebo,central africa
+Epiplatys,spilargyreius,Nothobranchiidae,benthopelagic,5.5,TL,3.1,native,Pool Malebo,central africa
+Fenerbahce,formosus,Nothobranchiidae,benthopelagic,4,TL,3.2,native,Pool Malebo,central africa
+Papyrocranus,afer,Notopteridae,demersal,80,TL,3.2,misidentification,Pool Malebo,central africa
+Papyrocranus,congoensis,Notopteridae,demersal,29.2,SL,3.2,native,Pool Malebo,central africa
+Xenomystus,nigri,Notopteridae,demersal,30,SL,3.3,native,Pool Malebo,central africa
+Pantodon,buchholzi,Pantodontidae,pelagic,11.9,TL,3.6,native,Pool Malebo,central africa
+Phractolaemus,ansorgii,Phractolaemidae,benthopelagic,25,TL,2.3,native,Pool Malebo,central africa
+Poecilia,reticulata,Poeciliidae,benthopelagic,6,SL,3.2,introduced,Pool Malebo,central africa
+Polypterus,congicus,Polypteridae,demersal,97,TL,3.3,native,Pool Malebo,central africa
+Polypterus,delhezi,Polypteridae,demersal,44,TL,3.2,native,Pool Malebo,central africa
+Polypterus,mokelembembe,Polypteridae,demersal,26.7,SL,3.2,questionable,Pool Malebo,central africa
+Polypterus,ornatipinnis,Polypteridae,demersal,60,TL,3.7,native,Pool Malebo,central africa
+Polypterus,polli,Polypteridae,demersal,32.1,SL,3.2,native,Pool Malebo,central africa
+Polypterus,retropinnis,Polypteridae,demersal,34,SL,2.6,native,Pool Malebo,central africa
+Polypterus,weeksii,Polypteridae,demersal,54,TL,3.3,native,Pool Malebo,central africa
+Congopanchax,myersi,Procatopodidae,benthopelagic,2.3,TL,3,endemic,Pool Malebo,central africa
+Hypsopanchax,zebra,Procatopodidae,benthopelagic,5.5,TL,3.2,questionable,Pool Malebo,central africa
+Protopterus,aethiopicus,Protopteridae,demersal,200,TL,4.4,native,Pool Malebo,central africa
+Protopterus,dolloi,Protopteridae,demersal,130,TL,3.2,native,Pool Malebo,central africa
+Parailia,congica,Schilbeidae,demersal,9,SL,3.2,native,Pool Malebo,central africa
+Pareutropius,debauwi,Schilbeidae,demersal,12.6,SL,3.3,native,Pool Malebo,central africa
+Pareutropius,mandevillei,Schilbeidae,demersal,6.5,SL,3.2,native,Pool Malebo,central africa
+Schilbe,congensis,Schilbeidae,demersal,47,NG,3.4,native,Pool Malebo,central africa
+Schilbe,grenfelli,Schilbeidae,demersal,50.7,SL,3.5,native,Pool Malebo,central africa
+Schilbe,intermedius,Schilbeidae,pelagic,50,SL,3.6,native,Pool Malebo,central africa
+Schilbe,marmoratus,Schilbeidae,demersal,21.7,SL,3.3,native,Pool Malebo,central africa
+Schilbe,mystus,Schilbeidae,demersal,35,SL,3.5,misidentification,Pool Malebo,central africa
+Schilbe,tumbanus,Schilbeidae,demersal,25.2,SL,3.4,native,Pool Malebo,central africa
+Tetraodon,duboisi,Tetraodontidae,demersal,8.7,TL,3.3,endemic,Pool Malebo,central africa
+Tetraodon,mbu,Tetraodontidae,demersal,67,TL,3.6,native,Pool Malebo,central africa
+Tetraodon,miurus,Tetraodontidae,demersal,15,SL,3.4,native,Pool Malebo,central africa
+Tetraodon,schoutedeni,Tetraodontidae,demersal,9,TL,3.2,endemic,Pool Malebo,central africa
+Brycinus,imberi,Alestidae,demersal,19.8,TL,3.3,native,Rukwa,east africa
+Brycinus,sadleri,Alestidae,pelagic,13.8,TL,3.2,native,Rukwa,east africa
+Hydrocynus,vittatus,Alestidae,demersal,105,FL,3.7,native,Rukwa,east africa
+Amphilius,jacksonii,Amphiliidae,demersal,15,TL,3,misidentification,Rukwa,east africa
+Amphilius,pedunculus,Amphiliidae,demersal,11.9,SL,3,native,Rukwa,east africa
+Amphilius,uranoscopus,Amphiliidae,demersal,19.5,TL,2.9,native,Rukwa,east africa
+Zaireichthys,rotundiceps,Amphiliidae,demersal,3.8,SL,3.4,native,Rukwa,east africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,native,Rukwa,east africa
+Haplochromis,fuelleborni,Cichlidae,benthopelagic,12,TL,3.3,native,Rukwa,east africa
+Oreochromis,esculentus,Cichlidae,benthopelagic,50,SL,2.5,introduced,Rukwa,east africa
+Oreochromis,leucostictus,Cichlidae,benthopelagic,36.3,SL,2.3,introduced,Rukwa,east africa
+Oreochromis,malagarasi,Cichlidae,benthopelagic,27,TL,2.3,questionable,Rukwa,east africa
+Oreochromis,niloticus,Cichlidae,benthopelagic,60,SL,2,introduced,Rukwa,east africa
+Oreochromis,rukwaensis,Cichlidae,benthopelagic,33,SL,2.2,native,Rukwa,east africa
+Pseudocrenilabrus,philander,Cichlidae,benthopelagic,13,TL,3.7,native,Rukwa,east africa
+Tilapia,sparrmanii,Cichlidae,benthopelagic,23.5,TL,2.7,native,Rukwa,east africa
+Clarias,alluaudi,Clariidae,demersal,23,TL,3.2,native,Rukwa,east africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Rukwa,east africa
+Clarias,liocephalus,Clariidae,demersal,32,TL,3.3,native,Rukwa,east africa
+Heterobranchus,longifilis,Clariidae,demersal,150,SL,3.7,questionable,Rukwa,east africa
+Auchenoglanis,occidentalis,Claroteidae,demersal,70,SL,2.9,native,Rukwa,east africa
+Acapoeta,tanganicae,Cyprinidae,benthopelagic,61,TL,2,native,Rukwa,east africa
+Enteromius,apleurogramma,Cyprinidae,benthopelagic,5.4,SL,2.9,native,Rukwa,east africa
+Enteromius,brachygramma,Cyprinidae,benthopelagic,5.2,TL,3,questionable,Rukwa,east africa
+Enteromius,jacksoni,Cyprinidae,benthopelagic,11.6,SL,3,native,Rukwa,east africa
+Enteromius,lineomaculatus,Cyprinidae,benthopelagic,8.6,SL,3,native,Rukwa,east africa
+Enteromius,oligogrammus,Cyprinidae,benthopelagic,8.2,TL,3,native,Rukwa,east africa
+Enteromius,paludinosus,Cyprinidae,benthopelagic,15,SL,2.9,native,Rukwa,east africa
+Enteromius,pellegrini,Cyprinidae,benthopelagic,11.7,SL,3,native,Rukwa,east africa
+Enteromius,radiatus,Cyprinidae,benthopelagic,12,SL,2.8,native,Rukwa,east africa
+Labeo,cylindricus,Cyprinidae,benthopelagic,25,SL,2,native,Rukwa,east africa
+Labeo,fuelleborni,Cyprinidae,benthopelagic,43,TL,2.2,native,Rukwa,east africa
+Chelaethiops,rukwaensis,Danionidae,benthopelagic,10,SL,3.3,native,Rukwa,east africa
+Engraulicypris,spinifer,Danionidae,benthopelagic,5,SL,3,native,Rukwa,east africa
+Raiamas,moorii,Danionidae,benthopelagic,22,TL,3.3,native,Rukwa,east africa
+Kneria,rukwaensis,Kneriidae,demersal,6.2,SL,2.1,native,Rukwa,east africa
+Mastacembelus,frenatus,Mastacembelidae,demersal,40,SL,3.9,native,Rukwa,east africa
+Chiloglanis,mbozi,Mochokidae,benthopelagic,5.7,TL,3.1,endemic,Rukwa,east africa
+Chiloglanis,rukwaensis,Mochokidae,benthopelagic,4.8,TL,3.1,endemic,Rukwa,east africa
+Chiloglanis,trilobatus,Mochokidae,benthopelagic,5.2,TL,3.1,endemic,Rukwa,east africa
+Synodontis,afrofischeri,Mochokidae,benthopelagic,17.7,SL,3.4,native,Rukwa,east africa
+Synodontis,fuelleborni,Mochokidae,benthopelagic,19.2,TL,2.9,native,Rukwa,east africa
+Synodontis,ricardoae,Mochokidae,benthopelagic,7.8,TL,2.9,native,Rukwa,east africa
+Synodontis,rukwaensis,Mochokidae,benthopelagic,29,TL,2.9,native,Rukwa,east africa
+Synodontis,zambezensis,Mochokidae,benthopelagic,43,SL,2.7,native,Rukwa,east africa
+Cyphomyrus,discorhynchus,Mormyridae,demersal,31,SL,3.2,native,Rukwa,east africa
+Marcusenius,macrolepidotus,Mormyridae,demersal,32,TL,3.2,native,Rukwa,east africa
+Petrocephalus,catostoma,Mormyridae,demersal,15,FL,3.4,native,Rukwa,east africa
+Nothobranchius,ivanovae,Nothobranchiidae,pelagic,4.5,SL,3.2,endemic,Rukwa,east africa
+Nothobranchius,kardashevi,Nothobranchiidae,pelagic,3.8,SL,3.2,endemic,Rukwa,east africa
+Nothobranchius,rungwaensis,Nothobranchiidae,benthopelagic,4.2,SL,3.2,endemic,Rukwa,east africa
+Nothobranchius,taeniopygus,Nothobranchiidae,benthopelagic,3.6,SL,3.2,native,Rukwa,east africa
+Polypterus,ornatipinnis,Polypteridae,demersal,60,TL,3.7,native,Rukwa,east africa
+Lacustricola,centralis,Procatopodidae,benthopelagic,3.3,TL,3,native,Rukwa,east africa
+Lacustricola,matthesi,Procatopodidae,benthopelagic,3.9,TL,3,endemic,Rukwa,east africa
+Lacustricola,moeruensis,Procatopodidae,benthopelagic,4,TL,3,native,Rukwa,east africa
+Micropanchax,fuelleborni,Procatopodidae,benthopelagic,3.5,TL,3.1,native,Rukwa,east africa
+Micropanchax,johnstoni,Procatopodidae,benthopelagic,8.5,TL,3.2,misidentification,Rukwa,east africa
+Protopterus,amphibius,Protopteridae,demersal,44.3,TL,3.7,questionable,Rukwa,east africa
+Protopterus,annectens,Protopteridae,demersal,100,TL,3.8,native,Rukwa,east africa
+Schilbe,intermedius,Schilbeidae,pelagic,50,SL,3.6,native,Rukwa,east africa
+Schilbe,mystus,Schilbeidae,demersal,35,SL,3.5,questionable,Rukwa,east africa
+Alestes,macrophthalmus,Alestidae,pelagic,60,SL,2,native,Tanganyika,east central africa
+Brachypetersius,cadwaladeri,Alestidae,pelagic,4.3,TL,3,questionable,Tanganyika,east central africa
+Brycinus,grandisquamis,Alestidae,pelagic,26,SL,3.2,native,Tanganyika,east central africa
+Brycinus,imberi,Alestidae,demersal,19.8,TL,3.3,native,Tanganyika,east central africa
+Brycinus,kingsleyae,Alestidae,pelagic,16.6,SL,3.1,questionable,Tanganyika,east central africa
+Brycinus,rhodopleura,Alestidae,pelagic,30,SL,3.2,native,Tanganyika,east central africa
+Bryconaethiops,boulengeri,Alestidae,pelagic,25,TL,3.2,questionable,Tanganyika,east central africa
+Hydrocynus,forskahlii,Alestidae,pelagic,78,SL,4,native,Tanganyika,east central africa
+Hydrocynus,goliath,Alestidae,pelagic,133,FL,3.8,native,Tanganyika,east central africa
+Hydrocynus,vittatus,Alestidae,demersal,105,FL,3.7,native,Tanganyika,east central africa
+Micralestes,acutidens,Alestidae,pelagic,9,SL,2.9,native,Tanganyika,east central africa
+Micralestes,humilis,Alestidae,pelagic,10.6,TL,3.1,questionable,Tanganyika,east central africa
+Micralestes,stormsi,Alestidae,pelagic,10,SL,3.2,native,Tanganyika,east central africa
+Micralestes,vittatus,Alestidae,pelagic,9,SL,3.1,endemic,Tanganyika,east central africa
+Amphilius,jacksonii,Amphiliidae,demersal,15,TL,3,native,Tanganyika,east central africa
+Amphilius,kivuensis,Amphiliidae,demersal,10.6,TL,3,native,Tanganyika,east central africa
+Amphilius,pedunculus,Amphiliidae,demersal,11.9,SL,3,native,Tanganyika,east central africa
+Amphilius,ruziziensis,Amphiliidae,demersal,12.1,SL,3,native,Tanganyika,east central africa
+Amphilius,uranoscopus,Amphiliidae,demersal,19.5,TL,2.9,native,Tanganyika,east central africa
+Congoglanis,alula,Amphiliidae,demersal,14.1,SL,3.1,native,Tanganyika,east central africa
+Phractura,lindica,Amphiliidae,demersal,9,TL,3.1,native,Tanganyika,east central africa
+Zaireichthys,brevis,Amphiliidae,demersal,3.4,TL,3,native,Tanganyika,east central africa
+Zaireichthys,heterurus,Amphiliidae,demersal,3.5,SL,3,native,Tanganyika,east central africa
+Ctenopoma,muriei,Anabantidae,benthopelagic,7,SL,3,native,Tanganyika,east central africa
+Bagrus,docmak,Bagridae,benthopelagic,127,TL,4.1,native,Tanganyika,east central africa
+Altolamprologus,calvus,Cichlidae,benthopelagic,13.5,TL,3.3,endemic,Tanganyika,east central africa
+Altolamprologus,compressiceps,Cichlidae,benthopelagic,12.3,TL,3.6,endemic,Tanganyika,east central africa
+Astatoreochromis,straeleni,Cichlidae,benthopelagic,13,SL,3.4,native,Tanganyika,east central africa
+Astatotilapia,burtoni,Cichlidae,benthopelagic,15,SL,3,native,Tanganyika,east central africa
+Astatotilapia,stappersii,Cichlidae,benthopelagic,15,TL,3,native,Tanganyika,east central africa
+Aulonocranus,dewindti,Cichlidae,benthopelagic,14,TL,3.4,native,Tanganyika,east central africa
+Baileychromis,centropomoides,Cichlidae,pelagic,16.8,TL,3.4,endemic,Tanganyika,east central africa
+Bathybates,fasciatus,Cichlidae,pelagic,39.7,TL,4.2,endemic,Tanganyika,east central africa
+Bathybates,ferox,Cichlidae,pelagic,38.5,TL,4.2,endemic,Tanganyika,east central africa
+Bathybates,graueri,Cichlidae,pelagic,30,TL,4.2,endemic,Tanganyika,east central africa
+Bathybates,hornii,Cichlidae,pelagic,27.2,TL,4.2,endemic,Tanganyika,east central africa
+Bathybates,leo,Cichlidae,pelagic,26,TL,4.2,endemic,Tanganyika,east central africa
+Bathybates,minor,Cichlidae,pelagic,20.5,TL,4.2,endemic,Tanganyika,east central africa
+Bathybates,vittatus,Cichlidae,pelagic,42,TL,4.2,endemic,Tanganyika,east central africa
+Benthochromis,horii,Cichlidae,benthopelagic,15.1,SL,3.5,endemic,Tanganyika,east central africa
+Benthochromis,melanoides,Cichlidae,pelagic,18.2,TL,3.5,endemic,Tanganyika,east central africa
+Benthochromis,tricoti,Cichlidae,benthopelagic,16.5,TL,3.5,endemic,Tanganyika,east central africa
+Boulengerochromis,microlepis,Cichlidae,pelagic,80,TL,4.5,endemic,Tanganyika,east central africa
+Callochromis,macrops,Cichlidae,benthopelagic,13.5,TL,3.5,endemic,Tanganyika,east central africa
+Callochromis,melanostigma,Cichlidae,benthopelagic,15,TL,3.5,endemic,Tanganyika,east central africa
+Callochromis,pleurospilus,Cichlidae,benthopelagic,10,TL,3.5,endemic,Tanganyika,east central africa
+Cardiopharynx,schoutedeni,Cichlidae,pelagic,15,TL,3.4,endemic,Tanganyika,east central africa
+Chalinochromis,brichardi,Cichlidae,benthopelagic,12,TL,3.5,endemic,Tanganyika,east central africa
+Chalinochromis,cyanophleps,Cichlidae,benthopelagic,12.9,SL,3.5,endemic,Tanganyika,east central africa
+Chalinochromis,popelini,Cichlidae,benthopelagic,15,TL,3.5,endemic,Tanganyika,east central africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,native,Tanganyika,east central africa
+Cunningtonia,longiventralis,Cichlidae,benthopelagic,14,TL,3.4,endemic,Tanganyika,east central africa
+Cyathopharynx,furcifer,Cichlidae,benthopelagic,21,TL,3.4,endemic,Tanganyika,east central africa
+Cyphotilapia,frontosa,Cichlidae,benthopelagic,33,TL,2.9,endemic,Tanganyika,east central africa
+Cyphotilapia,gibberosa,Cichlidae,benthopelagic,21,SL,3.5,endemic,Tanganyika,east central africa
+Cyprichromis,coloratus,Cichlidae,pelagic,10.3,SL,3.5,endemic,Tanganyika,east central africa
+Cyprichromis,leptosoma,Cichlidae,benthopelagic,11,TL,3.5,endemic,Tanganyika,east central africa
+Cyprichromis,microlepidotus,Cichlidae,benthopelagic,11,TL,3.5,endemic,Tanganyika,east central africa
+Cyprichromis,pavo,Cichlidae,demersal,10,SL,3.5,endemic,Tanganyika,east central africa
+Cyprichromis,zonatus,Cichlidae,demersal,8.6,SL,3.5,endemic,Tanganyika,east central africa
+Ectodus,descampsii,Cichlidae,benthopelagic,10.4,TL,2.5,endemic,Tanganyika,east central africa
+Eretmodus,cyanostictus,Cichlidae,benthopelagic,9,TL,2.1,endemic,Tanganyika,east central africa
+Eretmodus,marksmithi,Cichlidae,pelagic,4.7,SL,3.2,endemic,Tanganyika,east central africa
+Gnathochromis,permaxillaris,Cichlidae,benthopelagic,15,TL,3.4,endemic,Tanganyika,east central africa
+Grammatotria,lemairii,Cichlidae,benthopelagic,26,TL,2.7,native,Tanganyika,east central africa
+Greenwoodochromis,abeelei,Cichlidae,demersal,23.5,TL,3.5,endemic,Tanganyika,east central africa
+Greenwoodochromis,christyi,Cichlidae,benthopelagic,15,TL,3.4,endemic,Tanganyika,east central africa
+Greenwoodochromis,staneri,Cichlidae,demersal,19,TL,3.4,endemic,Tanganyika,east central africa
+Haplotaxodon,microlepis,Cichlidae,pelagic,26,TL,3.4,endemic,Tanganyika,east central africa
+Hemibates,koningsi,Cichlidae,pelagic,21.7,SL,3.5,endemic,Tanganyika,east central africa
+Hemibates,stenosoma,Cichlidae,pelagic,30,TL,4.1,endemic,Tanganyika,east central africa
+Interochromis,loocki,Cichlidae,demersal,10.5,TL,2,endemic,Tanganyika,east central africa
+Jabarichromis,pfefferi,Cichlidae,benthopelagic,14,TL,3.6,native,Tanganyika,east central africa
+Julidochromis,dickfeldi,Cichlidae,benthopelagic,11,TL,3.5,endemic,Tanganyika,east central africa
+Julidochromis,marksmithi,Cichlidae,pelagic,6.3,SL,3.4,endemic,Tanganyika,east central africa
+Julidochromis,marlieri,Cichlidae,demersal,13,TL,2.5,endemic,Tanganyika,east central africa
+Julidochromis,ornatus,Cichlidae,benthopelagic,8.5,TL,3.5,endemic,Tanganyika,east central africa
+Julidochromis,regani,Cichlidae,benthopelagic,13,TL,3.6,endemic,Tanganyika,east central africa
+Julidochromis,transcriptus,Cichlidae,benthopelagic,7,TL,3.5,endemic,Tanganyika,east central africa
+Lamprologus,callipterus,Cichlidae,benthopelagic,12.4,TL,3.5,endemic,Tanganyika,east central africa
+Lamprologus,finalimus,Cichlidae,benthopelagic,4.5,TL,3.4,endemic,Tanganyika,east central africa
+Lamprologus,kungweensis,Cichlidae,benthopelagic,8,TL,3.7,endemic,Tanganyika,east central africa
+Lamprologus,laparogramma,Cichlidae,benthopelagic,4,SL,3.5,endemic,Tanganyika,east central africa
+Lamprologus,lemairii,Cichlidae,benthopelagic,25,TL,4.5,endemic,Tanganyika,east central africa
+Lamprologus,meleagris,Cichlidae,benthopelagic,7,TL,3.6,endemic,Tanganyika,east central africa
+Lamprologus,ocellatus,Cichlidae,benthopelagic,5.8,TL,3.5,endemic,Tanganyika,east central africa
+Lamprologus,ornatipinnis,Cichlidae,benthopelagic,7.8,TL,3.7,endemic,Tanganyika,east central africa
+Lamprologus,signatus,Cichlidae,bathydemersal,5.5,TL,3.6,endemic,Tanganyika,east central africa
+Lamprologus,speciosus,Cichlidae,benthopelagic,5,TL,3.5,endemic,Tanganyika,east central africa
+Lamprologus,stappersi,Cichlidae,benthopelagic,5.1,TL,3.5,endemic,Tanganyika,east central africa
+Lepidiolamprologus,attenuatus,Cichlidae,benthopelagic,15,TL,4.1,endemic,Tanganyika,east central africa
+Lepidiolamprologus,boulengeri,Cichlidae,benthopelagic,6.2,TL,3.5,endemic,Tanganyika,east central africa
+Lepidiolamprologus,elongatus,Cichlidae,benthopelagic,32.5,TL,4.2,endemic,Tanganyika,east central africa
+Lepidiolamprologus,hecqui,Cichlidae,benthopelagic,8,TL,3.7,endemic,Tanganyika,east central africa
+Lepidiolamprologus,kamambae,Cichlidae,pelagic,13.7,SL,4,endemic,Tanganyika,east central africa
+Lepidiolamprologus,kendalli,Cichlidae,benthopelagic,16,TL,4.2,endemic,Tanganyika,east central africa
+Lepidiolamprologus,meeli,Cichlidae,benthopelagic,7,TL,3.6,endemic,Tanganyika,east central africa
+Lepidiolamprologus,mimicus,Cichlidae,benthopelagic,16,SL,4.1,endemic,Tanganyika,east central africa
+Lepidiolamprologus,profundicola,Cichlidae,benthopelagic,30.5,TL,4.2,endemic,Tanganyika,east central africa
+Lepidiolamprologus,variostigma,Cichlidae,benthopelagic,7.3,SL,3.7,endemic,Tanganyika,east central africa
+Lestradea,perspicax,Cichlidae,benthopelagic,13.8,TL,3.3,endemic,Tanganyika,east central africa
+Lestradea,stappersii,Cichlidae,benthopelagic,11.7,TL,3.5,endemic,Tanganyika,east central africa
+Limnochromis,auritus,Cichlidae,demersal,13,TL,3.3,endemic,Tanganyika,east central africa
+Limnotilapia,dardennii,Cichlidae,demersal,26,TL,3.2,endemic,Tanganyika,east central africa
+Lobochilotes,labiata,Cichlidae,benthopelagic,36.8,TL,3.3,endemic,Tanganyika,east central africa
+Lufubuchromis,relictus,Cichlidae,benthopelagic,9.3,SL,3.3,endemic,Tanganyika,east central africa
+Neolamprologus,bifasciatus,Cichlidae,benthopelagic,10,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,brevis,Cichlidae,benthopelagic,5.5,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,brichardi,Cichlidae,benthopelagic,9,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,buescheri,Cichlidae,benthopelagic,8,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,cancellatus,Cichlidae,pelagic,5.7,SL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,caudopunctatus,Cichlidae,benthopelagic,6.5,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,chitamwebwai,Cichlidae,benthopelagic,7.3,SL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,christyi,Cichlidae,benthopelagic,15,TL,3.3,endemic,Tanganyika,east central africa
+Neolamprologus,crassus,Cichlidae,benthopelagic,7,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,cunningtoni,Cichlidae,benthopelagic,29.1,TL,4.2,endemic,Tanganyika,east central africa
+Neolamprologus,cylindricus,Cichlidae,benthopelagic,10.4,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,falcicula,Cichlidae,benthopelagic,8.1,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,fasciatus,Cichlidae,benthopelagic,15,TL,3.8,endemic,Tanganyika,east central africa
+Neolamprologus,furcifer,Cichlidae,benthopelagic,15,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,gracilis,Cichlidae,benthopelagic,9,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,helianthus,Cichlidae,benthopelagic,5.7,SL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,leleupi,Cichlidae,benthopelagic,10,TL,3.6,endemic,Tanganyika,east central africa
+Neolamprologus,leloupi,Cichlidae,benthopelagic,6.1,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,longicaudatus,Cichlidae,benthopelagic,8.6,SL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,marunguensis,Cichlidae,benthopelagic,6.7,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,modestus,Cichlidae,benthopelagic,12,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,mondabu,Cichlidae,benthopelagic,10.7,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,multifasciatus,Cichlidae,benthopelagic,4,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,mustax,Cichlidae,benthopelagic,9,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,niger,Cichlidae,benthopelagic,9,TL,3.6,endemic,Tanganyika,east central africa
+Neolamprologus,nigriventris,Cichlidae,benthopelagic,10.3,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,obscurus,Cichlidae,benthopelagic,8.2,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,olivaceous,Cichlidae,benthopelagic,6,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,pectoralis,Cichlidae,benthopelagic,14,TL,3.7,endemic,Tanganyika,east central africa
+Neolamprologus,petricola,Cichlidae,benthopelagic,14,TL,3.2,endemic,Tanganyika,east central africa
+Neolamprologus,pleuromaculatus,Cichlidae,benthopelagic,12,TL,3.6,native,Tanganyika,east central africa
+Neolamprologus,prochilus,Cichlidae,benthopelagic,17,TL,3.7,endemic,Tanganyika,east central africa
+Neolamprologus,pulcher,Cichlidae,benthopelagic,7.2,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,savoryi,Cichlidae,benthopelagic,8,TL,4.2,endemic,Tanganyika,east central africa
+Neolamprologus,schreyeni,Cichlidae,benthopelagic,5,TL,3.3,endemic,Tanganyika,east central africa
+Neolamprologus,sexfasciatus,Cichlidae,benthopelagic,15,TL,3.7,endemic,Tanganyika,east central africa
+Neolamprologus,similis,Cichlidae,benthopelagic,5,TL,3.3,endemic,Tanganyika,east central africa
+Neolamprologus,splendens,Cichlidae,benthopelagic,8,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,tetracanthus,Cichlidae,benthopelagic,20,TL,3.8,endemic,Tanganyika,east central africa
+Neolamprologus,timidus,Cichlidae,benthopelagic,10,SL,3.6,endemic,Tanganyika,east central africa
+Neolamprologus,toae,Cichlidae,benthopelagic,12,TL,3.8,endemic,Tanganyika,east central africa
+Neolamprologus,tretocephalus,Cichlidae,benthopelagic,15,TL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,ventralis,Cichlidae,benthopelagic,8,TL,3.5,endemic,Tanganyika,east central africa
+Neolamprologus,walteri,Cichlidae,benthopelagic,5.7,SL,3.4,endemic,Tanganyika,east central africa
+Neolamprologus,wauthioni,Cichlidae,benthopelagic,5.5,TL,3.4,endemic,Tanganyika,east central africa
+Ophthalmotilapia,boops,Cichlidae,demersal,15,TL,3.4,native,Tanganyika,east central africa
+Ophthalmotilapia,heterodonta,Cichlidae,demersal,14.4,TL,2.3,native,Tanganyika,east central africa
+Ophthalmotilapia,nasuta,Cichlidae,benthopelagic,20,TL,2.1,native,Tanganyika,east central africa
+Ophthalmotilapia,ventralis,Cichlidae,benthopelagic,15,TL,2.2,native,Tanganyika,east central africa
+Oreochromis,leucostictus,Cichlidae,benthopelagic,36.3,SL,2.3,introduced,Tanganyika,east central africa
+Oreochromis,malagarasi,Cichlidae,benthopelagic,27,TL,2.3,native,Tanganyika,east central africa
+Oreochromis,niloticus,Cichlidae,benthopelagic,60,SL,2,native,Tanganyika,east central africa
+Oreochromis,tanganicae,Cichlidae,benthopelagic,42,TL,2,endemic,Tanganyika,east central africa
+Oreochromis,upembae,Cichlidae,benthopelagic,21,SL,2.5,native,Tanganyika,east central africa
+Orthochromis,indermauri,Cichlidae,benthopelagic,6.9,SL,2.1,endemic,Tanganyika,east central africa
+Orthochromis,luichensis,Cichlidae,benthopelagic,9.1,SL,2,endemic,Tanganyika,east central africa
+Orthochromis,rugufuensis,Cichlidae,benthopelagic,5.7,SL,2.2,endemic,Tanganyika,east central africa
+Paracyprichromis,brieni,Cichlidae,pelagic,11,TL,3.4,native,Tanganyika,east central africa
+Paracyprichromis,nigripinnis,Cichlidae,benthopelagic,11,TL,3.4,native,Tanganyika,east central africa
+Perissodus,eccentricus,Cichlidae,pelagic,16.4,SL,4.4,endemic,Tanganyika,east central africa
+Perissodus,microlepis,Cichlidae,demersal,11,TL,4.2,endemic,Tanganyika,east central africa
+Perissodus,paradoxus,Cichlidae,demersal,30,TL,4.4,endemic,Tanganyika,east central africa
+Petrochromis,ephippium,Cichlidae,demersal,18,TL,2,endemic,Tanganyika,east central africa
+Petrochromis,famula,Cichlidae,benthopelagic,15.1,TL,2,endemic,Tanganyika,east central africa
+Petrochromis,fasciolatus,Cichlidae,benthopelagic,15,TL,2,endemic,Tanganyika,east central africa
+Petrochromis,horii,Cichlidae,benthopelagic,13.8,SL,2,endemic,Tanganyika,east central africa
+Petrochromis,macrognathus,Cichlidae,demersal,17.2,SL,2,endemic,Tanganyika,east central africa
+Petrochromis,orthognathus,Cichlidae,benthopelagic,16.5,TL,2,endemic,Tanganyika,east central africa
+Petrochromis,polyodon,Cichlidae,benthopelagic,21,TL,2,endemic,Tanganyika,east central africa
+Petrochromis,trewavasae,Cichlidae,benthopelagic,18,TL,2,endemic,Tanganyika,east central africa
+Plecodus,elaviae,Cichlidae,demersal,32,TL,4.4,endemic,Tanganyika,east central africa
+Plecodus,multidentatus,Cichlidae,demersal,12,TL,4.4,endemic,Tanganyika,east central africa
+Plecodus,straeleni,Cichlidae,demersal,16,TL,4.3,endemic,Tanganyika,east central africa
+Pseudosimochromis,babaulti,Cichlidae,benthopelagic,12,TL,2,endemic,Tanganyika,east central africa
+Pseudosimochromis,curvifrons,Cichlidae,benthopelagic,14,TL,2,endemic,Tanganyika,east central africa
+Pseudosimochromis,margaretae,Cichlidae,demersal,8.2,SL,2,endemic,Tanganyika,east central africa
+Pseudosimochromis,marginatus,Cichlidae,benthopelagic,10,TL,2,endemic,Tanganyika,east central africa
+Reganochromis,calliurus,Cichlidae,benthopelagic,15,TL,3.6,endemic,Tanganyika,east central africa
+Shuja,horei,Cichlidae,benthopelagic,20,SL,3.5,native,Tanganyika,east central africa
+Simochromis,diagramma,Cichlidae,benthopelagic,19.5,TL,2,endemic,Tanganyika,east central africa
+Spathodus,erythrodon,Cichlidae,demersal,8.5,TL,3.4,endemic,Tanganyika,east central africa
+Spathodus,marlieri,Cichlidae,benthopelagic,10,TL,3.3,endemic,Tanganyika,east central africa
+Tangachromis,dhanisi,Cichlidae,benthopelagic,8.5,TL,3,endemic,Tanganyika,east central africa
+Tanganicodus,irsacae,Cichlidae,benthopelagic,7,TL,2,endemic,Tanganyika,east central africa
+Telmatochromis,bifrenatus,Cichlidae,demersal,9,TL,2,endemic,Tanganyika,east central africa
+Telmatochromis,brachygnathus,Cichlidae,benthopelagic,7.6,SL,2.3,native,Tanganyika,east central africa
+Telmatochromis,brichardi,Cichlidae,demersal,4.1,SL,2.6,endemic,Tanganyika,east central africa
+Telmatochromis,dhonti,Cichlidae,benthopelagic,12,TL,3.5,endemic,Tanganyika,east central africa
+Telmatochromis,temporalis,Cichlidae,demersal,10.2,TL,2.2,endemic,Tanganyika,east central africa
+Telmatochromis,vittatus,Cichlidae,benthopelagic,8.6,TL,2.3,endemic,Tanganyika,east central africa
+Trematocara,caparti,Cichlidae,benthopelagic,6.7,TL,3.2,endemic,Tanganyika,east central africa
+Trematocara,kufferathi,Cichlidae,benthopelagic,6.8,TL,3.2,endemic,Tanganyika,east central africa
+Trematocara,macrostoma,Cichlidae,benthopelagic,9.5,SL,3.3,endemic,Tanganyika,east central africa
+Trematocara,marginatum,Cichlidae,benthopelagic,9.8,TL,3.3,endemic,Tanganyika,east central africa
+Trematocara,nigrifrons,Cichlidae,benthopelagic,11.5,TL,3.3,endemic,Tanganyika,east central africa
+Trematocara,stigmaticum,Cichlidae,benthopelagic,7.5,TL,3.2,endemic,Tanganyika,east central africa
+Trematocara,unimaculatum,Cichlidae,benthopelagic,15,TL,3.4,endemic,Tanganyika,east central africa
+Trematocara,variabile,Cichlidae,benthopelagic,8.7,TL,3.3,endemic,Tanganyika,east central africa
+Trematocara,zebra,Cichlidae,demersal,6.9,SL,3.3,endemic,Tanganyika,east central africa
+Trematochromis,benthicola,Cichlidae,benthopelagic,21.5,TL,3.4,endemic,Tanganyika,east central africa
+Triglachromis,otostigma,Cichlidae,benthopelagic,12,TL,2.7,endemic,Tanganyika,east central africa
+Tropheus,annectens,Cichlidae,demersal,8,TL,3.3,endemic,Tanganyika,east central africa
+Tropheus,brichardi,Cichlidae,demersal,10,TL,3.3,endemic,Tanganyika,east central africa
+Tropheus,duboisi,Cichlidae,demersal,12,TL,3.3,endemic,Tanganyika,east central africa
+Tropheus,kasabae,Cichlidae,demersal,11.1,TL,3.3,endemic,Tanganyika,east central africa
+Tropheus,moorii,Cichlidae,benthopelagic,14.5,TL,2,endemic,Tanganyika,east central africa
+Tropheus,polli,Cichlidae,demersal,16.5,TL,3.4,endemic,Tanganyika,east central africa
+Tylochromis,polylepis,Cichlidae,demersal,43.5,NG,3,endemic,Tanganyika,east central africa
+Variabilichromis,moorii,Cichlidae,benthopelagic,10.3,TL,3.3,endemic,Tanganyika,east central africa
+Xenochromis,hecqui,Cichlidae,benthopelagic,30,TL,4.4,endemic,Tanganyika,east central africa
+Xenotilapia,albini,Cichlidae,benthopelagic,8.9,TL,3.1,native,Tanganyika,east central africa
+Xenotilapia,bathyphila,Cichlidae,demersal,10.3,TL,3.3,endemic,Tanganyika,east central africa
+Xenotilapia,boulengeri,Cichlidae,benthopelagic,15.3,TL,3.3,endemic,Tanganyika,east central africa
+Xenotilapia,burtoni,Cichlidae,demersal,17.7,TL,3.2,endemic,Tanganyika,east central africa
+Xenotilapia,caudafasciata,Cichlidae,demersal,15.6,,3,endemic,Tanganyika,east central africa
+Xenotilapia,flavipinnis,Cichlidae,demersal,9.2,TL,3.5,endemic,Tanganyika,east central africa
+Xenotilapia,leptura,Cichlidae,demersal,11,TL,2,endemic,Tanganyika,east central africa
+Xenotilapia,longispinis,Cichlidae,benthopelagic,16.3,TL,3.1,endemic,Tanganyika,east central africa
+Xenotilapia,melanogenys,Cichlidae,demersal,15,TL,3.2,endemic,Tanganyika,east central africa
+Xenotilapia,nasus,Cichlidae,demersal,9.3,TL,3.1,endemic,Tanganyika,east central africa
+Xenotilapia,nigrolabiata,Cichlidae,demersal,13,TL,3.2,endemic,Tanganyika,east central africa
+Xenotilapia,ochrogenys,Cichlidae,benthopelagic,11,TL,3.2,endemic,Tanganyika,east central africa
+Xenotilapia,ornatipinnis,Cichlidae,demersal,12.5,TL,3.1,endemic,Tanganyika,east central africa
+Xenotilapia,papilio,Cichlidae,demersal,7.8,TL,3.1,endemic,Tanganyika,east central africa
+Xenotilapia,rotundiventralis,Cichlidae,demersal,5.3,SL,3.4,endemic,Tanganyika,east central africa
+Xenotilapia,sima,Cichlidae,benthopelagic,16.4,TL,3.2,endemic,Tanganyika,east central africa
+Xenotilapia,spilopterus,Cichlidae,demersal,9.6,TL,3.2,endemic,Tanganyika,east central africa
+Xenotilapia,tenuidentata,Cichlidae,benthopelagic,8,TL,3.1,endemic,Tanganyika,east central africa
+Citharinus,gibbosus,Citharinidae,pelagic,61,TL,2.2,native,Tanganyika,east central africa
+Clarias,alluaudi,Clariidae,demersal,23,TL,3.2,native,Tanganyika,east central africa
+Clarias,dhonti,Clariidae,demersal,18.5,TL,3.3,native,Tanganyika,east central africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Tanganyika,east central africa
+Clarias,liocephalus,Clariidae,demersal,32,TL,3.3,native,Tanganyika,east central africa
+Clarias,theodorae,Clariidae,demersal,35,SL,3.5,native,Tanganyika,east central africa
+Clarias,werneri,Clariidae,demersal,23,TL,3.1,native,Tanganyika,east central africa
+Dinotopterus,cunningtoni,Clariidae,demersal,175,SL,3.7,endemic,Tanganyika,east central africa
+Heterobranchus,longifilis,Clariidae,demersal,150,SL,3.7,native,Tanganyika,east central africa
+Pseudotanganikallabes,prognatha,Clariidae,demersal,6,SL,3.2,endemic,Tanganyika,east central africa
+Tanganikallabes,alboperca,Clariidae,benthopelagic,16.1,SL,3.4,endemic,Tanganyika,east central africa
+Tanganikallabes,mortiauxi,Clariidae,demersal,32.5,TL,3.4,endemic,Tanganyika,east central africa
+Tanganikallabes,stewarti,Clariidae,benthopelagic,15.5,SL,3.4,endemic,Tanganyika,east central africa
+Auchenoglanis,occidentalis,Claroteidae,demersal,70,SL,2.9,native,Tanganyika,east central africa
+Bathybagrus,grandis,Claroteidae,demersal,63,TL,4.5,native,Tanganyika,east central africa
+Bathybagrus,graueri,Claroteidae,demersal,36,TL,4.3,endemic,Tanganyika,east central africa
+Bathybagrus,platycephalus,Claroteidae,demersal,22,TL,3.8,native,Tanganyika,east central africa
+Bathybagrus,sianenna,Claroteidae,demersal,23,SL,3.7,native,Tanganyika,east central africa
+Bathybagrus,stappersii,Claroteidae,demersal,45,SL,3.3,native,Tanganyika,east central africa
+Bathybagrus,tetranema,Claroteidae,demersal,17,SL,3.8,native,Tanganyika,east central africa
+Chrysichthys,acsiorum,Claroteidae,demersal,24.3,SL,3.3,endemic,Tanganyika,east central africa
+Chrysichthys,brachynema,Claroteidae,demersal,77,TL,3.9,endemic,Tanganyika,east central africa
+Chrysichthys,cranchii,Claroteidae,demersal,150,TL,3.4,questionable,Tanganyika,east central africa
+Chrysichthys,mabusi,Claroteidae,demersal,41,SL,3.3,questionable,Tanganyika,east central africa
+Lophiobagrus,aquilus,Claroteidae,demersal,8,TL,3.2,endemic,Tanganyika,east central africa
+Lophiobagrus,asperispinis,Claroteidae,demersal,3.4,TL,3.1,endemic,Tanganyika,east central africa
+Lophiobagrus,brevispinis,Claroteidae,demersal,5.1,TL,3.2,native,Tanganyika,east central africa
+Lophiobagrus,cyclurus,Claroteidae,demersal,8,SL,3.3,endemic,Tanganyika,east central africa
+Phyllonemus,brichardi,Claroteidae,demersal,7.8,SL,3.3,endemic,Tanganyika,east central africa
+Phyllonemus,filinemus,Claroteidae,demersal,8.7,TL,3.3,native,Tanganyika,east central africa
+Phyllonemus,typus,Claroteidae,demersal,8.8,TL,4,endemic,Tanganyika,east central africa
+Acapoeta,tanganicae,Cyprinidae,benthopelagic,61,TL,2,native,Tanganyika,east central africa
+Clypeobarbus,pleuropholis,Cyprinidae,benthopelagic,3.3,SL,3,questionable,Tanganyika,east central africa
+Enteromius,apleurogramma,Cyprinidae,benthopelagic,5.4,SL,2.9,native,Tanganyika,east central africa
+Enteromius,eutaenia,Cyprinidae,benthopelagic,14,SL,3.2,native,Tanganyika,east central africa
+Enteromius,kerstenii,Cyprinidae,benthopelagic,9,SL,3,native,Tanganyika,east central africa
+Enteromius,lineomaculatus,Cyprinidae,benthopelagic,8.6,SL,3,native,Tanganyika,east central africa
+Enteromius,lufukiensis,Cyprinidae,benthopelagic,11,TL,3,native,Tanganyika,east central africa
+Enteromius,miolepis,Cyprinidae,benthopelagic,12.5,SL,3,native,Tanganyika,east central africa
+Enteromius,neumayeri,Cyprinidae,benthopelagic,11.8,SL,3,native,Tanganyika,east central africa
+Enteromius,oligogrammus,Cyprinidae,benthopelagic,8.2,TL,3,native,Tanganyika,east central africa
+Enteromius,pellegrini,Cyprinidae,benthopelagic,11.7,SL,3,native,Tanganyika,east central africa
+Enteromius,taeniopleura,Cyprinidae,benthopelagic,9,TL,3,native,Tanganyika,east central africa
+Enteromius,urostigma,Cyprinidae,benthopelagic,12,TL,3,native,Tanganyika,east central africa
+Labeo,congoro,Cyprinidae,benthopelagic,41.5,SL,2.2,native,Tanganyika,east central africa
+Labeo,cylindricus,Cyprinidae,benthopelagic,25,SL,2,native,Tanganyika,east central africa
+Labeo,degeni,Cyprinidae,benthopelagic,68,SL,2,misidentification,Tanganyika,east central africa
+Labeo,dhonti,Cyprinidae,benthopelagic,11.5,TL,2.5,native,Tanganyika,east central africa
+Labeo,fuelleborni,Cyprinidae,benthopelagic,43,TL,2.2,questionable,Tanganyika,east central africa
+Labeo,kibimbi,Cyprinidae,benthopelagic,47,SL,2.1,native,Tanganyika,east central africa
+Labeo,lineatus,Cyprinidae,benthopelagic,78,TL,2,misidentification,Tanganyika,east central africa
+Labeo,longipinnis,Cyprinidae,benthopelagic,26,SL,2.3,misidentification,Tanganyika,east central africa
+Labeo,simpsoni,Cyprinidae,benthopelagic,22,SL,2.3,questionable,Tanganyika,east central africa
+Labeo,weeksii,Cyprinidae,benthopelagic,29,TL,2.3,questionable,Tanganyika,east central africa
+Labeobarbus,altianalis,Cyprinidae,benthopelagic,90,TL,3.4,native,Tanganyika,east central africa
+Labeobarbus,caudovittatus,Cyprinidae,benthopelagic,80,TL,3.3,native,Tanganyika,east central africa
+Labeobarbus,leleupanus,Cyprinidae,benthopelagic,22,SL,3.2,native,Tanganyika,east central africa
+Labeobarbus,platyrhinus,Cyprinidae,benthopelagic,40,SL,3.2,endemic,Tanganyika,east central africa
+Labeobarbus,pojeri,Cyprinidae,benthopelagic,18,TL,3.2,endemic,Tanganyika,east central africa
+Labeobarbus,tropidolepis,Cyprinidae,benthopelagic,85,SL,3.3,endemic,Tanganyika,east central africa
+Chelaethiops,congicus,Danionidae,benthopelagic,11,TL,3.3,native,Tanganyika,east central africa
+Chelaethiops,minutus,Danionidae,benthopelagic,11,SL,3.3,endemic,Tanganyika,east central africa
+Engraulicypris,spinifer,Danionidae,benthopelagic,5,SL,3,native,Tanganyika,east central africa
+Opsaridium,ubangiense,Danionidae,benthopelagic,12,TL,3.3,native,Tanganyika,east central africa
+Raiamas,marqueti,Danionidae,benthopelagic,19.7,SL,3.4,native,Tanganyika,east central africa
+Raiamas,moorii,Danionidae,benthopelagic,22,TL,3.3,native,Tanganyika,east central africa
+Raiamas,salmolucius,Danionidae,benthopelagic,16.4,SL,3.3,misidentification,Tanganyika,east central africa
+Distichodus,fasciolatus,Distichodontidae,pelagic,60,TL,2,questionable,Tanganyika,east central africa
+Distichodus,sexfasciatus,Distichodontidae,pelagic,76,SL,2.8,native,Tanganyika,east central africa
+Limnothrissa,miodon,Dorosomatidae,pelagic,17,SL,3.1,endemic,Tanganyika,east central africa
+Stolothrissa,tanganicae,Dorosomatidae,pelagic,10,SL,2.7,endemic,Tanganyika,east central africa
+Kneria,rukwaensis,Kneriidae,demersal,6.2,SL,2.1,native,Tanganyika,east central africa
+Kneria,wittei,Kneriidae,benthopelagic,8.6,SL,2,native,Tanganyika,east central africa
+Lates,angustifrons,Latidae,demersal,200,SL,4.5,native,Tanganyika,east central africa
+Lates,mariae,Latidae,demersal,80,TL,4.2,native,Tanganyika,east central africa
+Lates,microlepis,Latidae,pelagic,93,TL,4.3,native,Tanganyika,east central africa
+Lates,stappersii,Latidae,demersal,45,SL,4.3,endemic,Tanganyika,east central africa
+Malapterurus,tanganyikaensis,Malapteruridae,benthopelagic,49.5,SL,3.5,native,Tanganyika,east central africa
+Mastacembelus,albomaculatus,Mastacembelidae,demersal,22,TL,3.7,endemic,Tanganyika,east central africa
+Mastacembelus,apectoralis,Mastacembelidae,benthopelagic,16.3,SL,3.6,endemic,Tanganyika,east central africa
+Mastacembelus,cunningtoni,Mastacembelidae,benthopelagic,58,TL,4.2,endemic,Tanganyika,east central africa
+Mastacembelus,ellipsifer,Mastacembelidae,benthopelagic,45,TL,3.8,endemic,Tanganyika,east central africa
+Mastacembelus,flavidus,Mastacembelidae,benthopelagic,27,TL,3.7,endemic,Tanganyika,east central africa
+Mastacembelus,frenatus,Mastacembelidae,demersal,40,SL,3.9,native,Tanganyika,east central africa
+Mastacembelus,micropectus,Mastacembelidae,demersal,17.6,SL,3.7,endemic,Tanganyika,east central africa
+Mastacembelus,moorii,Mastacembelidae,demersal,44,TL,4.2,endemic,Tanganyika,east central africa
+Mastacembelus,ophidium,Mastacembelidae,demersal,33,TL,3.8,endemic,Tanganyika,east central africa
+Mastacembelus,plagiostomus,Mastacembelidae,demersal,30,SL,3.8,endemic,Tanganyika,east central africa
+Mastacembelus,platysoma,Mastacembelidae,benthopelagic,16,SL,3.6,endemic,Tanganyika,east central africa
+Mastacembelus,polli,Mastacembelidae,demersal,14,SL,3.6,endemic,Tanganyika,east central africa
+Mastacembelus,reygeli,Mastacembelidae,benthopelagic,25.4,SL,3.8,endemic,Tanganyika,east central africa
+Mastacembelus,tanganicae,Mastacembelidae,demersal,19,SL,3.7,endemic,Tanganyika,east central africa
+Mastacembelus,zebratus,Mastacembelidae,demersal,19,SL,3.7,endemic,Tanganyika,east central africa
+Chiloglanis,asymetricaudalis,Mochokidae,benthopelagic,7.6,SL,2.6,native,Tanganyika,east central africa
+Chiloglanis,kalambo,Mochokidae,benthopelagic,4.4,TL,3.1,endemic,Tanganyika,east central africa
+Chiloglanis,kazumbei,Mochokidae,benthopelagic,5.4,SL,3.2,native,Tanganyika,east central africa
+Chiloglanis,lukugae,Mochokidae,benthopelagic,9,SL,3.2,questionable,Tanganyika,east central africa
+Chiloglanis,micropogon,Mochokidae,benthopelagic,4.9,TL,3.1,native,Tanganyika,east central africa
+Chiloglanis,pojeri,Mochokidae,benthopelagic,7,TL,3.2,native,Tanganyika,east central africa
+Chiloglanis,productus,Mochokidae,benthopelagic,4.9,SL,3.1,endemic,Tanganyika,east central africa
+Synodontis,decorus,Mochokidae,benthopelagic,31.8,TL,2.9,native,Tanganyika,east central africa
+Synodontis,dhonti,Mochokidae,benthopelagic,32.5,SL,2.8,endemic,Tanganyika,east central africa
+Synodontis,grandiops,Mochokidae,demersal,11.1,SL,2.9,endemic,Tanganyika,east central africa
+Synodontis,granulosus,Mochokidae,benthopelagic,27,TL,2.9,endemic,Tanganyika,east central africa
+Synodontis,ilebrevis,Mochokidae,demersal,13.6,SL,2.9,endemic,Tanganyika,east central africa
+Synodontis,irsacae,Mochokidae,demersal,15.7,SL,2.9,endemic,Tanganyika,east central africa
+Synodontis,lucipinnis,Mochokidae,demersal,7.9,SL,2.9,endemic,Tanganyika,east central africa
+Synodontis,melanostictus,Mochokidae,demersal,23.7,SL,2.9,native,Tanganyika,east central africa
+Synodontis,multipunctatus,Mochokidae,benthopelagic,27.5,TL,3.4,endemic,Tanganyika,east central africa
+Synodontis,nigromaculatus,Mochokidae,benthopelagic,38.5,TL,3.3,misidentification,Tanganyika,east central africa
+Synodontis,petricola,Mochokidae,benthopelagic,10.2,TL,2.9,endemic,Tanganyika,east central africa
+Synodontis,polli,Mochokidae,benthopelagic,14.8,TL,2.9,endemic,Tanganyika,east central africa
+Synodontis,tanganyicae,Mochokidae,benthopelagic,56,TL,2.8,endemic,Tanganyika,east central africa
+Cyphomyrus,discorhynchus,Mormyridae,demersal,31,SL,3.2,native,Tanganyika,east central africa
+Gnathonemus,longibarbis,Mormyridae,demersal,36,TL,3.2,native,Tanganyika,east central africa
+Gnathonemus,petersii,Mormyridae,demersal,35,SL,3.1,native,Tanganyika,east central africa
+Marcusenius,stanleyanus,Mormyridae,demersal,21,TL,3.1,native,Tanganyika,east central africa
+Mormyrops,anguilloides,Mormyridae,demersal,150,TL,3.8,native,Tanganyika,east central africa
+Mormyrus,longirostris,Mormyridae,demersal,75,SL,3.3,native,Tanganyika,east central africa
+Pollimyrus,nigricans,Mormyridae,demersal,10,SL,3.4,native,Tanganyika,east central africa
+Polypterus,congicus,Polypteridae,demersal,97,TL,3.3,native,Tanganyika,east central africa
+Polypterus,ornatipinnis,Polypteridae,demersal,60,TL,3.7,native,Tanganyika,east central africa
+Lacustricola,pumilus,Procatopodidae,benthopelagic,5.5,TL,2.9,native,Tanganyika,east central africa
+Lamprichthys,tanganicanus,Procatopodidae,benthopelagic,15,SL,3.5,endemic,Tanganyika,east central africa
+Protopterus,aethiopicus,Protopteridae,demersal,200,TL,4.4,native,Tanganyika,east central africa
+Schilbe,durinii,Schilbeidae,demersal,6.5,SL,3.2,questionable,Tanganyika,east central africa
+Schilbe,intermedius,Schilbeidae,pelagic,50,SL,3.6,native,Tanganyika,east central africa
+Tetraodon,mbu,Tetraodontidae,demersal,67,TL,3.6,native,Tanganyika,east central africa
+Alestopetersius,leopoldianus,Alestidae,pelagic,9,TL,3.1,questionable,Victoria,east africa
+Brycinus,jacksonii,Alestidae,pelagic,27,SL,3.2,native,Victoria,east africa
+Brycinus,macrolepidotus,Alestidae,pelagic,53,SL,2.8,questionable,Victoria,east africa
+Brycinus,nurse,Alestidae,pelagic,25,TL,2.5,misidentification,Victoria,east africa
+Brycinus,sadleri,Alestidae,pelagic,13.8,TL,3.2,native,Victoria,east africa
+Amphilius,jacksonii,Amphiliidae,demersal,15,TL,3,native,Victoria,east africa
+Amphilius,kivuensis,Amphiliidae,demersal,10.6,TL,3,questionable,Victoria,east africa
+Amphilius,lujani,Amphiliidae,demersal,12,SL,3,native,Victoria,east africa
+Amphilius,uranoscopus,Amphiliidae,demersal,19.5,TL,2.9,native,Victoria,east africa
+Zaireichthys,rotundiceps,Amphiliidae,demersal,3.8,SL,3.4,questionable,Victoria,east africa
+Ctenopoma,muriei,Anabantidae,benthopelagic,7,SL,3,native,Victoria,east africa
+Anguilla,anguilla,Anguillidae,demersal,133,TL,3.5,introduced,Victoria,east africa
+Bagrus,degeni,Bagridae,demersal,55,TL,4.2,endemic,Victoria,east africa
+Bagrus,docmak,Bagridae,benthopelagic,127,TL,4.1,native,Victoria,east africa
+Micropterus,dolomieu,Centrarchidae,benthopelagic,69,TL,3.6,introduced,Victoria,east africa
+Micropterus,salmoides,Centrarchidae,benthopelagic,97,TL,3.8,introduced,Victoria,east africa
+Astatoreochromis,alluaudi,Cichlidae,benthopelagic,19,SL,3.6,native,Victoria,east africa
+Astatotilapia,burtoni,Cichlidae,benthopelagic,15,SL,3,native,Victoria,east africa
+Coptodon,rendalli,Cichlidae,benthopelagic,45,TL,2.3,introduced,Victoria,east africa
+Coptodon,zillii,Cichlidae,benthopelagic,40,SL,2.5,introduced,Victoria,east africa
+Haplochromis,acidens,Cichlidae,benthopelagic,12.8,SL,3,endemic,Victoria,east africa
+Haplochromis,aelocephalus,Cichlidae,benthopelagic,12,SL,3.3,endemic,Victoria,east africa
+Haplochromis,altigenis,Cichlidae,benthopelagic,20.2,SL,4.2,endemic,Victoria,east africa
+Haplochromis,ampullarostratus,Cichlidae,benthopelagic,7.2,SL,3.3,endemic,Victoria,east africa
+Haplochromis,antleter,Cichlidae,demersal,7,SL,3.3,endemic,Victoria,east africa
+Haplochromis,apogonoides,Cichlidae,benthopelagic,13.2,SL,3.4,native,Victoria,east africa
+Haplochromis,arcanus,Cichlidae,benthopelagic,14.2,SL,4.2,endemic,Victoria,east africa
+Haplochromis,argens,Cichlidae,pelagic,7.6,SL,3.3,endemic,Victoria,east africa
+Haplochromis,argenteus,Cichlidae,benthopelagic,20.2,SL,3.6,native,Victoria,east africa
+Haplochromis,artaxerxes,Cichlidae,benthopelagic,14.7,SL,3.6,endemic,Victoria,east africa
+Haplochromis,azureus,Cichlidae,demersal,9.6,SL,3.4,native,Victoria,east africa
+Haplochromis,barbarae,Cichlidae,benthopelagic,10.6,SL,4,native,Victoria,east africa
+Haplochromis,bareli,Cichlidae,benthopelagic,12.5,SL,4.2,endemic,Victoria,east africa
+Haplochromis,bartoni,Cichlidae,benthopelagic,19.5,SL,4.2,endemic,Victoria,east africa
+Haplochromis,bayoni,Cichlidae,benthopelagic,15.4,SL,4.2,endemic,Victoria,east africa
+Haplochromis,bicolor,Cichlidae,demersal,15,SL,3.6,endemic,Victoria,east africa
+Haplochromis,boops,Cichlidae,benthopelagic,19.4,SL,4.2,endemic,Victoria,east africa
+Haplochromis,brownae,Cichlidae,benthopelagic,10.4,SL,3.9,endemic,Victoria,east africa
+Haplochromis,bwathondii,Cichlidae,pelagic,8.2,SL,3.3,endemic,Victoria,east africa
+Haplochromis,cassius,Cichlidae,benthopelagic,9.8,SL,3.4,endemic,Victoria,east africa
+Haplochromis,cavifrons,Cichlidae,benthopelagic,19.5,SL,4.2,endemic,Victoria,east africa
+Haplochromis,chilotes,Cichlidae,benthopelagic,14.8,SL,3.2,native,Victoria,east africa
+Haplochromis,chlorochrous,Cichlidae,benthopelagic,12,SL,3.6,endemic,Victoria,east africa
+Haplochromis,chromogynos,Cichlidae,benthopelagic,11,SL,3.2,endemic,Victoria,east africa
+Haplochromis,chrysogynaion,Cichlidae,benthopelagic,9.1,SL,4.2,endemic,Victoria,east africa
+Haplochromis,cinctus,Cichlidae,benthopelagic,8.8,SL,2,endemic,Victoria,east africa
+Haplochromis,cinereus,Cichlidae,benthopelagic,8.1,SL,2.6,endemic,Victoria,east africa
+Haplochromis,cnester,Cichlidae,benthopelagic,8.1,SL,3.3,endemic,Victoria,east africa
+Haplochromis,commutabilis,Cichlidae,benthopelagic,10.4,SL,3.3,endemic,Victoria,east africa
+Haplochromis,coprologus,Cichlidae,benthopelagic,7.5,SL,3.3,endemic,Victoria,east africa
+Haplochromis,crassilabris,Cichlidae,benthopelagic,15,TL,3.2,endemic,Victoria,east africa
+Haplochromis,crocopeplus,Cichlidae,benthopelagic,10.1,SL,3.6,endemic,Victoria,east africa
+Haplochromis,cronus,Cichlidae,benthopelagic,13.5,SL,4,native,Victoria,east africa
+Haplochromis,cryptodon,Cichlidae,benthopelagic,13,SL,4,endemic,Victoria,east africa
+Haplochromis,cryptogramma,Cichlidae,benthopelagic,9.4,SL,3.4,endemic,Victoria,east africa
+Haplochromis,cyaneus,Cichlidae,benthopelagic,10.7,SL,2.6,endemic,Victoria,east africa
+Haplochromis,decticostoma,Cichlidae,benthopelagic,22.9,SL,4,endemic,Victoria,east africa
+Haplochromis,degeni,Cichlidae,demersal,15.4,SL,3.2,endemic,Victoria,east africa
+Haplochromis,dentex,Cichlidae,benthopelagic,15.9,SL,4.2,endemic,Victoria,east africa
+Haplochromis,dichrourus,Cichlidae,benthopelagic,18.6,SL,4,endemic,Victoria,east africa
+Haplochromis,diplotaenia,Cichlidae,benthopelagic,11,SL,4.2,endemic,Victoria,east africa
+Haplochromis,dolichorhynchus,Cichlidae,benthopelagic,11.9,SL,3.4,native,Victoria,east africa
+Haplochromis,empodisma,Cichlidae,benthopelagic,11.7,SL,2.9,endemic,Victoria,east africa
+Haplochromis,erythrocephalus,Cichlidae,benthopelagic,7.7,SL,2.5,native,Victoria,east africa
+Haplochromis,erythromaculatus,Cichlidae,benthopelagic,10.3,SL,3.3,endemic,Victoria,east africa
+Haplochromis,estor,Cichlidae,benthopelagic,17,SL,4.2,endemic,Victoria,east africa
+Haplochromis,eutaenia,Cichlidae,benthopelagic,10.5,TL,3.6,native,Victoria,east africa
+Haplochromis,exspectatus,Cichlidae,benthopelagic,8.5,SL,3.3,endemic,Victoria,east africa
+Haplochromis,fischeri,Cichlidae,benthopelagic,10.5,SL,3.3,endemic,Victoria,east africa
+Haplochromis,flavipinnis,Cichlidae,benthopelagic,15.6,SL,4.2,native,Victoria,east africa
+Haplochromis,flavus,Cichlidae,benthopelagic,11.9,SL,2.3,native,Victoria,east africa
+Haplochromis,fusiformis,Cichlidae,benthopelagic,11,SL,3.3,native,Victoria,east africa
+Haplochromis,gigas,Cichlidae,demersal,14.2,SL,2,native,Victoria,east africa
+Haplochromis,gilberti,Cichlidae,benthopelagic,15,SL,4,endemic,Victoria,east africa
+Haplochromis,goldschmidti,Cichlidae,pelagic,6.9,SL,3.3,endemic,Victoria,east africa
+Haplochromis,gowersii,Cichlidae,benthopelagic,22.4,SL,4.2,native,Victoria,east africa
+Haplochromis,granti,Cichlidae,benthopelagic,12.2,SL,3.4,endemic,Victoria,east africa
+Haplochromis,greenwoodi,Cichlidae,demersal,13.5,SL,3.2,native,Victoria,east africa
+Haplochromis,guiarti,Cichlidae,benthopelagic,17.7,SL,4.2,endemic,Victoria,east africa
+Haplochromis,harpakteridion,Cichlidae,benthopelagic,8.1,SL,4.2,endemic,Victoria,east africa
+Haplochromis,heusinkveldi,Cichlidae,benthopelagic,7.6,SL,3.4,native,Victoria,east africa
+Haplochromis,hiatus,Cichlidae,benthopelagic,11.2,SL,3.2,endemic,Victoria,east africa
+Haplochromis,howesi,Cichlidae,benthopelagic,16.3,SL,3.5,endemic,Victoria,east africa
+Haplochromis,humilior,Cichlidae,benthopelagic,9,SL,2.6,endemic,Victoria,east africa
+Haplochromis,igneopinnis,Cichlidae,demersal,10.8,SL,2,native,Victoria,east africa
+Haplochromis,iris,Cichlidae,benthopelagic,11.6,SL,3.2,native,Victoria,east africa
+Haplochromis,ishmaeli,Cichlidae,benthopelagic,13.6,SL,3.6,native,Victoria,east africa
+Haplochromis,katunzii,Cichlidae,demersal,8,SL,3.3,endemic,Victoria,east africa
+Haplochromis,kujunjui,Cichlidae,benthopelagic,10.3,SL,4.2,endemic,Victoria,east africa
+Haplochromis,labriformis,Cichlidae,benthopelagic,6.2,SL,3.3,endemic,Victoria,east africa
+Haplochromis,lacrimosus,Cichlidae,benthopelagic,9.7,SL,2.8,endemic,Victoria,east africa
+Haplochromis,laparogramma,Cichlidae,benthopelagic,8.5,SL,3.3,native,Victoria,east africa
+Haplochromis,lividus,Cichlidae,benthopelagic,9,SL,2.4,endemic,Victoria,east africa
+Haplochromis,longirostris,Cichlidae,benthopelagic,14.5,SL,3.9,native,Victoria,east africa
+Haplochromis,luteus,Cichlidae,demersal,13.3,SL,2.6,native,Victoria,east africa
+Haplochromis,macrocephalus,Cichlidae,demersal,10.6,SL,3,native,Victoria,east africa
+Haplochromis,macrognathus,Cichlidae,benthopelagic,17.4,SL,4.2,endemic,Victoria,east africa
+Haplochromis,macrops,Cichlidae,benthopelagic,9.1,SL,2.8,endemic,Victoria,east africa
+Haplochromis,maculipinna,Cichlidae,benthopelagic,16.6,SL,3.9,endemic,Victoria,east africa
+Haplochromis,maisomei,Cichlidae,benthopelagic,9.8,SL,4.2,endemic,Victoria,east africa
+Haplochromis,mandibularis,Cichlidae,benthopelagic,17.4,SL,4.2,endemic,Victoria,east africa
+Haplochromis,martini,Cichlidae,benthopelagic,10.4,SL,3.9,endemic,Victoria,east africa
+Haplochromis,maxillaris,Cichlidae,benthopelagic,16,SL,4,endemic,Victoria,east africa
+Haplochromis,mbipi,Cichlidae,demersal,13.1,SL,2.6,native,Victoria,east africa
+Haplochromis,megalops,Cichlidae,benthopelagic,8.1,SL,3.3,endemic,Victoria,east africa
+Haplochromis,melanopterus,Cichlidae,benthopelagic,12.7,SL,4,endemic,Victoria,east africa
+Haplochromis,melanopus,Cichlidae,benthopelagic,10,TL,3.3,native,Victoria,east africa
+Haplochromis,melichrous,Cichlidae,benthopelagic,10.7,SL,3.4,endemic,Victoria,east africa
+Haplochromis,mento,Cichlidae,benthopelagic,17.8,SL,4.2,endemic,Victoria,east africa
+Haplochromis,michaeli,Cichlidae,benthopelagic,14.5,SL,4.2,endemic,Victoria,east africa
+Haplochromis,microdon,Cichlidae,benthopelagic,14.8,SL,4,endemic,Victoria,east africa
+Haplochromis,mylergates,Cichlidae,benthopelagic,13.7,SL,3.4,endemic,Victoria,east africa
+Haplochromis,nanoserranus,Cichlidae,benthopelagic,7.6,SL,3.8,endemic,Victoria,east africa
+Haplochromis,nigrescens,Cichlidae,benthopelagic,11.5,TL,4.2,endemic,Victoria,east africa
+Haplochromis,nigricans,Cichlidae,benthopelagic,9.4,SL,2.2,native,Victoria,east africa
+Haplochromis,niloticus,Cichlidae,benthopelagic,10.2,SL,3.3,endemic,Victoria,east africa
+Haplochromis,nubilus,Cichlidae,benthopelagic,9.3,SL,3.3,native,Victoria,east africa
+Haplochromis,nuchisquamulatus,Cichlidae,benthopelagic,11.3,SL,2,native,Victoria,east africa
+Haplochromis,nyanzae,Cichlidae,benthopelagic,17.1,SL,4.2,endemic,Victoria,east africa
+Haplochromis,nyererei,Cichlidae,benthopelagic,7.7,SL,2.6,native,Victoria,east africa
+Haplochromis,obesus,Cichlidae,benthopelagic,17,SL,4,native,Victoria,east africa
+Haplochromis,obliquidens,Cichlidae,benthopelagic,8.9,SL,2,native,Victoria,east africa
+Haplochromis,obtusidens,Cichlidae,benthopelagic,11.4,SL,3.1,endemic,Victoria,east africa
+Haplochromis,oligolepis,Cichlidae,benthopelagic,8.3,SL,3.3,endemic,Victoria,east africa
+Haplochromis,omnicaeruleus,Cichlidae,demersal,11.9,SL,2,native,Victoria,east africa
+Haplochromis,pachycephalus,Cichlidae,benthopelagic,23.2,SL,4.2,endemic,Victoria,east africa
+Haplochromis,pallidus,Cichlidae,benthopelagic,7.4,SL,2.6,endemic,Victoria,east africa
+Haplochromis,pancitrinus,Cichlidae,benthopelagic,8.6,SL,3.3,endemic,Victoria,east africa
+Haplochromis,paraguiarti,Cichlidae,benthopelagic,15.6,SL,3.2,endemic,Victoria,east africa
+Haplochromis,paraplagiostoma,Cichlidae,benthopelagic,9.8,SL,3.3,endemic,Victoria,east africa
+Haplochromis,paropius,Cichlidae,benthopelagic,8.7,SL,2.3,endemic,Victoria,east africa
+Haplochromis,parorthostoma,Cichlidae,benthopelagic,11.7,SL,3.4,endemic,Victoria,east africa
+Haplochromis,parvidens,Cichlidae,benthopelagic,16.3,SL,4,endemic,Victoria,east africa
+Haplochromis,pellegrini,Cichlidae,benthopelagic,10.4,SL,3.5,endemic,Victoria,east africa
+Haplochromis,percoides,Cichlidae,benthopelagic,9.3,SL,4.2,endemic,Victoria,east africa
+Haplochromis,perrieri,Cichlidae,benthopelagic,6,SL,4.2,endemic,Victoria,east africa
+Haplochromis,pharyngomylus,Cichlidae,benthopelagic,12.6,SL,3.2,endemic,Victoria,east africa
+Haplochromis,phytophagus,Cichlidae,benthopelagic,8.6,SL,2,endemic,Victoria,east africa
+Haplochromis,piceatus,Cichlidae,benthopelagic,9,SL,3.3,endemic,Victoria,east africa
+Haplochromis,pitmani,Cichlidae,benthopelagic,5.5,TL,4.2,endemic,Victoria,east africa
+Haplochromis,plagiodon,Cichlidae,benthopelagic,8.5,SL,3.2,native,Victoria,east africa
+Haplochromis,plagiostoma,Cichlidae,benthopelagic,14.7,SL,4.4,native,Victoria,east africa
+Haplochromis,plutonius,Cichlidae,benthopelagic,9.6,SL,3.6,native,Victoria,east africa
+Haplochromis,prodromus,Cichlidae,benthopelagic,13,SL,3.4,native,Victoria,east africa
+Haplochromis,prognathus,Cichlidae,benthopelagic,14.1,SL,3.1,native,Victoria,east africa
+Haplochromis,pseudopellegrini,Cichlidae,benthopelagic,15,SL,4.2,native,Victoria,east africa
+Haplochromis,ptistes,Cichlidae,benthopelagic,10.6,SL,3.6,native,Victoria,east africa
+Haplochromis,pundamilia,Cichlidae,demersal,12.4,SL,3.7,native,Victoria,east africa
+Haplochromis,pyrrhocephalus,Cichlidae,benthopelagic,7.3,SL,3.3,native,Victoria,east africa
+Haplochromis,pyrrhopteryx,Cichlidae,benthopelagic,19.7,SL,4.1,endemic,Victoria,east africa
+Haplochromis,retrodens,Cichlidae,benthopelagic,14.4,SL,3.3,native,Victoria,east africa
+Haplochromis,riponianus,Cichlidae,benthopelagic,10.4,SL,3.2,native,Victoria,east africa
+Haplochromis,rubripinnis,Cichlidae,pelagic,10.4,SL,3.3,native,Victoria,east africa
+Haplochromis,rufocaudalis,Cichlidae,demersal,10,SL,2,native,Victoria,east africa
+Haplochromis,rufus,Cichlidae,demersal,8.6,SL,3.3,native,Victoria,east africa
+Haplochromis,sauvagei,Cichlidae,benthopelagic,10.5,SL,2.7,native,Victoria,east africa
+Haplochromis,saxicola,Cichlidae,benthopelagic,12.3,SL,3.4,native,Victoria,east africa
+Haplochromis,serranus,Cichlidae,benthopelagic,20.5,SL,4.2,native,Victoria,east africa
+Haplochromis,simotes,Cichlidae,demersal,8.7,SL,3.3,native,Victoria,east africa
+Haplochromis,spekii,Cichlidae,benthopelagic,22,SL,4.2,native,Victoria,east africa
+Haplochromis,sphex,Cichlidae,benthopelagic,8.2,SL,3.3,endemic,Victoria,east africa
+Haplochromis,squamipinnis,Cichlidae,benthopelagic,20.2,SL,3.2,introduced,Victoria,east africa
+Haplochromis,squamulatus,Cichlidae,benthopelagic,19.8,SL,4.2,native,Victoria,east africa
+Haplochromis,sulphureus,Cichlidae,benthopelagic,10.9,SL,3.3,native,Victoria,east africa
+Haplochromis,tanaos,Cichlidae,benthopelagic,7.7,SL,3.3,endemic,Victoria,east africa
+Haplochromis,teegelaari,Cichlidae,benthopelagic,10.1,SL,3.1,native,Victoria,east africa
+Haplochromis,teunisrasi,Cichlidae,benthopelagic,9.6,SL,3.3,native,Victoria,east africa
+Haplochromis,theliodon,Cichlidae,benthopelagic,9.5,SL,3.2,native,Victoria,east africa
+Haplochromis,thereuterion,Cichlidae,benthopelagic,8.2,SL,3.3,endemic,Victoria,east africa
+Haplochromis,thuragnathus,Cichlidae,benthopelagic,20,SL,4.2,native,Victoria,east africa
+Haplochromis,tridens,Cichlidae,benthopelagic,11.9,SL,2.8,native,Victoria,east africa
+Haplochromis,tyrianthinus,Cichlidae,benthopelagic,10.5,SL,3.5,native,Victoria,east africa
+Haplochromis,ushindi,Cichlidae,benthopelagic,22.6,SL,3.5,endemic,Victoria,east africa
+Haplochromis,vanoijeni,Cichlidae,demersal,8.9,SL,3.3,endemic,Victoria,east africa
+Haplochromis,victoriae,Cichlidae,benthopelagic,7.6,SL,3.3,native,Victoria,east africa
+Haplochromis,victorianus,Cichlidae,benthopelagic,16.6,SL,4.2,native,Victoria,east africa
+Haplochromis,vonlinnei,Cichlidae,demersal,15.9,SL,3.4,native,Victoria,east africa
+Haplochromis,welcommei,Cichlidae,benthopelagic,10.5,SL,3.3,native,Victoria,east africa
+Haplochromis,xanthopteryx,Cichlidae,demersal,10.7,SL,3.1,native,Victoria,east africa
+Haplochromis,xenognathus,Cichlidae,benthopelagic,11.3,SL,2.9,native,Victoria,east africa
+Haplochromis,xenostoma,Cichlidae,benthopelagic,20.3,SL,4.2,native,Victoria,east africa
+Oreochromis,esculentus,Cichlidae,benthopelagic,50,SL,2.5,native,Victoria,east africa
+Oreochromis,leucostictus,Cichlidae,benthopelagic,36.3,SL,2.3,introduced,Victoria,east africa
+Oreochromis,niloticus,Cichlidae,benthopelagic,60,SL,2,introduced,Victoria,east africa
+Oreochromis,variabilis,Cichlidae,benthopelagic,30,SL,2,native,Victoria,east africa
+Sarotherodon,galilaeus,Cichlidae,demersal,39.5,TL,2.8,native,Victoria,east africa
+Clariallabes,petricola,Clariidae,demersal,8.5,SL,3.5,native,Victoria,east africa
+Clarias,alluaudi,Clariidae,demersal,23,TL,3.2,native,Victoria,east africa
+Clarias,gariepinus,Clariidae,benthopelagic,170,TL,3.8,native,Victoria,east africa
+Clarias,liocephalus,Clariidae,demersal,32,TL,3.3,native,Victoria,east africa
+Clarias,werneri,Clariidae,demersal,23,TL,3.1,native,Victoria,east africa
+Xenoclarias,eupogon,Clariidae,demersal,20.9,SL,3.4,endemic,Victoria,east africa
+Clypeobarbus,pleuropholis,Cyprinidae,benthopelagic,3.3,SL,3,error,Victoria,east africa
+Enteromius,alberti,Cyprinidae,benthopelagic,7.4,SL,3,native,Victoria,east africa
+Enteromius,apleurogramma,Cyprinidae,benthopelagic,5.4,SL,2.9,native,Victoria,east africa
+Enteromius,jacksoni,Cyprinidae,benthopelagic,11.6,SL,3,native,Victoria,east africa
+Enteromius,kerstenii,Cyprinidae,benthopelagic,9,SL,3,native,Victoria,east africa
+Enteromius,loveridgii,Cyprinidae,benthopelagic,6.6,SL,3,endemic,Victoria,east africa
+Enteromius,magdalenae,Cyprinidae,benthopelagic,6.8,SL,3,endemic,Victoria,east africa
+Enteromius,neumayeri,Cyprinidae,benthopelagic,11.8,SL,3,native,Victoria,east africa
+Enteromius,nyanzae,Cyprinidae,benthopelagic,7,SL,3,endemic,Victoria,east africa
+Enteromius,paludinosus,Cyprinidae,benthopelagic,15,SL,2.9,native,Victoria,east africa
+Enteromius,profundus,Cyprinidae,benthopelagic,6.3,SL,3.2,endemic,Victoria,east africa
+Enteromius,radiatus,Cyprinidae,benthopelagic,12,SL,2.8,native,Victoria,east africa
+Enteromius,serengetiensis,Cyprinidae,pelagic,4,SL,3,endemic,Victoria,east africa
+Enteromius,sexradiatus,Cyprinidae,benthopelagic,5.6,SL,3,endemic,Victoria,east africa
+Enteromius,trispilopleura,Cyprinidae,benthopelagic,4.5,TL,3,native,Victoria,east africa
+Enteromius,viktorianus,Cyprinidae,benthopelagic,7.1,TL,3,endemic,Victoria,east africa
+Enteromius,yongei,Cyprinidae,benthopelagic,5.6,SL,2.3,endemic,Victoria,east africa
+Garra,dembeensis,Cyprinidae,benthopelagic,11,SL,2,native,Victoria,east africa
+Labeo,victorianus,Cyprinidae,benthopelagic,41,SL,2.4,native,Victoria,east africa
+Labeo,werneri,Cyprinidae,benthopelagic,31.3,TL,2.3,endemic,Victoria,east africa
+Labeobarbus,acuticeps,Cyprinidae,benthopelagic,40.3,TL,3.2,endemic,Victoria,east africa
+Labeobarbus,altianalis,Cyprinidae,benthopelagic,90,TL,3.4,native,Victoria,east africa
+Labeobarbus,claudinae,Cyprinidae,benthopelagic,30,TL,3.2,endemic,Victoria,east africa
+Labeobarbus,microbarbis,Cyprinidae,benthopelagic,27,TL,3.2,extirpated,Victoria,east africa
+Labeobarbus,platystomus,Cyprinidae,benthopelagic,21,TL,3.2,endemic,Victoria,east africa
+Labeobarbus,ruandae,Cyprinidae,benthopelagic,26.2,SL,3.2,endemic,Victoria,east africa
+Labeobarbus,ruasae,Cyprinidae,benthopelagic,49.5,TL,3.2,endemic,Victoria,east africa
+Labeobarbus,somereni,Cyprinidae,benthopelagic,40,SL,3.2,native,Victoria,east africa
+Xenobarbus,loveridgei,Cyprinidae,benthopelagic,9,SL,2.9,endemic,Victoria,east africa
+Rastrineobola,argentea,Danionidae,pelagic,8,TL,3.4,native,Victoria,east africa
+Lates,niloticus,Latidae,demersal,200,TL,4.5,introduced,Victoria,east africa
+Mastacembelus,frenatus,Mastacembelidae,demersal,40,SL,3.9,native,Victoria,east africa
+Chiloglanis,somereni,Mochokidae,benthopelagic,10,SL,3.2,native,Victoria,east africa
+Synodontis,afrofischeri,Mochokidae,benthopelagic,17.7,SL,3.4,native,Victoria,east africa
+Synodontis,ruandae,Mochokidae,benthopelagic,16.2,TL,2.9,endemic,Victoria,east africa
+Synodontis,victoriae,Mochokidae,benthopelagic,35,SL,3.3,native,Victoria,east africa
+Cyphomyrus,grahami,Mormyridae,benthopelagic,25,SL,3.2,native,Victoria,east africa
+Gnathonemus,longibarbis,Mormyridae,demersal,36,TL,3.2,native,Victoria,east africa
+Marcusenius,macrolepidotus,Mormyridae,demersal,32,TL,3.2,questionable,Victoria,east africa
+Marcusenius,rheni,Mormyridae,demersal,20.8,TL,3.1,endemic,Victoria,east africa
+Marcusenius,victoriae,Mormyridae,demersal,26,TL,3.3,native,Victoria,east africa
+Mormyrus,kannume,Mormyridae,demersal,100,SL,3.2,native,Victoria,east africa
+Mormyrus,macrocephalus,Mormyridae,demersal,42,TL,3.2,questionable,Victoria,east africa
+Petrocephalus,catostoma,Mormyridae,demersal,15,FL,3.4,native,Victoria,east africa
+Petrocephalus,degeni,Mormyridae,demersal,8.1,SL,3.2,endemic,Victoria,east africa
+Pollimyrus,nigricans,Mormyridae,demersal,10,SL,3.4,native,Victoria,east africa
+Nothobranchius,attenboroughi,Nothobranchiidae,benthopelagic,4.4,SL,3.2,endemic,Victoria,east africa
+Nothobranchius,derhami,Nothobranchiidae,benthopelagic,3.8,SL,3.2,endemic,Victoria,east africa
+Nothobranchius,moameensis,Nothobranchiidae,benthopelagic,4.3,SL,3.2,endemic,Victoria,east africa
+Nothobranchius,ottoschmidti,Nothobranchiidae,benthopelagic,5.5,SL,3.2,native,Victoria,east africa
+Nothobranchius,robustus,Nothobranchiidae,benthopelagic,5.5,TL,3.2,native,Victoria,east africa
+Nothobranchius,sagittae,Nothobranchiidae,pelagic,3.9,SL,3.2,endemic,Victoria,east africa
+Nothobranchius,serengetiensis,Nothobranchiidae,pelagic,4.8,SL,3.2,endemic,Victoria,east africa
+Nothobranchius,skeltoni,Nothobranchiidae,benthopelagic,5.3,SL,3.2,endemic,Victoria,east africa
+Nothobranchius,sonjae,Nothobranchiidae,benthopelagic,4.4,SL,3.2,native,Victoria,east africa
+Nothobranchius,taeniopygus,Nothobranchiidae,benthopelagic,3.6,SL,3.2,native,Victoria,east africa
+Nothobranchius,ugandensis,Nothobranchiidae,benthopelagic,5,SL,3.2,native,Victoria,east africa
+Nothobranchius,venustus,Nothobranchiidae,benthopelagic,3.6,SL,3.2,endemic,Victoria,east africa
+Gambusia,holbrooki,Poeciliidae,benthopelagic,8,TL,3.1,introduced,Victoria,east africa
+Poecilia,reticulata,Poeciliidae,benthopelagic,6,SL,3.2,introduced,Victoria,east africa
+Lacustricola,atripinna,Procatopodidae,benthopelagic,3.8,TL,3,questionable,Victoria,east africa
+Lacustricola,bukobanus,Procatopodidae,benthopelagic,5,TL,3,native,Victoria,east africa
+Lacustricola,centralis,Procatopodidae,benthopelagic,3.3,TL,3,native,Victoria,east africa
+Lacustricola,pumilus,Procatopodidae,benthopelagic,5.5,TL,2.9,misidentification,Victoria,east africa
+Lacustricola,vitschumbaensis,Procatopodidae,benthopelagic,5.5,TL,2.9,native,Victoria,east africa
+Micropanchax,fuelleborni,Procatopodidae,benthopelagic,3.5,TL,3.1,questionable,Victoria,east africa
+Micropanchax,loati,Procatopodidae,benthopelagic,4,TL,3.2,native,Victoria,east africa
+Protopterus,aethiopicus,Protopteridae,demersal,200,TL,4.4,native,Victoria,east africa
+Schilbe,intermedius,Schilbeidae,pelagic,50,SL,3.6,native,Victoria,east africa
+Schilbe,mystus,Schilbeidae,demersal,35,SL,3.5,questionable,Victoria,east africa
