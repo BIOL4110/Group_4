@@ -1,0 +1,62 @@
+Genus,Species,Family,Lake,DepthRangeDeep,Length..cm.,measurement,LongevityWild,Continent
+Acipenser,fulvescens,Acipenseridae,Great Lakes,9,274,TL,152,North America
+Ambloplites,rupestris,Centrarchidae,Great Lakes,21,43,TL,18,North America
+Ameiurus,nebulosus,Ictaluridae,Great Lakes,12,55,TL,9,North America
+Anguilla,anguilla,Anguillidae,Victoria,700,133,TL,23,Africa
+Anguilla,rostrata,Anguillidae,Great Lakes,464,152,TL,43,North America
+Bagrus,docmak,Bagridae,Albert,80,127,TL,5,Africa
+Bagrus,docmak,Bagridae,Edward,80,127,TL,5,Africa
+Bagrus,docmak,Bagridae,Turkana,80,127,TL,5,Africa
+Bagrus,docmak,Bagridae,Victoria,80,127,TL,5,Africa
+Bagrus,docmak,Bagridae,Tanganyika,80,127,TL,5,Africa
+Catostomus,catostomus,Catostomidae,Great Lakes,180,64,TL,20,North America
+Clarias,gariepinus,Clariidae,Kivu,80,170,TL,15,Africa
+Clarias,gariepinus,Clariidae,Edward,80,170,TL,15,Africa
+Clarias,gariepinus,Clariidae,Tanganyika,80,170,TL,15,Africa
+Clarias,gariepinus,Clariidae,Malawi,80,170,TL,15,Africa
+Clarias,gariepinus,Clariidae,Turkana,80,170,TL,15,Africa
+Clarias,gariepinus,Clariidae,Victoria,80,170,TL,15,Africa
+Coptodon,rendalli,Cichlidae,Victoria,8,45,TL,7,Africa
+Coptodon,rendalli,Cichlidae,Malawi,8,45,TL,7,Africa
+Coptodon,rendalli,Cichlidae,Kivu,8,45,TL,7,Africa
+Coptodon,rendalli,Cichlidae,Tanganyika,8,45,TL,7,Africa
+Coregonus,artedi,Salmonidae,Great Lakes,64,57,TL,11,North America
+Coregonus,clupeaformis,Salmonidae,Great Lakes,128,100,TL,50,North America
+Coregonus,hoyi,Salmonidae,Great Lakes,190,37,TL,11,North America
+Coregonus,nigripinnis,Salmonidae,Great Lakes,160,39,TL,14,North America
+Coregonus,zenithicus,Salmonidae,Great Lakes,180,40,TL,11,North America
+Cottus,bairdii,Cottidae,Great Lakes,16,15,TL,2,North America
+Cottus,cognatus,Cottidae,Great Lakes,128,12.1,TL,7,North America
+Ctenopharyngodon,idella,Xenocyprididae,Great Lakes,30,150,TL,21,North America
+Culaea,inconstans,Gasterosteidae,Great Lakes,55,8.7,TL,2,North America
+Cyprinus,carpio,Cyprinidae,Great Lakes,29,120,TL,38,North America
+Esox,lucius,Esocidae,Great Lakes,30,150,TL,30,North America
+Esox,niger,Esocidae,Great Lakes,6,99,TL,9,North America
+Gymnocephalus,cernua,Percidae,Great Lakes,85,25,TL,10,North America
+Ichthyomyzon,unicuspis,Petromyzontidae,Great Lakes,31,39.2,TL,8,North America
+Ictalurus,punctatus,Ictaluridae,Great Lakes,15,132,TL,24,North America
+Lepomis,gibbosus,Centrarchidae,Great Lakes,41,40,TL,12,North America
+Lota,lota,Lotidae,Great Lakes,700,152,TL,20,North America
+Micropterus,dolomieu,Centrarchidae,Victoria,7,69,TL,26,Africa
+Micropterus,dolomieu,Centrarchidae,Great Lakes,7,69,TL,26,North America
+Micropterus,salmoides,Centrarchidae,Victoria,6,97,TL,23,Africa
+Micropterus,salmoides,Centrarchidae,Great Lakes,6,97,TL,23,North America
+Morone,americana,Moronidae,Great Lakes,10,58,TL,16,North America
+Morone,chrysops,Moronidae,Great Lakes,13,45,TL,9,North America
+Neogobius,melanostomus,Gobiidae,Great Lakes,30,35,TL,6,North America
+Oncorhynchus,clarkii,Salmonidae,Great Lakes,200,99,TL,11,North America
+Oncorhynchus,gorbuscha,Salmonidae,Great Lakes,250,76,TL,3,North America
+Oncorhynchus,kisutch,Salmonidae,Great Lakes,250,108,TL,5,North America
+Oncorhynchus,mykiss,Salmonidae,Great Lakes,200,122,TL,11,North America
+Oncorhynchus,nerka,Salmonidae,Great Lakes,250,84,TL,8,North America
+Oncorhynchus,tshawytscha,Salmonidae,Great Lakes,375,150,TL,9,North America
+Osmerus,mordax,Osmeridae,Great Lakes,425,35.6,TL,7,North America
+Perca,flavescens,Percidae,Great Lakes,56,50,TL,11,North America
+Percopsis,omiscomaycus,Percopsidae,Great Lakes,61,20,TL,4,North America
+Petromyzon,marinus,Petromyzontidae,Great Lakes,4099,120,TL,11,North America
+Prosopium,coulterii,Salmonidae,Great Lakes,168,28,TL,9,North America
+Prosopium,cylindraceum,Salmonidae,Great Lakes,72,59,TL,16,North America
+Pungitius,pungitius,Gasterosteidae,Great Lakes,110,9,TL,5,North America
+Salmo,salar,Salmonidae,Great Lakes,210,150,TL,13,North America
+Salvelinus,alpinus,Salmonidae,Great Lakes,70,107,TL,40,North America
+Salvelinus,namaycush,Salmonidae,Great Lakes,61,150,TL,50,North America
