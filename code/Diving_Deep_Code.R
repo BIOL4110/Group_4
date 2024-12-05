@@ -105,3 +105,14 @@ summary(depth_lenght_lm)
 depth_lenght_shape_lm <- lm(DepthRangeDeep ~ MaxLength + BodyShape ,data = fishc)
 summary(depth_lenght_shape_lm)
 
+#Visreg plots
+
+visreg1 <- visreg(lm1)
+visreg2 <- visreg(lm2)
+
+
+
+
+
+
+
